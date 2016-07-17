@@ -1,0 +1,39 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 11
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+-clīnō, -clīnāre, -clīnavī, -clīnātus : bend
+inclīnō, inclīnāre, inclīnavī, inclīnātus : bow, lean forward
+reclīnō, reclīnāre, reclīnavī, reclīnātus : lean back, recline
+exsultō, exsultāre, exsultāvī, exsultātus : rejoice, exult
+glōrificō, glōrificāre, glōrificāvī, glōrificātus : glorify 
+conglōrificō, conglōrificāre, conglōrificāvī, conglōrificātus : glorify (exceedingly)
+gregō, gregāre, gregāvī, gregātus : gather, assemble
+aggregō, aggregāre, aggregāvī, aggregātus : add to; join with 
+congregō, congregāre, congregāvī, congregātus : gather together, assemble
+sēgregō, sēgregāre, sēgregāvī, sēgregātus : separate
+parō, parāre, parāvī, parātus : provide, prepare
+praeparō, praeparāre, praeparāvī, praeparātus : prepare
+resultō, resultāre, resultāvī, resultātus : resound, rebound
+sānctificō, sānctificāre, sānctificāvī, sānctificātus : make holy, sanctify
+aperiō, aperīre, aperuī, apertus : open; explain
+Adam, Adae, m. : Adam
+aula, aulae, f. : hall, church
+columna, columnae, f. : pillar, column
+creātūra, creātūrae, f. : creation, creature
+flamma, flammae, f. : flame
+hostia, hostiae, f. : sacrificial offering, host
+innocentia, innocentiae, f. : innocense
+Pascha, Paschae, f. : Passover, Pesach, Pasch; Easter
+prophēta, prophētae, m. : prophet
+scrīptūra, scrīptūrae, f. : writing, scripture
+cibus, cibī, m. : food
+Paulus, Paulī, m. : Paul
+dolōrōsus, -a, -um : sorrowful
+laetus, -a, -um : joyful
+parvus, -a, -um : little, small
+parvulus, -a, -um : little, small
+tertius, -a, -um : third
+apud (prep. + acc.) : in the presence of, among, at the house of
+hinc (adv.) : from here
+ob (prep. + acc.) : because of
+#end

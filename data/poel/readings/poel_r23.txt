@@ -1,0 +1,49 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 23
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+testificor : testify (to)
+dēpositum, dēpositī, n. : deposit
+recēns, recentis : new, recent
+tūtor : protect, preserve
+vicissim : in turn
+mōmentum, mōmentī, n. : importance
+gradus, gradūs, m. : step
+dēsignō : mark
+iterō : repeat
+longē : far, by far
+cōnsilium, cōnsiliī, n. : suggestion
+saecula : centuries
+nē ... quidem : not even
+rēapse : indeed
+flāgitō : demand
+peragō : accomplish, perform
+ūsurpō : use, make use of
+trālātīcius, -a, -um : traditional
+dēnuō : anew, again
+inculcō : inculate, stress, emphasize
+proinde : accordingly
+idcircō : therefore
+ērudītiō, ērudītiōnis, f. : teaching
+expedīre : be advantageous
+passim : far and wide
+cēnseō, cēnsēre, cēnsuī, cēnsus : have an opinion
+nihilōminus : nevertheless
+hinc ... illinc : on the one hand ... on the other hand
+congruēns, congruentis : appropriate
+mandō : order
+inter : during
+expōnō : explain
+dēclārō : make clear, explain
+praesertim : especially
+funditus : completely
+quemadmodum : just as
+indolēs, indolis, f. : quality, nature
+haud : not
+ūsurpātiō, ūsurpātiōnis, f. : use
+adhibeō : apply, employ
+facultās, facultātis, f. : possibility, opportunity
+flagrāns, flagrantis : flaming, eager
+studium, studiī, n. : enthusiasm, zeal
+ubvīs : everywhere
+profectō : indeed
+# end

@@ -1,0 +1,11 @@
+<div>
+    <div class="word-group" ng-repeat="(k,v) in data | caseSort">
+<!--        <span ng-if="first" class="legend"">{{k}}</span>-->
+        <span ng-if="v[0].highlight" ng-class="v[0].highlight">{{v[0].value}}</span>
+        <span ng-if="!v[0].highlight">{{v[0]}}</span>
+        <span>{{v[1]}}</span>
+        <span>{{v[2]}}</span>
+        <span>{{v[3]}}</span>
+        <span>{{v[4]}}</span>
+    </div>
+</div>

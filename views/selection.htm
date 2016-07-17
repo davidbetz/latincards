@@ -1,0 +1,5 @@
+<div>
+    <ul class="section-selector">
+        <li ng-class="item.selected === true ? 'selected' : ''" ng-click="jump(item.group, item.id, item.name)" ng-repeat="item in selections">{{item.label}}</li>
+    </ul>
+</div>

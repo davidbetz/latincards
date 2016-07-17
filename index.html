@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html data-ng-app="app" data-ng-csp="">
+<head>
+    <title>Latin</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="/css/site.css" rel="stylesheet"/>
+
+    <link href="/areas/adjectives/css/site.css" rel="stylesheet"/>
+    <link href="/areas/intensive/css/site.css" rel="stylesheet"/>
+    <link href="/areas/irregular/css/site.css" rel="stylesheet"/>
+    <link href="/areas/nouns/css/site.css" rel="stylesheet"/>
+    <link href="/areas/poel/css/site.css" rel="stylesheet"/>
+    <link href="/areas/pronouns/css/site.css" rel="stylesheet"/>
+    <link href="/areas/verbs/css/site.css" rel="stylesheet"/>
+    <link href="/areas/vocab/css/site.css" rel="stylesheet"/>
+    <base href="/" />
+</head>
+<body data-ng-cloak="" class="ng-cloak" data-ng-controller="indexController">
+    <div id="body">
+        <div id="menu">
+            <selection selections="selections" />
+        </div>
+        <div id="spacer"></div>
+        <div id="content" data-ng-view=""></div>
+    </div>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.7/angular.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.7/angular-route.min.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/x2js/1.2.0/xml2json.js"></script>
+
+    <script src="/app.js"></script>
+    <script src="/controllers/indexController.js"></script>
+    <script src="/services/serviceCache.js"></script>
+    <script src="/services/serviceBase.js"></script>
+    <script src="/directives/selection.js"></script>
+
+    <script src="/areas/adjectives/app.js"></script>
+    <script src="/areas/adjectives/controllers/indexController.js"></script>
+    <script src="/areas/adjectives/directives/chart.js"></script>
+    <script src="/areas/adjectives/directives/forms.js"></script>
+    <script src="/areas/adjectives/directives/viewer.js"></script>
+    <script src="/areas/adjectives/filters/caseSort.js"></script>
+    <script src="/areas/adjectives/services/data.js"></script>
+    <script src="/areas/adjectives/services/decorator.js"></script>
+    <script src="/areas/intensive/app.js"></script>
+    <script src="/areas/intensive/controllers/indexController.js"></script>
+    <script src="/areas/intensive/directives/viewer.js"></script>
+    <script src="/areas/intensive/services/data.js"></script>
+    <script src="/areas/intensive/services/decorator.js"></script>
+    <script src="/areas/irregular/app.js"></script>
+    <script src="/areas/irregular/controllers/indexController.js"></script>
+    <script src="/areas/irregular/directives/viewer.js"></script>
+    <script src="/areas/irregular/services/data.js"></script>
+    <script src="/areas/irregular/services/decorator.js"></script>
+    <script src="/areas/nouns/app.js"></script>
+    <script src="/areas/nouns/controllers/indexController.js"></script>
+    <script src="/areas/nouns/directives/chart.js"></script>
+    <script src="/areas/nouns/directives/forms.js"></script>
+    <script src="/areas/nouns/directives/viewer.js"></script>
+    <script src="/areas/nouns/filters/caseSort.js"></script>
+    <script src="/areas/nouns/services/data.js"></script>
+    <script src="/areas/nouns/services/decorator.js"></script>
+    <script src="/areas/poel/app.js"></script>
+    <script src="/areas/poel/controllers/indexController.js"></script>
+    <script src="/areas/poel/directives/viewer.js"></script>
+    <script src="/areas/poel/services/data.js"></script>
+    <script src="/areas/poel/services/decorator.js"></script>
+    <script src="/areas/pronouns/app.js"></script>
+    <script src="/areas/pronouns/controllers/indexController.js"></script>
+    <script src="/areas/pronouns/directives/chart.js"></script>
+    <script src="/areas/pronouns/directives/forms.js"></script>
+    <script src="/areas/pronouns/directives/viewer.js"></script>
+    <script src="/areas/pronouns/filters/caseSort.js"></script>
+    <script src="/areas/pronouns/services/data.js"></script>
+    <script src="/areas/pronouns/services/decorator.js"></script>
+    <script src="/areas/verbs/app.js"></script>
+    <script src="/areas/verbs/controllers/indexController.js"></script>
+    <script src="/areas/verbs/directives/chart.js"></script>
+    <script src="/areas/verbs/directives/forms.js"></script>
+    <script src="/areas/verbs/directives/viewer.js"></script>
+    <script src="/areas/verbs/services/data.js"></script>
+    <script src="/areas/verbs/services/decorator.js"></script>
+    <script src="/areas/vocab/app.js"></script>
+    <script src="/areas/vocab/controllers/indexController.js"></script>
+    <script src="/areas/vocab/directives/viewer.js"></script>
+    <script src="/areas/vocab/services/data.js"></script>
+    <script src="/areas/vocab/services/decorator.js"></script>
+
+</body>
+</html>

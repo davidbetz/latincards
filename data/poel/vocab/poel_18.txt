@@ -1,0 +1,47 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 18
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+baptizō, baptizāre, baptizāvī, baptizātus : immerse, baptize
+evangelizō, evangelizāre, evangelizāvī, evangelizātus : preach the Gospel
+cēdō, cēdere, cessī, cessus : go, yield
+accēdō, accēdere, accessī, accessus : go to, approach
+concēdō, concēdere, concessī, concessus : yield, grant
+discēdō, discēdere, discessī, discessus : depart
+incēdō, incēdere, incessī, incessus : go, walk
+praecēdō, praecēdere, praecessī, praecessus : go before, lead the way
+prōcēdō, prōcēdere, prōcessī, prōcessus : go forth, proceed
+recēdō, recēdere, recessī, recessus : go back, depart
+claudō, claudere, clausī, clausus : shut, close
+conclūdō, conclūdere, conclūsī, conclūsus : shut up, conclude
+tendō, tendere, tetendī, tentus (tēntus) : stretch, extend
+extendō, extendere, extendī, extentus (extēntus) : stretch out
+intendō, intendere, intendī, intentus (intēntus) : aim (at), look at intently
+ostendō, ostendere, ostendī, ostentus (ostēntus) : show, explain
+interficiō, interficere, interfēcī, interfectus : do away with, kill
+perficiō, perficere, perfēcī, perfectus : do completely, finish, accomplish
+sufficiō, sufficere, suffēcī, suffectus : be enough, be sufficient
+custōdiō, custōdīre, custōdīvī (custōdiī), custōdītus : guard, watch over
+perveniō, pervenīre, pervēnī, perventus : arrive, attain
+subveniō, subvenīre, subvēnī, subventus : come upon, assist, come to help
+superveniō, supervenīre, supervēnī, superventus : come upon, overtake, come up, arrive
+clēmentia, clēmentiae, f. : mercy, clemency
+Lēvīta (Lēvītēs), Lēvitae, m. : deacon, Levite
+Lūcās, Lūcae, m. : Luke
+sapientia, sapientiae, f. : wisdom
+tenebrae, tenebrārum, fpl. : darkness, gloom
+grex, gregis, m. : flock
+pāstor, pāstōris, m. : shepard, pastor
+ars, artis, artium, f. : (practical) knowledge, art
+ascēnsiō, ascēnsiōnis, f. : going up, ascension
+hūmānitās, hūmānitātis, f. : humanity
+lēx, lēgis, f. : law, Torah
+altāre, altāris, altārium, n. : altar
+benīgnus, -a, -um : kindly
+cōtīdiānus, -a, -um : daily
+cōtīdiē : daily
+dēvōtus, -a, -um : devout, devoted
+fēstus, -a, -um : festal
+indēficiēns, indēficientis : unfailing
+circum : around, about
+inde : from there, from then
+#end

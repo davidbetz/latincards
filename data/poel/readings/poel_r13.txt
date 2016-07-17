@@ -1,0 +1,24 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 13
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+caelitus : from heaven
+dator, datōris, m. : giver
+cōnsōlātor, cōnsōlātōris, m. : consoler
+refrigerium, refrigeriī, n. : consolation
+aestus, aestūs, m. : heat
+temperiēs, temperiēī, f. : tempting
+sōlātiu, sōlātiī, n. : solace, comfort
+intima, intimōrum, n. : innermost parts
+nūmen, nūminis, n. : divinity
+innoxius, -a, -um : without harm, innocent
+sordidus, -a, -um : dirty
+rigō : wet, water
+āridus, -a, -um : dry
+saucius, -a, -um : wrounded
+rigidus, -a, -um : stiff
+foveō, fovēre, fōvī, fōtus : warm
+frigidus, -a, -um : cold
+dēvius, -a, -um : off the road, astray
+septēnārius, -a, -um : concerning seven
+exitus, exitūs, m. : outcome
+# end

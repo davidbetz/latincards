@@ -1,0 +1,161 @@
+[{
+    "word": "abeō abīre abiī abitum",
+    "type": "Verb",
+    "gloss": "go away",
+    "definition": "go away",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "absum abesse āfuī āfutūrus",
+    "type": "Verb",
+    "gloss": "be away, be absent",
+    "definition": "be absent, be distant",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "āiō",
+    "type": "Verb",
+    "gloss": "say, affirm, say yes",
+    "definition": "say (defective), assert; say yes/so, affirm, assent; prescribe/lay down (law)",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "adsum adesse adfuī adfutūrus",
+    "type": "Verb",
+    "gloss": "be present",
+    "definition": "improperly influence; undertake/try/attempt/come to grips; begin/set to work",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dēsum deesse defuī",
+    "type": "Verb",
+    "gloss": "be lacking",
+    "definition": "be wanting/lacking; fail/miss; abandon/desert, neglect; be away/absent/missing",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ferō ferre tulī lātus",
+    "type": "Verb",
+    "gloss": "bear, carry",
+    "definition": "bring, bear, carry; endure",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "fiō fierī factus sum",
+    "type": "Verb",
+    "gloss": "become",
+    "definition": "happen, come about; result (from); take place, be held, occur, arise (event); be made/created/instituted/elected/appointed/given; be prepared/done; develop; be made/become; (facio PASS); [fiat => so be it, very well; it is being done]",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "interest interesse interfuīt",
+    "type": "Verb",
+    "gloss": "it is important",
+    "definition": "it is important, it concerns",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "mālō mālle māluī",
+    "type": "Verb",
+    "gloss": "prefer",
+    "definition": "want more, prefer",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nōlō nōlle nōluī",
+    "type": "Verb",
+    "gloss": "be unwilling",
+    "definition": "be unwilling, not want, not wish",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "pereō perīre periī peritūs",
+    "type": "Verb",
+    "gloss": "perish",
+    "definition": "perish, die; pass away, be destroyed, be ruined; go to waste",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "possum posse potuī",
+    "type": "Verb",
+    "gloss": "be able",
+    "definition": "be able, can",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "praeferō praeferre praetulī praelātus",
+    "type": "Verb",
+    "gloss": "prefer",
+    "definition": "prefer",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "praesum praeesse praefuī praefutūrus",
+    "type": "Verb",
+    "gloss": "be before; be present",
+    "definition": "be in charge/control/head (of) (+ dat.); take the lead (in); be present (at)",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "prōsum prōdesse prōfuī prōfutūrus",
+    "type": "Verb",
+    "gloss": "be useful",
+    "definition": "be useful, be advantageous, benefit, profit (+ dat.)",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "redeō redīre rediī reditum",
+    "type": "Verb",
+    "gloss": "go back",
+    "definition": "return, go back, give back; fall back on, revert to; respond, pay back",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "rēfert rēferre rētulit",
+    "type": "Verb",
+    "gloss": "it concerns",
+    "definition": "it is important, it concerns",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "sum esse fuī futūrus",
+    "type": "Verb",
+    "gloss": "be",
+    "definition": "be; exist; (also used to form verb perfect passive tenses) (+ nom. perfect participle)",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "supersum superesse superfuī superfutūrus",
+    "type": "Verb",
+    "gloss": "be left over",
+    "definition": "be left over; survive; be in excess/superfluous (to); remain to be performed",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "volō velle voluī",
+    "type": "Verb",
+    "gloss": "wish",
+    "definition": "be willing, want, wish",
+    "conjugation": "5",
+    "declension": "None",
+    "numbers": "None"
+}]

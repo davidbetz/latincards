@@ -1,0 +1,346 @@
+[
+    {
+        "name": "1st",
+        "ending": "ae",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "a" ],
+                    "g": [ "ae" ],
+                    "d": [ "ae" ],
+                    "c": [ "am" ],
+                    "a": [ "ā" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "ae" ],
+                    "g": [ "ārum" ],
+                    "d": [ "īs" ],
+                    "c": [ "ās" ],
+                    "a": [ "īs" ]
+                }
+            }
+        ],
+        "example": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "stella" ],
+                    "g": [ "stellae" ],
+                    "d": [ "stellae" ],
+                    "c": [ "stellam" ],
+                    "a": [ "stellā" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "stellae" ],
+                    "g": [ "stellārum" ],
+                    "d": [ "stellīs" ],
+                    "c": [ "stellās" ],
+                    "a": [ "stellīs" ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "2nd",
+        "ending": "ī",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "us" ],
+                    "g": [ "ī" ],
+                    "d": [ "ō" ],
+                    "c": [ "um" ],
+                    "a": [ "ō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "ī" ],
+                    "g": [ "orum" ],
+                    "d": [ "īs" ],
+                    "c": [ "os" ],
+                    "a": [ "īs" ]
+                }
+            }
+        ],
+        "example": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "servus" ],
+                    "g": [ "servī" ],
+                    "d": [ "servō" ],
+                    "c": [ "servum" ],
+                    "a": [ "servō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "servī" ],
+                    "g": [ "servorum" ],
+                    "d": [ "servīs" ],
+                    "c": [ "servos" ],
+                    "a": [ "servīs" ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "2ndN",
+        "ending": "ī",
+        "neuter": true,
+        "notes": [
+            "For ALL neuter: 1) N=A and 2) Np && Ap == a"
+        ],
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ { "highlight": "green", "value": "um" } ],
+                    "g": [ "ī" ],
+                    "d": [ "ō" ],
+                    "c": [ { "highlight": "green", "value": "um" } ],
+                    "a": [ "ō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ { "highlight": "green", "value": "a" } ],
+                    "g": [ "orum" ],
+                    "d": [ "īs" ],
+                    "c": [ { "highlight": "green", "value": "a" } ],
+                    "a": [ "īs" ]
+                }
+            }
+        ],
+        "example": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "bellum" ],
+                    "g": [ "bellī" ],
+                    "d": [ "bellō" ],
+                    "c": [ "bellum" ],
+                    "a": [ "bellō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "bella" ],
+                    "g": [ "bellorum" ],
+                    "d": [ "bellīs" ],
+                    "c": [ "bella" ],
+                    "a": [ "bellīs" ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "3rd",
+        "ending": "is",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "-" ],
+                    "g": [ "is" ],
+                    "d": [ "ī" ],
+                    "c": [ "em" ],
+                    "a": [ "e" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "ēs" ],
+                    "g": [ "um" ],
+                    "d": [ "ibus" ],
+                    "c": [ "ēs" ],
+                    "a": [ "ibus" ]
+                }
+            }
+        ],
+        "example": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "prīnceps" ],
+                    "g": [ "prīncipis" ],
+                    "d": [ "prīncipī" ],
+                    "c": [ "prīncipem" ],
+                    "a": [ "prīncipe" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "prīncipēs" ],
+                    "g": [ "prīncipum" ],
+                    "d": [ "prīncipibus" ],
+                    "c": [ "prīncipēs" ],
+                    "a": [ "prīncipibus" ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "3rdN",
+        "ending": "is",
+        "neuter": true,
+        "notes": [
+            "For ALL neuter: 1) N=A and 2) Np && Ap == a"
+        ],
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ { "highlight": "green", "value": "us" } ],
+                    "g": [ "is" ],
+                    "d": [ "ī" ],
+                    "c": [ { "highlight": "green", "value": "us" } ],
+                    "a": [ "e" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ { "highlight": "green", "value": "a" } ],
+                    "g": [ "um" ],
+                    "d": [ "ibus" ],
+                    "c": [ { "highlight": "green", "value": "a" } ],
+                    "a": [ "ibus" ]
+                }
+            }
+        ],
+        "example": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "tempus" ],
+                    "g": [ "temporis" ],
+                    "d": [ "temporī" ],
+                    "c": [ "tempus" ],
+                    "a": [ "tempore" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "tempora" ],
+                    "g": [ "temporum" ],
+                    "d": [ "temporibus" ],
+                    "c": [ "tempora" ],
+                    "a": [ "temporibus" ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "4th",
+        "ending": "ūs",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "us" ],
+                    "g": [ "ūs" ],
+                    "d": [ "uī" ],
+                    "c": [ "um" ],
+                    "a": [ "ū" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "ūs" ],
+                    "g": [ "uum" ],
+                    "d": [ "ibus" ],
+                    "c": [ "ūs" ],
+                    "a": [ "ibus" ]
+                }
+            }
+        ],
+        "example": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "manus" ],
+                    "g": [ "manūs" ],
+                    "d": [ "manuī" ],
+                    "c": [ "manum" ],
+                    "a": [ "manū" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "manūs" ],
+                    "g": [ "manuum" ],
+                    "d": [ "manibus" ],
+                    "c": [ "manūs" ],
+                    "a": [ "manibus" ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "5th",
+        "ending": "eī",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "ēs" ],
+                    "g": [ "eī" ],
+                    "d": [ "eī" ],
+                    "c": [ "em" ],
+                    "a": [ "ē" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "ēs" ],
+                    "g": [ "ērum" ],
+                    "d": [ "ēbus" ],
+                    "c": [ "ēs" ],
+                    "a": [ "ēbus" ]
+                }
+            }
+        ],
+        "example": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "rēs" ],
+                    "g": [ "reī" ],
+                    "d": [ "reī" ],
+                    "c": [ "rem" ],
+                    "a": [ "rē" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "rēs" ],
+                    "g": [ "rērum" ],
+                    "d": [ "rēbus" ],
+                    "c": [ "rēs" ],
+                    "a": [ "rēbus" ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 23
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+amō, amāre, amāvī, amātus : love
+illūminō, illūmināre, illūmināvi, illūminātus : make shine, illuminate, enlighten
+operor, operārī, -, operātus sum : work, perform
+cooperor, cooperārī, -, cooperātus sum : work together, cooperate (with)
+sedeō, sedēre, sēdī, sessus : sit (down), be seated
+tueor, tuērī, -, tuitus sum : watch, protect, uphold
+lābor, lābī, -, lāpsus sum : watch, protect, uphold
+largior, lagīrī, -, largītus sum : slide, (slip and) fall
+dēlicia, dēliciae, f. : pleasure, delight
+factor, factōris, m. : maker, doer
+ōrdō, ōrdonis, m. : rank, order
+cōgitātiō, cōgitātiōnis, f. : thought
+commemorātiō, commemorātiōnis, f. : remembrance, commemoration
+vītis, vītis, vītium, f. : vine, grapewine
+sēnsus, sēnsūs, m. : feeling, sense; understanding, mind
+quālis, quāle : (of) what kind (of)
+quantus, -a, -um : how much, how great
+sextus, -a, -um : sixth
+tālis, tāle : such, of such a sort
+tantus, -a, -um : so much, so great
+hic, haec, hoc : this
+ille, illa, illud : that
+is, ea, id : this, that, he, she, it
+iste, ista, istud : this, that (of yours)
+ita : so, this, in this way
+sīc : so, thus
+sīcut : like, as
+sīcut ... et : (just) as .. (so) too
+tam : so, to such a degree
+#end

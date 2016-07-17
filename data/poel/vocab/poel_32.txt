@@ -1,0 +1,39 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 32
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+coadūnō, coadūnāre, coadūnāvī, coadūnātus : unite
+spērō, spērāre, spērāvī, spērātus : hope (for), wait (for), trust
+verberō, verberāre, verberāvī, verberātus : beat
+pendeō, pendēre, pependī, - : hang, depend
+teneō, tenēre, tenui, tentus : hold, keep, possess, arrest
+contineō, continēre, continuī, contentus : hold together, contain
+sustineō, sustinēre, sustinuī, sustentus : hold up, uphold, sustain
+occīdō, occīdere, occīdī, occīsus : kill
+sistō, sistere, stetī (stitī), status : stand, be, become
+exsistō, exsistere, exstitī, exstitus : step forth, come out
+vincō, vincere, vīcī, victus : overcome, conquer
+dēvincō, dēvincere, dēvīcī, dēvictus : overcome (thoroughly), conquer (thoroughly)
+cēra, cērae, f. : wax
+palma, palmae, f. : palm (of the hand)
+thronus, thronī, m. : throne
+piāculum, piāculī, n. : sin, crime
+flōs, flōris, m. : flower
+fōns, fontis, fontium, m. : source, fountain
+jūdex, jūdicis, m. : judge
+orbis, orbis, orbium, m. : sphere, orb
+orbis terrae : world
+apis, apris, apium, f. : bee
+illūminātiō, illūminātiōnis, f. : light
+ratiō, ratiōnis, f. : reckoning, account, plan, rule, way, reason, reasoning
+regiō, regiōnis, f. : country, region
+ūtilitās, ūtilitātis, f. : benefit, profit, good
+sīdus, sīderis, n. : star, constellation
+requiēs, requiēī, f. : rest
+speciēs, speciēī, f. : appearance, kind, type, beauty
+eucharisticus, -a, -um : eucharistic
+adversus : against
+adversum : against
+fore : about to be
+palam : openly, plainly
+quisquis, quaequae, quidquid : whosoever, whatsoever
+#end

@@ -1,0 +1,38 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 28
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+curvō, curvāre, curāvī, curvātus : bend, humble
+fundō, fundāre, fundāvī, fundātus : establish, found
+magnificō, magnificāre, magnificāvī, magnificātus : extol, praise, glorify
+venerō, venerāre, venerāvī, venerātus : worship, venerate
+veneror, venerārī, -, venerātus sum : worship, venerate
+ardeō, ardēre, arsī, arsus : burn
+doleō, dolēre, doluī, dolitus : grieve, suffer, feel pain
+condoleō, condolēre, -, - : feel sever pain, suffer greatly, feel another’s pain, empathize with
+moveō, movēre, mōvī, mōtus : move, affect
+īnficiō, īnficere, īnfēcī, īnfectus : infect, pollute
+prōficiō, prōficere, prōfēcī, prōfectus : avail, prevail
+reficiō, reficere, refēcī, refectus : refresh, repair
+lingua, linguae, f. : tongue, language
+umbra, umbrae, f. : shadow, shade
+testis, testis, testium, m. : witness
+praefātiō, praefātiōnis, f. : preface
+prōtēctiō, prōtēctiōnis, f. : protection
+quiēs, quiētis, f. : rest, peace, quiet
+tentātiō, tentātiōnis, f. : temptation, trial
+amplus, -a, -um : abundant, ample
+amplius : more
+perfectus, -a, -um : perfect
+suus, -a, -um : one’s (own)
+gravis, grave : heavy, serious, grievous
+trīstis, trīste : sad, sorrowful, gloomy
+alius, alia, aliud : other, another
+alter, altera, alterum : the other (of two), the second
+nūllus, -a, -um : not any, no
+sōlus, -a, -um : only, alone
+tōtus, -a, -um : all, the whole
+contrā : against, opposite (to)
+cum : when, after, since, although
+invicem : in turn, one another
+suī : oneself, himself, herself, itself, themselves
+#end

@@ -1,0 +1,6707 @@
+[
+    {
+        "word": "ā ab abs",
+        "type": "Preposition",
+        "gloss": "from, by",
+        "definition": "(away) from; by (agency) + abl.",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "abeō abīre abiī abitum",
+        "type": "Verb",
+        "gloss": "go away",
+        "definition": "go away",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "absēns absentis",
+        "type": "Adjective",
+        "gloss": "absent",
+        "definition": "absent",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "absum abesse āfuī āfutūrus",
+        "type": "Verb",
+        "gloss": "be away, be absent",
+        "definition": "be absent, be distant",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "accēdō accēdere accessī accessum",
+        "type": "Verb",
+        "gloss": "approach",
+        "definition": "go or come to, approach; happen",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "accidō accidere accidī –––",
+        "type": "Verb",
+        "gloss": "fall; happen",
+        "definition": "fall, befall, happen",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "accipiō accipere accēpī acceptus",
+        "type": "Verb",
+        "gloss": "receive",
+        "definition": "receive; accept; hear (of), learn (of)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ācer ācris ācre",
+        "type": "Adjective",
+        "gloss": "sharp, piercing",
+        "definition": "sharp, keen; fierce",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "acerbus –a –um",
+        "type": "Adjective",
+        "gloss": "bitter",
+        "definition": "bitter; harsh",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ad",
+        "type": "Preposition",
+        "gloss": "to, up to, towards",
+        "definition": "toward, to; for the purpose of (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ad dextram",
+        "type": "Other",
+        "gloss": "the right",
+        "definition": "the right",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "adeō",
+        "type": "Adverb",
+        "gloss": "such a degree, so",
+        "definition": "such a point; precisely, exactly; thus far; indeed, truly; even",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "admīrātiō –ōnis f.",
+        "type": "Noun",
+        "gloss": "admiration",
+        "definition": "admiration",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "adolēscēns or adulēscens -entis",
+        "type": "Adjective",
+        "gloss": "young, growing",
+        "definition": "young, youthful; \"minor\" (in reference to the younger of two having same name); subs: young man or woman",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "adveniō advenīre advēnī adventus",
+        "type": "Verb",
+        "gloss": "arrive",
+        "definition": "arrive",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "adversus",
+        "type": "Adverb",
+        "gloss": "facing, opposite, against, opposed (to) (adv. and prep. + acc.)",
+        "definition": "facing, opposite, against, opposed (to)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "aestimō aestimāre aestimāvī aestimātus",
+        "type": "Verb",
+        "gloss": "appraise",
+        "definition": "appraise, estimate, value",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "aetās aetātis f.",
+        "type": "Noun",
+        "gloss": "age",
+        "definition": "age; lifetime; time",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "aeternus –a –um",
+        "type": "Adjective",
+        "gloss": "everlasting, eternal",
+        "definition": "everlasting, eternal",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ager agrī m.",
+        "type": "Noun",
+        "gloss": "field",
+        "definition": "field",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "aggredior aggredī aggressus sum",
+        "type": "Verb",
+        "gloss": "approach",
+        "definition": "approach, advance; attack, assail; undertake, seize (opportunity), attempt",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "agitō agitāre agitāvī agitātus",
+        "type": "Verb",
+        "gloss": "drive",
+        "definition": "stir/drive/shake/move about; revolve; live; control, ride; consider, pursue",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "agō agere ēgī āctus",
+        "type": "Verb",
+        "gloss": "drive, do, act",
+        "definition": "drive; do; spend, conduct",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "āiō",
+        "type": "Verb",
+        "gloss": "say, affirm, say yes",
+        "definition": "say (defective), assert; say yes/so, affirm, assent; prescribe/lay down (law)",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "aliēnus –a –um",
+        "type": "Adjective",
+        "gloss": "strange, unrelated",
+        "definition": "strange, unrelated",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "aliquis aliquid aliquī aliqua aliquod",
+        "type": "Pronoun",
+        "gloss": "someone, something; some, any",
+        "definition": "someone, something; some, any; si quis, si quid: anyone who, anything that",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "alius alia aliud",
+        "type": "Pronoun",
+        "gloss": "other, another",
+        "definition": "other, another",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "alius...alius",
+        "type": "Idiom",
+        "gloss": "one...another",
+        "definition": "one...another",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "alter altera alterum",
+        "type": "Pronoun",
+        "gloss": "other of two",
+        "definition": "the other (of two)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "altus –a –um",
+        "type": "Adjective",
+        "gloss": "tall, high; deep",
+        "definition": "tall, high; deep",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ambulō ambulāre ambulāvī ambulātum",
+        "type": "Verb",
+        "gloss": "walk",
+        "definition": "walk",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "amīcitia amīcitiae f.",
+        "type": "Noun",
+        "gloss": "friendship",
+        "definition": "friendship",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "amīcus –a –um",
+        "type": "Adjective",
+        "gloss": "friendly (+dat.)",
+        "definition": "friendly (+ dat.)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "āmittō amittere amīsī amīssus",
+        "type": "Verb",
+        "gloss": "let go, send away",
+        "definition": "lose; lose by death; send away, dismiss; part with; let go/slip/fall, drop",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "amō amāre amāvī amātus",
+        "type": "Verb",
+        "gloss": "love",
+        "definition": "love",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "amor amōris m.",
+        "type": "Noun",
+        "gloss": "love",
+        "definition": "love",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "an",
+        "type": "Adverb",
+        "gloss": "or",
+        "definition": "introduces an alternative question, or; introduces an Indirect Question, whether",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "anima animae f.",
+        "type": "Noun",
+        "gloss": "breath, spirit",
+        "definition": "a breeze or breath of air; the air; wind or blast of the bellows; breath (of life); soul",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "animadvertō animadvertere animadvertī animadversus",
+        "type": "Verb",
+        "gloss": "turn to, give mind to",
+        "definition": "pay attention to, attend to; notice, observe; judge, estimate; punish (in+ACC)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "animal animālis n.",
+        "type": "Noun",
+        "gloss": "animal",
+        "definition": "animal",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "animus animī m.",
+        "type": "Noun",
+        "gloss": "spirit, mind",
+        "definition": "(rational) soul, mind; spirit; pl., strong feelings",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "annus annī m.",
+        "type": "Noun",
+        "gloss": "year",
+        "definition": "year",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "ante",
+        "type": "Preposition",
+        "gloss": "before, in front of (adv. and prep. +acc.)",
+        "definition": "before, earlier, previously; in front of (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "antequam",
+        "type": "Conjunction",
+        "gloss": "before",
+        "definition": "before",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "antīquus –a –um",
+        "type": "Adjective",
+        "gloss": "ancient, old",
+        "definition": "old, ancient, old-time, former",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "aperiō aperīre aperuī apertus",
+        "type": "Verb",
+        "gloss": "open",
+        "definition": "uncover, open, disclose; explain, recount; reveal; found; excavate; spread out",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "appāreō apparēre apparuī apparitūrus",
+        "type": "Verb",
+        "gloss": "appear, become visible",
+        "definition": "appear; be evident/visible/noticed/found; show up, occur; serve",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "apud",
+        "type": "Preposition",
+        "gloss": "near, in the presence of",
+        "definition": "at, near; at the house of, in the presence of, among (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "aqua aquae f.",
+        "type": "Noun",
+        "gloss": "water",
+        "definition": "water; sea, lake; river, stream; rain, rainfall (pl.), rainwater; spa; urine",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "āra ārae f.",
+        "type": "Noun",
+        "gloss": "alter",
+        "definition": "altar",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "arbitror arbitrārī arbitrātus sum",
+        "type": "Verb",
+        "gloss": "judge, consider, think",
+        "definition": "judge, consider, think",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ārdeō ārdēre ārsī ārsum",
+        "type": "Verb",
+        "gloss": "burn, glow",
+        "definition": "burn, glow",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "arma armōrum n.",
+        "type": "Noun",
+        "gloss": "arms, weapons",
+        "definition": "arms, weapons",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "ars artis f.",
+        "type": "Noun",
+        "gloss": "skill",
+        "definition": "skill, art; guile, trick",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "ās assis m.",
+        "type": "Noun",
+        "gloss": "copper coin",
+        "definition": "penny, copper coin",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "Asia –ae",
+        "type": "Noun",
+        "gloss": "Asia",
+        "definition": "Asia",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "adsum adesse adfuī adfutūrus",
+        "type": "Verb",
+        "gloss": "be present",
+        "definition": "improperly influence; undertake/try/attempt/come to grips; begin/set to work",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "Athēnae Athēnārum f.",
+        "type": "Noun",
+        "gloss": "Athens",
+        "definition": "Athens",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "atque/ac",
+        "type": "Conjunction",
+        "gloss": "and, also",
+        "definition": "and (what's more), and in addition, and also",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "auctor auctōris m.",
+        "type": "Noun",
+        "gloss": "founder",
+        "definition": "seller, vendor; originator; historian; authority; proposer, supporter; founder",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "auctōritās auctōritātis f.",
+        "type": "Noun",
+        "gloss": "authority",
+        "definition": "authority; influence, clout",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "audācia audāciae f.",
+        "type": "Noun",
+        "gloss": "courage",
+        "definition": "boldness; recklessness, audacity, impudence; courage",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "audāx",
+        "type": "Adjective",
+        "gloss": "bold; reckless",
+        "definition": "bold, daring; courageous; reckless, rash; audacious, presumptuous; desperate",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "audeō audēre ausus sum",
+        "type": "Verb",
+        "gloss": "dare",
+        "definition": "dare",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "audiō audīre audīvī audītus",
+        "type": "Verb",
+        "gloss": "hear",
+        "definition": "hear, listen (to)",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "aura aurae f.",
+        "type": "Noun",
+        "gloss": "breeze",
+        "definition": "breeze, breath (of air), wind; gleam; odor, stench; vapor; air (pl.), heaven",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "aureus –a –um",
+        "type": "Adjective",
+        "gloss": "golden",
+        "definition": "of gold, golden; gilded; gold bearing; gleaming like gold; beautiful, splendid",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "aurōra aurōrae f.",
+        "type": "Noun",
+        "gloss": "dawn, aurora",
+        "definition": "the dawn, morning; personified, Aurora, the goddess of the dawn, who precedes the horses of the sun-god; the east; the sun",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "aurum aurī n.",
+        "type": "Noun",
+        "gloss": "gold",
+        "definition": "gold",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "aut aut…aut",
+        "type": "Conjunction",
+        "gloss": "or, either...or",
+        "definition": "or, either…or",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "autem",
+        "type": "Conjunction",
+        "gloss": "however; moreover",
+        "definition": "however; moreover",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "auxilium auxilī n.",
+        "type": "Noun",
+        "gloss": "aid, help",
+        "definition": "aid, help; pl. auxiliary troops",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "bellum bellī n.",
+        "type": "Noun",
+        "gloss": "war",
+        "definition": "war",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "bene",
+        "type": "Adverb",
+        "gloss": "well",
+        "definition": "well",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "bonus –a –um",
+        "type": "Adjective",
+        "gloss": "good",
+        "definition": "good",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "cadō cadere cecidī cāsum",
+        "type": "Verb",
+        "gloss": "fall",
+        "definition": "fall, sink; die, be killed",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "caecus –a –um",
+        "type": "Adjective",
+        "gloss": "blind",
+        "definition": "blind; hidden, secret, dark",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "caelum caelī n.",
+        "type": "Noun",
+        "gloss": "sky, heaven",
+        "definition": "sky, heaven",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "calamitās calamitātis f.",
+        "type": "Noun",
+        "gloss": "loss, failure",
+        "definition": "loss, damage, harm; misfortune/disaster; military defeat; blight, crop failure",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "campus campī m.",
+        "type": "Noun",
+        "gloss": "plain",
+        "definition": "(flat) plain",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "canō canere cecinī cantus",
+        "type": "Verb",
+        "gloss": "sing",
+        "definition": "sing (of)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "capiō capere cēpī captus",
+        "type": "Verb",
+        "gloss": "seize",
+        "definition": "seize, take (up), capture; win",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "careō carēre caruī caritūrus",
+        "type": "Verb",
+        "gloss": "be without",
+        "definition": "lack, be without, be free from (+ abl.)",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "carmen carminis n.",
+        "type": "Noun",
+        "gloss": "song, poem",
+        "definition": "a song, poem, verse, oracular response, prophecy, form of incantation, tune, air, lay, strain, note, sound",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "Carthāgō Carthāginis f.",
+        "type": "Noun",
+        "gloss": "Carthage",
+        "definition": "Carthage",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "cārus –a –um",
+        "type": "Adjective",
+        "gloss": "precious",
+        "definition": "precious; dear (to) (+ dat.)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "cāsus cāsūs m.",
+        "type": "Noun",
+        "gloss": "fall",
+        "definition": "fall; occurrence; chance, misfortune",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "causa causae f.",
+        "type": "Noun",
+        "gloss": "cause, reason",
+        "definition": "reason, cause; case",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "causā",
+        "type": "Idiom",
+        "gloss": "for the purpose of",
+        "definition": "for the purpose of, for the sake of (+ preceding genitive)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cēdō cēdere cessī cessum",
+        "type": "Verb",
+        "gloss": "yield",
+        "definition": "go, move; yield; withdraw",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "celer celeris celere",
+        "type": "Adjective",
+        "gloss": "swift",
+        "definition": "swift",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "celeritās celeritātis f.",
+        "type": "Noun",
+        "gloss": "quickness",
+        "definition": "speed, quickness, rapidity; speed of action, dispatch; haste; early date",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "cella cellae f.",
+        "type": "Noun",
+        "gloss": "a room",
+        "definition": "storeroom, (wine) cellar, larder; temple chamber; sanctuary; room, garret; pen; cell; monestary",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "cēlō celāre celāvī celātus",
+        "type": "Verb",
+        "gloss": "hide",
+        "definition": "hide, conceal, keep secret; disguise; keep in the dark/ignorance; shield",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cēna cēnae f.",
+        "type": "Noun",
+        "gloss": "dinner",
+        "definition": "dinner, principal meal; course; meal; company at dinner",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "certus –a –um",
+        "type": "Adjective",
+        "gloss": "sure, fixed",
+        "definition": "sure, certain, reliable; fixed, settled, firm; trusty, reliable; resolved, determined",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "cibus cibī m.",
+        "type": "Noun",
+        "gloss": "food",
+        "definition": "food",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "cingō cingere cīnxī cīnctus",
+        "type": "Verb",
+        "gloss": "surround",
+        "definition": "surround, encircle; gird (on onself)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "circum",
+        "type": "Preposition",
+        "gloss": "around",
+        "definition": "about, around; round about, near; in a circle; in attendance; on both sides",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cīvis cīvis m. or f.",
+        "type": "Noun",
+        "gloss": "citizen",
+        "definition": "citizen",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "cīvitās cīvitātis f.",
+        "type": "Noun",
+        "gloss": "citizenship",
+        "definition": "state, citizenry; citizenship",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "clāmō clāmāre clāmāvi clāmātus",
+        "type": "Verb",
+        "gloss": "call, shout",
+        "definition": "proclaim, declare; cry/shout out; shout/call name of; accompany with shouts",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "clārus –a –um",
+        "type": "Adjective",
+        "gloss": "clear, distinguished",
+        "definition": "bright, clear; famous, distinguished",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "coepĪ coepisse coeptum",
+        "type": "Verb",
+        "gloss": "begin",
+        "definition": "begin",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cōgitō cōgitāre cōgitāvī cōgitātus",
+        "type": "Verb",
+        "gloss": "think",
+        "definition": "think; ponder",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cognōscō cognōscere cognōvī cognitus",
+        "type": "Verb",
+        "gloss": "learn, understand",
+        "definition": "come to know, learn, recognize; in perfect, know",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "colloquor colloquī collocūtus sum",
+        "type": "Verb",
+        "gloss": "talk to/with",
+        "definition": "talk/speak to/with; talk together/over; converse; discuss; confer, parley",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "comes comitis m. or f.",
+        "type": "Noun",
+        "gloss": "companion",
+        "definition": "comrade, companion, associate, partner; soldier, devotee, follower of another",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "cōnficiō cōnficere cōnfēcī cōnfectus",
+        "type": "Verb",
+        "gloss": "complete; destroy",
+        "definition": "accomplish, complete",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cōnfiteor cōnfitērī cōnfessus sum",
+        "type": "Verb",
+        "gloss": "confess",
+        "definition": "confess, admit",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "coniūnx coniugis f.",
+        "type": "Noun",
+        "gloss": "spouse",
+        "definition": "spouse, mate, consort; husband, wife, bride, fiancee, intended; concubine; yokemate",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "cōnor cōnārī cōnātus sum",
+        "type": "Verb",
+        "gloss": "try, attempt",
+        "definition": "try, attempt",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cōnsilium cōnsiliī n.",
+        "type": "Noun",
+        "gloss": "plan; council",
+        "definition": "deliberation; plan, advice; judgment",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "cōnstituō cōnstituere cōnstituī cōnstitūtus",
+        "type": "Verb",
+        "gloss": "establish; decide",
+        "definition": "set up, establish; decide",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cōnsul cōnsulis m.",
+        "type": "Noun",
+        "gloss": "consul",
+        "definition": "consul",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "contrā",
+        "type": "Preposition",
+        "gloss": "against, opposite (adv. and prep. +acc.)",
+        "definition": "facing; against, contrary to; face to face; in opposition; in turn",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cōpia cōpiae f.",
+        "type": "Noun",
+        "gloss": "abundance; troops",
+        "definition": "abundance; in pl., troops, forces",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "corōna corōnae f.",
+        "type": "Noun",
+        "gloss": "crown, wreath",
+        "definition": "crown, wreath",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "corōnō coronāre coronāvī coronātus",
+        "type": "Verb",
+        "gloss": "crown, surround",
+        "definition": "crown, surround",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "corpus corporis n.",
+        "type": "Noun",
+        "gloss": "body",
+        "definition": "body",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "cotīdiē/cottīdiē",
+        "type": "Adverb",
+        "gloss": "daily",
+        "definition": "daily, every day; day by day; usually, ordinarily, commonly",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "crēdō crēdere crēdidī crēditus",
+        "type": "Verb",
+        "gloss": "trust, believe",
+        "definition": "trust, believe (+ dat.)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "crūdēlis crūdēle",
+        "type": "Adjective",
+        "gloss": "unfeeling, cruel",
+        "definition": "cruel, hardhearted, unmerciful, severe, bloodthirsty, savage, inhuman; harsh, bitter",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "culpa culpae f.",
+        "type": "Noun",
+        "gloss": "fault, blame",
+        "definition": "fault, blame, responsibility (w/ gen.); crime (esp. against chastity); negligence; offense; error; (sense of) guilt; fault, defect (moral or other); sickness, injury",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "cum",
+        "type": "Preposition",
+        "gloss": "with (prep. +abl.)",
+        "definition": "with (prep. +abl.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cum",
+        "type": "Conjunction",
+        "gloss": "when; since; although",
+        "definition": "when; since; although",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cupidus –a –um",
+        "type": "Adjective",
+        "gloss": "desirious",
+        "definition": "desirious (+ gen.)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "cūr",
+        "type": "Adverb",
+        "gloss": "why",
+        "definition": "why",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "cūra cūrae f.",
+        "type": "Noun",
+        "gloss": "care, concern",
+        "definition": "care, concern; anxiety",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "currō currere cucurrī cursus",
+        "type": "Verb",
+        "gloss": "run",
+        "definition": "run/trot/gallop, hurry/hasten/speed, move/travel/proceed/flow swiftly/quickly",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "custōs custōdis m.",
+        "type": "Noun",
+        "gloss": "guardian",
+        "definition": "guard; sentry/watch; guardian/protector/keeper; doorkeeper/watchman/janitor; jailer, warden; poll watcher; spy; garrison; container; replacement vine shoot",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "damnō damnāre damnāvī damnātus",
+        "type": "Verb",
+        "gloss": "condemn",
+        "definition": "pass/pronounce judgment, find guilty; deliver/condemn/sentence; harm/damn/doom;discredit; seek/secure condemnation of; find fault; bind/oblige under a will",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dē",
+        "type": "Preposition",
+        "gloss": "down from, about, concerning",
+        "definition": "down from, about, concerning",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dēbeō dēbēre dēbuī dēbitus",
+        "type": "Verb",
+        "gloss": "owe; ought",
+        "definition": "owe; ought",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "decōrus –a –um",
+        "type": "Adjective",
+        "gloss": "fitting, suitable; handsome",
+        "definition": "fitting, suitable; handsome",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "dēfendō dēfendere dēfendī dēfensus",
+        "type": "Verb",
+        "gloss": "defend, ward off",
+        "definition": "defend/guard/protect, look after; act/speak/plead/write for defense; prosecute; repel, fend/ward off, avert/prevent; support/preserve/maintain; defend (right)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dēleō dēlēre dēlīvī dēlētus",
+        "type": "Verb",
+        "gloss": "destroy",
+        "definition": "destroy",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dēligō dēligāre dēligāvī dēligātus",
+        "type": "Verb",
+        "gloss": "bind",
+        "definition": "bind",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dēmēns dēmentis",
+        "type": "Adjective",
+        "gloss": "mad, raving",
+        "definition": "mad, raving",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "dēnique",
+        "type": "Adverb",
+        "gloss": "finally",
+        "definition": "finally, in the end; and then; at worst; in short, to sum up; in fact, indeed",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dēsinō dēsinere dēsiī dēsitus",
+        "type": "Verb",
+        "gloss": "leave off, cease",
+        "definition": "stop/end/finish, abandon/leave/break off, desist/cease; come to/at end/close",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dēsistō dēsistere dēstitī dēstitus",
+        "type": "Verb",
+        "gloss": "cease, desist",
+        "definition": "cease, desist",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dēsum deesse defuī",
+        "type": "Verb",
+        "gloss": "be lacking",
+        "definition": "be wanting/lacking; fail/miss; abandon/desert, neglect; be away/absent/missing",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dēterreō dēterrēre dēterruī dēterritus",
+        "type": "Verb",
+        "gloss": "deter, prevent",
+        "definition": "deter, prevent",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "deus deī m.",
+        "type": "Noun",
+        "gloss": "god",
+        "definition": "god",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "dexter dextra dextrum",
+        "type": "Adjective",
+        "gloss": "right, on the right side",
+        "definition": "right, on/to the right hand/side; skillful/dexterous/handy;",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "dextera dextera f. // dextrā",
+        "type": "Noun",
+        "gloss": "right hand",
+        "definition": "right hand",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "dīcō dīcere dīxī dictus",
+        "type": "Verb",
+        "gloss": "say, speak",
+        "definition": "say, speak, tell",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "diēs diēī m. or f.",
+        "type": "Noun",
+        "gloss": "day",
+        "definition": "day",
+        "conjugation": "None",
+        "declension": "5",
+        "numbers": "None"
+    },
+    {
+        "word": "difficilis difficile",
+        "type": "Adjective",
+        "gloss": "difficult",
+        "definition": "difficult",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "dīgnus –a –um",
+        "type": "Adjective",
+        "gloss": "worthy",
+        "definition": "worthy (of) (+ abl.)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "dīligentia dīligentiae f.",
+        "type": "Noun",
+        "gloss": "thrifty; attentive",
+        "definition": "thrifty, economical, frugal; attentive, fond (of), devoted (to)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "discēdō discēdere discessī discessum",
+        "type": "Verb",
+        "gloss": "go away, depart",
+        "definition": "go away, depart",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "discō discere didicī",
+        "type": "Verb",
+        "gloss": "learn",
+        "definition": "learn; hear, get to know, become acquainted with; acquire knowledge/skill of/in",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dissimilis dissimile",
+        "type": "Adjective",
+        "gloss": "dissimilar",
+        "definition": "dissimilar, unlike, different (+ gen. or dat.)",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "diū",
+        "type": "Adverb",
+        "gloss": "for a long time",
+        "definition": "for a long time",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dīvitia dīvitiae f.",
+        "type": "Noun",
+        "gloss": "riches, wealthy",
+        "definition": "riches (pl.), wealth",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "dō dare dedī datus",
+        "type": "Verb",
+        "gloss": "give",
+        "definition": "give; dedicate; sell; pay; grant/bestow/impart/offer/lend; devote; allow; make; surrender/give over; send to die; ascribe/attribute; give birth/produce; utter",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "doceō docēre docuī doctus",
+        "type": "Verb",
+        "gloss": "teach",
+        "definition": "teach, show, point out",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dolor dolōris m.",
+        "type": "Noun",
+        "gloss": "pain, grief",
+        "definition": "pain, anguish, grief, sorrow, suffering; resentment, indignation",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "dominus dominī m.",
+        "type": "Noun",
+        "gloss": "master",
+        "definition": "master, lord",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "domus domī f.",
+        "type": "Noun",
+        "gloss": "house, home",
+        "definition": "house, home",
+        "conjugation": "None",
+        "declension": "6",
+        "numbers": "None"
+    },
+    {
+        "word": "dōnec",
+        "type": "Conjunction",
+        "gloss": "until",
+        "definition": "while, as long as; until",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dōnō dōnāre dōnāvī dōnātus",
+        "type": "Verb",
+        "gloss": "give",
+        "definition": "give; present, reward",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dōnum dōnī n.",
+        "type": "Noun",
+        "gloss": "gift",
+        "definition": "gift",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "dubitō dubitāre dubitāvī dubitātus",
+        "type": "Verb",
+        "gloss": "hesitate, doubt",
+        "definition": "hesitate; doubt",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dubium dubiī n.",
+        "type": "Noun",
+        "gloss": "doubt, hesitation",
+        "definition": "doubt, hesitation",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "dubius –a –um",
+        "type": "Adjective",
+        "gloss": "doubtful",
+        "definition": "doubtful",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "dūcō dūcere dūxī ductus",
+        "type": "Verb",
+        "gloss": "lead; consider",
+        "definition": "lead; consider",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dulcis dulce",
+        "type": "Adjective",
+        "gloss": "sweet",
+        "definition": "sweet, pleasant",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "dum",
+        "type": "Conjunction",
+        "gloss": "while, until, provided that",
+        "definition": "while, as long as, until; provided that",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "dummodo",
+        "type": "Conjunction",
+        "gloss": "provided that",
+        "definition": "so long as , if so be that , provided that , if only (often with subj.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "duo duae duo",
+        "type": "Number",
+        "gloss": "2",
+        "definition": "2",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "1"
+    },
+    {
+        "word": "dūrus –a –um",
+        "type": "Adjective",
+        "gloss": "hard, harsh",
+        "definition": "hard; harsh",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "dux ducis m. or f.",
+        "type": "Noun",
+        "gloss": "leader",
+        "definition": "leader",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "efficiō efficere effēcī effectus",
+        "type": "Verb",
+        "gloss": "make",
+        "definition": "make; bring about",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ego meī mihi mē mē",
+        "type": "Pronoun",
+        "gloss": "I, me",
+        "definition": "I; me",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ēgredior ēgredī ēgressus sum",
+        "type": "Verb",
+        "gloss": "depart",
+        "definition": "stride out, depart, disembark ( + abl)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "emō emere ēmī ēmptus",
+        "type": "Verb",
+        "gloss": "buy",
+        "definition": "buy",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "enim",
+        "type": "Conjunction",
+        "gloss": "in fact, for",
+        "definition": "in fact, indeed; for",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "eō",
+        "type": "Adverb",
+        "gloss": "that place, thither",
+        "definition": "that place, thither",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "errō errāre errāvi errātum",
+        "type": "Verb",
+        "gloss": "wander, err",
+        "definition": "wander; err, make a mistake",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "et",
+        "type": "Adverb",
+        "gloss": "even, also",
+        "definition": "even, also",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "et",
+        "type": "Conjunction",
+        "gloss": "and",
+        "definition": "and",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "et...et",
+        "type": "Idiom",
+        "gloss": "both...and",
+        "definition": "both...and",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "etiam",
+        "type": "Adverb",
+        "gloss": "also",
+        "definition": "also, even; still",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "etsī",
+        "type": "Conjunction",
+        "gloss": "although",
+        "definition": "although",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ē ex",
+        "type": "Preposition",
+        "gloss": "out of, from",
+        "definition": "out of, from (+ abl.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "exemplar exemplāris n.",
+        "type": "Noun",
+        "gloss": "example",
+        "definition": "example",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "exemplum exemplī n.",
+        "type": "Noun",
+        "gloss": "sample, example",
+        "definition": "example, sample, specimen; instance; precedent, case; warning, deterrent; pattern, model; parallel, analogy; archetype; copy/reproduction, transcription",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "exiguus –a –um",
+        "type": "Adjective",
+        "gloss": "small, little",
+        "definition": "small, little",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "exorior exorīrī exortus sum",
+        "type": "Verb",
+        "gloss": "rise up, proceed",
+        "definition": "rise up, proceed",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "expellō expellere expulī expulsus",
+        "type": "Verb",
+        "gloss": "drive out, expel",
+        "definition": "drive out, expel, banish; disown, reject",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "experior experīrī expertus sum",
+        "type": "Verb",
+        "gloss": "test, try, experience",
+        "definition": "test; try; experience",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "expōnō expōnere exposuī expositus",
+        "type": "Verb",
+        "gloss": "abandon",
+        "definition": "set/put forth/out; abandon, expose; publish; explain, relate; disembark",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "exspectō exspectāre exspectāvī exspectātus",
+        "type": "Verb",
+        "gloss": "wait for, expect",
+        "definition": "wait (for), watch, await, expect",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "facile",
+        "type": "Adverb",
+        "gloss": "easily",
+        "definition": "easily",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "facilis facile",
+        "type": "Adjective",
+        "gloss": "easy",
+        "definition": "easy",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "faciō facere fēcī factus",
+        "type": "Verb",
+        "gloss": "do, make",
+        "definition": "make; do; reckon",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "factum factī n.",
+        "type": "Noun",
+        "gloss": "deed",
+        "definition": "deed",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "fāma fāmae f.",
+        "type": "Noun",
+        "gloss": "rumor, fame",
+        "definition": "report, rumor; reputation, fame",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "familia familiae f.",
+        "type": "Noun",
+        "gloss": "household, family",
+        "definition": "household; household of slaves; family; clan; religious community",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "fateor fatērī fassus sum",
+        "type": "Verb",
+        "gloss": "confess, admit",
+        "definition": "confess, admit",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "faveō favēre fāvī fautūrus",
+        "type": "Verb",
+        "gloss": "favor",
+        "definition": "favor, be devoted to",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "fēlīx fēlīcis",
+        "type": "Adjective",
+        "gloss": "fortunate",
+        "definition": "fortunate, happy",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "fēmina fēminae f.",
+        "type": "Noun",
+        "gloss": "woman, wife",
+        "definition": "woman; wife",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ferō ferre tulī lātus",
+        "type": "Verb",
+        "gloss": "bear, carry",
+        "definition": "bring, bear, carry; endure",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ferrum ferrī n.",
+        "type": "Noun",
+        "gloss": "iron",
+        "definition": "iron; sword",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "fidēs fideī f.",
+        "type": "Noun",
+        "gloss": "trust, faith",
+        "definition": "faith, trust; trustworthiness; confidence",
+        "conjugation": "None",
+        "declension": "5",
+        "numbers": "None"
+    },
+    {
+        "word": "figūra figūrae f.",
+        "type": "Noun",
+        "gloss": "form, shape",
+        "definition": "form, shape",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "fīlia –ae f.",
+        "type": "Noun",
+        "gloss": "daughter",
+        "definition": "daughter",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "fīlius fīliī m.",
+        "type": "Noun",
+        "gloss": "son",
+        "definition": "son",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "fīnis fīnis m.",
+        "type": "Noun",
+        "gloss": "end, boundary",
+        "definition": "boundary, end, limit, goal; (pl.) country, territory, land",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "fiō fierī factus sum",
+        "type": "Verb",
+        "gloss": "become",
+        "definition": "happen, come about; result (from); take place, be held, occur, arise (event); be made/created/instituted/elected/appointed/given; be prepared/done; develop; be made/become; (facio PASS); [fiat => so be it, very well; it is being done]",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "flamma flammae f.",
+        "type": "Noun",
+        "gloss": "flame",
+        "definition": "flame, blaze; ardor, fire of love; object of love",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "flūmen flūminis n.",
+        "type": "Noun",
+        "gloss": "river",
+        "definition": "river, stream; any flowing fluid; flood; onrush [adverso ~ => against current]",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "foedus foederis n.",
+        "type": "Noun",
+        "gloss": "contract, treaty",
+        "definition": "treaty, agreement, contract; league; alliance",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "fōrma fōrmae f.",
+        "type": "Noun",
+        "gloss": "shape; beauty",
+        "definition": "form, figure, appearance; beauty; mold, pattern",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "fōrs fōrtis f.",
+        "type": "Noun",
+        "gloss": "chance, luck",
+        "definition": "chance, luck",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "fortis forte",
+        "type": "Adjective",
+        "gloss": "brave; strong",
+        "definition": "brave; strong",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "forum forī n.",
+        "type": "Noun",
+        "gloss": "forum",
+        "definition": "public square, marketplace, forum",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "frāter frātris m.",
+        "type": "Noun",
+        "gloss": "brother",
+        "definition": "brother",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "frīgidus –a –um",
+        "type": "Adjective",
+        "gloss": "cool, cold",
+        "definition": "cold, cool, chilly, frigid; lifeless, indifferent, dull",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "frūctuī esse",
+        "type": "Idiom",
+        "gloss": "be (for) a profit, be an asset (+ dat.)",
+        "definition": "be (for) a profit, be an asset (+ dat.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "frūctus fructūs m.",
+        "type": "Noun",
+        "gloss": "fruit, crops",
+        "definition": "produce, crops; fruit; profit; enjoyment; reward",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "frūstrā",
+        "type": "Adverb",
+        "gloss": "in vain",
+        "definition": "in vain; for nothing, to no purpose",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "fuga fugae f.",
+        "type": "Noun",
+        "gloss": "flight",
+        "definition": "flight",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "fugiō fugere fūgī fugitūrus",
+        "type": "Verb",
+        "gloss": "flee",
+        "definition": "flee",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "fulgeō fulgēre fulsī",
+        "type": "Verb",
+        "gloss": "shine",
+        "definition": "shine",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "fulgor fulgōris m.",
+        "type": "Noun",
+        "gloss": "lightning, flash, brightness",
+        "definition": "lightning, flash, brightness",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "fore = futūrum esse forem forēs foret forent = essem essēs esset essent",
+        "type": "Noun",
+        "gloss": "be, exist",
+        "definition": "be, exist",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "gaudium gaudi(ī) n.",
+        "type": "Noun",
+        "gloss": "joy",
+        "definition": "delight, joy, pleasure",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "gēns gentis f.",
+        "type": "Noun",
+        "gloss": "family, clan",
+        "definition": "nation, people; clan, family",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "genus generis n.",
+        "type": "Noun",
+        "gloss": "origin",
+        "definition": "descent, origin; race, stock; kind, sort",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "gerō gerere gessī gestus",
+        "type": "Verb",
+        "gloss": "bear, manage",
+        "definition": "bear; manage, conduct; perform",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "gladius gladiī m.",
+        "type": "Noun",
+        "gloss": "sword",
+        "definition": "sword",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "glōria glōriae f.",
+        "type": "Noun",
+        "gloss": "renown, glory",
+        "definition": "renown, glory",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "gracilis gracile",
+        "type": "Adjective",
+        "gloss": "thin",
+        "definition": "thin",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "gradior gradī gressus sum",
+        "type": "Verb",
+        "gloss": "step, walk",
+        "definition": "take steps, step, walk, go advance",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "grātus –a –um",
+        "type": "Adjective",
+        "gloss": "pleasant; grateful",
+        "definition": "charming, pleasing; grateful, pleased",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "gravis grave",
+        "type": "Adjective",
+        "gloss": "heavy",
+        "definition": "heavy, deep; important, serious; severe",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "habeō habēre habuī habitus",
+        "type": "Verb",
+        "gloss": "have, hold",
+        "definition": "have, hold; consider",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "herī",
+        "type": "Adverb",
+        "gloss": "yesterday",
+        "definition": "yesterday",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "hic haec hoc",
+        "type": "Pronoun",
+        "gloss": "this, these",
+        "definition": "this; these",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "hīc",
+        "type": "Adverb",
+        "gloss": "here",
+        "definition": "here, in this place; at this time",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "homō hominis m.",
+        "type": "Noun",
+        "gloss": "human being, man",
+        "definition": "human being, man; in pl., people",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "honestus –a –um",
+        "type": "Adjective",
+        "gloss": "honorable",
+        "definition": "honorable, respectable",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "honor honōris m.",
+        "type": "Noun",
+        "gloss": "hono; office",
+        "definition": "honor, respect, glory; (political) office, post",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "hōra hōrae f.",
+        "type": "Noun",
+        "gloss": "hour",
+        "definition": "with the Romans, the twelfth part of the period from sunrise to sunset, an hour, in an indefinite sense, personif., Horae, arum, f., the Hours",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "horridus –a –um",
+        "type": "Adjective",
+        "gloss": "rough",
+        "definition": "rough, shaggy, trembling",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "hortor hortārī hortātus sum",
+        "type": "Verb",
+        "gloss": "urge",
+        "definition": "urge, encourage, exhort, advise",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "hospes hospitis m.",
+        "type": "Noun",
+        "gloss": "guest; stranger; host",
+        "definition": "host; guest, visitor, stranger; soldier in billets; one who billets soldiers",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "hostīlis hostīlis hostīle",
+        "type": "Adjective",
+        "gloss": "hostile",
+        "definition": "hostile",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "hostis hostis m.",
+        "type": "Noun",
+        "gloss": "(public) enemy",
+        "definition": "(public) enemy",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "hūc",
+        "type": "Adverb",
+        "gloss": "to here, hither",
+        "definition": "to here, hither",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "humilis humile",
+        "type": "Adjective",
+        "gloss": "humble",
+        "definition": "humble",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "iaciō iacere iēcī iactus",
+        "type": "Verb",
+        "gloss": "throw",
+        "definition": "throw, hurl, cast; throw away; utter",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "iactō iactāre iactāvī iactātus",
+        "type": "Verb",
+        "gloss": "throw",
+        "definition": "throw away, throw out, throw, jerk about; disturb; boast, discuss",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "iam",
+        "type": "Adverb",
+        "gloss": "now; already",
+        "definition": "now, already, by/even now; besides; [non ~ => no longer; ~ pridem => long ago];",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ibī",
+        "type": "Adverb",
+        "gloss": "there; then",
+        "definition": "in that place, there; then, thereupon",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "īdem eadem idem",
+        "type": "Pronoun",
+        "gloss": "same",
+        "definition": "same",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "igitur",
+        "type": "Conjunction",
+        "gloss": "therefore",
+        "definition": "therefore",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ignis ignis m.",
+        "type": "Noun",
+        "gloss": "fire",
+        "definition": "fire",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "īgnōscō īgnōscere īgnōvī īgnōtus",
+        "type": "Verb",
+        "gloss": "pardon, forgive",
+        "definition": "pardon, forgive (+ dat.)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ille illa illud",
+        "type": "Pronoun",
+        "gloss": "that",
+        "definition": "that; those",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "illīc",
+        "type": "Adverb",
+        "gloss": "there",
+        "definition": "there, in that place",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "illūc",
+        "type": "Adverb",
+        "gloss": "there",
+        "definition": "there, thither",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "immortālis immortālis immortāle",
+        "type": "Adjective",
+        "gloss": "immortal",
+        "definition": "immortal, not subject to death; eternal, everlasting, perpetual; imperishable",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "impediō impedīre impedīvī/impediī impedītus",
+        "type": "Verb",
+        "gloss": "hinder",
+        "definition": "hinder, impede",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "imperātor imperātōris m.",
+        "type": "Noun",
+        "gloss": "commander",
+        "definition": "commander, general",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "imperium imperiī n.",
+        "type": "Noun",
+        "gloss": "command, power",
+        "definition": "power, authority, command; empire",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "imperō imperāre imperāvī imperātus",
+        "type": "Verb",
+        "gloss": "command, control",
+        "definition": "give an order, order, command; levy; rule (over) (+ dat.)",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "impius –a –um",
+        "type": "Adjective",
+        "gloss": "disloyal",
+        "definition": "disloyal, wicked",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "impleō implēre implēvī implētus",
+        "type": "Verb",
+        "gloss": "fill in/up",
+        "definition": "fill up, fulfill",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "in",
+        "type": "Preposition",
+        "gloss": "in, on",
+        "definition": "in, on (+ abl.); into, onto; against (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "incertus –a –um",
+        "type": "Adjective",
+        "gloss": "uncertain",
+        "definition": "unsure, uncertain, unreliable",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "incipiō incipere incēpī inceptus",
+        "type": "Verb",
+        "gloss": "begin",
+        "definition": "take on, begin",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "incola incolae m. or f.",
+        "type": "Noun",
+        "gloss": "inhabitant",
+        "definition": "inhabitant",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "incolō incolere incoluī",
+        "type": "Verb",
+        "gloss": "inhabit, dwell",
+        "definition": "live, dwell/reside (in); inhabit; sojourn",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "indīgnus –a –um",
+        "type": "Adjective",
+        "gloss": "unworthy (of)",
+        "definition": "unworthy (of) (+ abl.)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "īnfēlīx īnfēlīcis",
+        "type": "Adjective",
+        "gloss": "unfortunate, unhappy",
+        "definition": "unfortunate, unhappy",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "īnfīrmus –a –um",
+        "type": "Adjective",
+        "gloss": "weak, feeble",
+        "definition": "fragile/frail/feeble; unwell/sick/infirm; weak (military); mild/irresolute; powerless/ineffectual; unsound/untrustworthy",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ingenium ingeniī n.",
+        "type": "Noun",
+        "gloss": "disposition, ability",
+        "definition": "ability, talent; disposition",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "ingēns ingentis",
+        "type": "Adjective",
+        "gloss": "huge",
+        "definition": "huge; oustanding",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "ingredior ingredī ingressus sum",
+        "type": "Verb",
+        "gloss": "step in, enter",
+        "definition": "advance, walk; enter, step/go into; undertake, begin",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "inimīcitia inimīcitiae f.",
+        "type": "Noun",
+        "gloss": "enmity, hostility",
+        "definition": "enmity, hostility",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "inimīcus –a –um",
+        "type": "Adjective",
+        "gloss": "unfriendly, hostile",
+        "definition": "unfriendly, hostile (+ dat.)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "īnsidiae īnsidiārum f. pl.",
+        "type": "Noun",
+        "gloss": "ambush",
+        "definition": "ambush, plot, treachery",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "īnstituō īnstituere īnstituī īnstitūtus",
+        "type": "Verb",
+        "gloss": "undertake; equip",
+        "definition": "set up, establish, found, make, institute; build; prepare; decide",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "īnsula īnsulae f.",
+        "type": "Noun",
+        "gloss": "island",
+        "definition": "island",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "intellegō intellegere intellēxī intellēctus",
+        "type": "Verb",
+        "gloss": "understand",
+        "definition": "understand",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "intendō intendere intendī intentus",
+        "type": "Verb",
+        "gloss": "stretch, strain",
+        "definition": "hold out; stretch, strain, exert",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "inter",
+        "type": "Preposition",
+        "gloss": "between, among; during",
+        "definition": "between, among; during (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "interdum",
+        "type": "Adverb",
+        "gloss": "sometimes",
+        "definition": "sometimes, now and then",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "interficiō interficere interfēcī interfectus",
+        "type": "Verb",
+        "gloss": "kill",
+        "definition": "kill",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "interest interesse interfuīt",
+        "type": "Verb",
+        "gloss": "it is important",
+        "definition": "it is important, it concerns",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "invādō invādere invāsī invāsum",
+        "type": "Verb",
+        "gloss": "go in",
+        "definition": "go in, attack, invade",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "inveniō invenīre invēnī inventus",
+        "type": "Verb",
+        "gloss": "find, discover",
+        "definition": "find, discover",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "invidia invidiae f.",
+        "type": "Noun",
+        "gloss": "envy, jealousy",
+        "definition": "envy, jealousy; ill-will, resentment",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ipse ipsa ipsum",
+        "type": "Pronoun",
+        "gloss": "him-, her-, itself",
+        "definition": "-self, -selves; very",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "īra īrae f.",
+        "type": "Noun",
+        "gloss": "anger",
+        "definition": "anger, wrath",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "īrātus –a –um",
+        "type": "Adjective",
+        "gloss": "angry",
+        "definition": "angry",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "is ea id",
+        "type": "Pronoun",
+        "gloss": "he, she it; that",
+        "definition": "this, that; these",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "iste ista istud",
+        "type": "Pronoun",
+        "gloss": "that",
+        "definition": "that (of yours); those (of yours)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ita",
+        "type": "Adverb",
+        "gloss": "thus, so",
+        "definition": "in this manner, thus, so",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "Italia Italiae f",
+        "type": "Noun",
+        "gloss": "Italy",
+        "definition": "Italy",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "iter itineris n.",
+        "type": "Noun",
+        "gloss": "journey",
+        "definition": "journey; road; passage, path; march [route magnum => forced march]",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "iubeō iubēre iussī iussus",
+        "type": "Verb",
+        "gloss": "order",
+        "definition": "order/tell/command/direct; enjoin/command; decree/enact; request/ask/bid; pray",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "iūdex iūdicis m.",
+        "type": "Noun",
+        "gloss": "judge; juror",
+        "definition": "judge; juror",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "iūdicium iūdici(ī) n.",
+        "type": "Noun",
+        "gloss": "decision; trial",
+        "definition": "trial, legal action/process; court/tribunal; courts; administration of justice; judgment/sentence/verdict; judging; jurisdiction/authority; opinion/belief",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "iungō iungere iūnxī iūnctus",
+        "type": "Verb",
+        "gloss": "join",
+        "definition": "join, unite; bring together, clasp (hands); connect, yoke, harness",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "Iūnō Iūnōnis f.",
+        "type": "Noun",
+        "gloss": "Juno",
+        "definition": "Juno",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "Iuppiter Iovis m.",
+        "type": "Noun",
+        "gloss": "Jupiter",
+        "definition": "Jupiter",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "iūs iūris n.",
+        "type": "Noun",
+        "gloss": "right, justice, law",
+        "definition": "law; legal system; code; right; duty; justice; court; binding decision; oath; gravy; broth; soup; sauce",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "iūssum iūssī n.",
+        "type": "Noun",
+        "gloss": "command, order",
+        "definition": "command, order",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "iuvenis iuvenis m.",
+        "type": "Noun",
+        "gloss": "youth",
+        "definition": "youth",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "lābor labī lapsus sum",
+        "type": "Verb",
+        "gloss": "glide, slip",
+        "definition": "glide, slip",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "labōrō labōrāre labōrāvī labōrātum",
+        "type": "Verb",
+        "gloss": "work",
+        "definition": "work; suffer, be distressed",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "lacrima lacrimae f.",
+        "type": "Noun",
+        "gloss": "tear",
+        "definition": "tear; exuded gum/sap; bit of lead; quicksilver from ore; weeping (pl.); dirge",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "laetus –a –um",
+        "type": "Adjective",
+        "gloss": "happy",
+        "definition": "happy",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "laudō laudāre laudāvī laudātus",
+        "type": "Verb",
+        "gloss": "praise",
+        "definition": "praise",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "laus laudis f.",
+        "type": "Noun",
+        "gloss": "praise, glory",
+        "definition": "praise, approval, merit; glory; renown",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "lēgātus lēgātī m.",
+        "type": "Noun",
+        "gloss": "lieutenant, envoy",
+        "definition": "legate, envoy; lieutenant",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "legō legere lēgī lēctus",
+        "type": "Verb",
+        "gloss": "gather; read",
+        "definition": "gather; choose; read; collect (cremated bones); furl (sail), weigh (anchor); pick out",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "lēx lēgis f.",
+        "type": "Noun",
+        "gloss": "law",
+        "definition": "law",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "libenter",
+        "type": "Adverb",
+        "gloss": "willingly",
+        "definition": "willingly; gladly, with pleasure",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "liber librī m.",
+        "type": "Noun",
+        "gloss": "book",
+        "definition": "book",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "līber lībera līberum",
+        "type": "Adjective",
+        "gloss": "free",
+        "definition": "free (man); unimpeded; void of; independent, outspoken/frank; free from tribute; unconstrained, unrestrained, unencumbered; licentious; idle; w/abandon",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "līberō līberāre līberāvī līberātus",
+        "type": "Verb",
+        "gloss": "free",
+        "definition": "free, liberate",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "lībertās lībertātis f.",
+        "type": "Noun",
+        "gloss": "freedom",
+        "definition": "freedom",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "licet licēre licuit/licitum est",
+        "type": "Verb",
+        "gloss": "it is permitted",
+        "definition": "it is permitted",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "littera litterae f.",
+        "type": "Noun",
+        "gloss": "letter (of the alphabet)",
+        "definition": "letter (of the alphabet); in pl., letter, epistle",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "lītus litōris n.",
+        "type": "Noun",
+        "gloss": "sea-shore",
+        "definition": "sea-shore",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "locus locī m. or loca locārum n. pl.",
+        "type": "Noun",
+        "gloss": "place, region",
+        "definition": "place, region, part",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "longē",
+        "type": "Adverb",
+        "gloss": "far",
+        "definition": "a long way, far; by far",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "longus –a –um",
+        "type": "Adjective",
+        "gloss": "long, far",
+        "definition": "long; far; long-standing; far-reaching",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "loquor loquī locūtus sum",
+        "type": "Verb",
+        "gloss": "speak",
+        "definition": "speak",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "lūmen luminis n.",
+        "type": "Noun",
+        "gloss": "light",
+        "definition": "light; lamp, torch; eye (of a person); life; day, daylight",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "lūna lūnae f.",
+        "type": "Noun",
+        "gloss": "moon",
+        "definition": "moon",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "lūx lūcis f.",
+        "type": "Noun",
+        "gloss": "daylight",
+        "definition": "light, daylight",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "magister magistrī m.",
+        "type": "Noun",
+        "gloss": "master, chief",
+        "definition": "master, chief",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "magnopere",
+        "type": "Adverb",
+        "gloss": "greatly",
+        "definition": "greatly",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "magnus –a –um",
+        "type": "Adjective",
+        "gloss": "great",
+        "definition": "large, big; great; vast/huge; much; powerful; tall/long/broad; extensive/spacious; great (achievement); mighty; distinguished; skilled; bold/confident; proud; full/complete/utter/pure; intense; loud; at high price; notable/famous; old",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "maiōrēs maiōrum m. pl.",
+        "type": "Noun",
+        "gloss": "ancestors",
+        "definition": "ancestors",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "male",
+        "type": "Adverb",
+        "gloss": "badly",
+        "definition": "badly",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mālō mālle māluī",
+        "type": "Verb",
+        "gloss": "prefer",
+        "definition": "want more, prefer",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "malus –a –um",
+        "type": "Adjective",
+        "gloss": "bad, evil",
+        "definition": "bad, evil",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "maneō manēre mānsī mānsūrus",
+        "type": "Verb",
+        "gloss": "remain",
+        "definition": "remain, stay; await; abide; wait for; continue, endure, last; spend the night (sexual)",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "manus manūs f.",
+        "type": "Noun",
+        "gloss": "hand; band of men",
+        "definition": "hand; band, troop",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "Marcus Marcī m.",
+        "type": "Noun",
+        "gloss": "Marcus",
+        "definition": "Marcus",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "mare maris n.",
+        "type": "Noun",
+        "gloss": "sea",
+        "definition": "sea",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "Mārs Mārtis m.",
+        "type": "Noun",
+        "gloss": "Mars",
+        "definition": "Mars",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "māter mātris f.",
+        "type": "Noun",
+        "gloss": "mother",
+        "definition": "mother",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "medius –a –um",
+        "type": "Adjective",
+        "gloss": "middle, midst",
+        "definition": "middle (of); as subst., midst; common, neutral, ordinary, moderate; ambiguous",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "meminī meminisse",
+        "type": "Verb",
+        "gloss": "remember, recollect",
+        "definition": "remember, be mindful (of)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "memor",
+        "type": "Adjective",
+        "gloss": "remembering",
+        "definition": "remembering; mindful (of, + gen.), grateful; unforgetting, commemorative",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "memoria memoriae f.",
+        "type": "Noun",
+        "gloss": "memory",
+        "definition": "memory",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "mēns mentis f.",
+        "type": "Noun",
+        "gloss": "mind",
+        "definition": "mind; intention, purpose; attitude",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "mēnsa mēnsae f.",
+        "type": "Noun",
+        "gloss": "table",
+        "definition": "table; course, meal; banker's counter",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "metuō metuere metuī",
+        "type": "Verb",
+        "gloss": "fear, dread",
+        "definition": "fear, dread",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "metus metūs m.",
+        "type": "Noun",
+        "gloss": "fear, dread, anxiety",
+        "definition": "fear, dread, anxiety",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "meus –a –um",
+        "type": "Pronoun",
+        "gloss": "my, mine",
+        "definition": "my, mine",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mīles mīlitis m.",
+        "type": "Noun",
+        "gloss": "soldier",
+        "definition": "soldier",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "minimus –a –um",
+        "type": "Adjective",
+        "gloss": "least, smallest",
+        "definition": "least, smallest, very small, minute, trifling, insignificant",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "minor minārī minātus sum",
+        "type": "Verb",
+        "gloss": "threaten",
+        "definition": "threaten, speak/act menacingly; make threatening movement; give indication of",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mīror mīrārī mīrātus sum",
+        "type": "Verb",
+        "gloss": "wonder, be astonished",
+        "definition": "wonder at, be astonished",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "misceō miscēre miscuī mixtus",
+        "type": "Verb",
+        "gloss": "mix, mingle",
+        "definition": "to mix; mingle (the object with which is in dat., or in abl. alone, or w. prep.); unite; multiply; assemble, flock together; confuse, disturb, confound, agitate; scatter",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "miser misera miserum",
+        "type": "Adjective",
+        "gloss": "wretched, pitiable",
+        "definition": "wretched, pitiable, miserable",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "miseret miserēre miseruit/miseritum est",
+        "type": "Verb",
+        "gloss": "it moves to pity",
+        "definition": "it moves (one) to pity",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "misereor –ērī miseritus sum",
+        "type": "Verb",
+        "gloss": "pity",
+        "definition": "pity",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mittō mittere mīsī missus",
+        "type": "Verb",
+        "gloss": "send",
+        "definition": "send",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "modo",
+        "type": "Adverb",
+        "gloss": "only, just now",
+        "definition": "provided that; only, just; now, just now",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "modus modī m.",
+        "type": "Noun",
+        "gloss": "measure; manner",
+        "definition": "measure; limit; rhythm, meter; manner, way",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "moenia moenium n. pl.",
+        "type": "Noun",
+        "gloss": "walls",
+        "definition": "(city) walls",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "moneō monēre monuī monitus",
+        "type": "Verb",
+        "gloss": "warn, advise",
+        "definition": "warn; remind; advise",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mōns montis m.",
+        "type": "Noun",
+        "gloss": "mountain",
+        "definition": "mountain",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "mōnstrō mōnstrāre mōnstrāvī mōnstrātus",
+        "type": "Verb",
+        "gloss": "show, point out",
+        "definition": "show, point out",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mōra mōrae f.",
+        "type": "Noun",
+        "gloss": "delay",
+        "definition": "delay",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "morior morī mortuus sum",
+        "type": "Verb",
+        "gloss": "die",
+        "definition": "die",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "moror morārī morātus sum",
+        "type": "Verb",
+        "gloss": "delay",
+        "definition": "hinder, delay, wait",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mors mortis f.",
+        "type": "Noun",
+        "gloss": "death",
+        "definition": "death",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "mōs mōris m.",
+        "type": "Noun",
+        "gloss": "custom",
+        "definition": "custom, practice, habit; mood, manner, fashion; character (pl.), behavior, morals",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "mōtus mōtūs m.",
+        "type": "Noun",
+        "gloss": "motion, movement",
+        "definition": "motion, movement; disturbance",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "moveō movēre mōvī mōtus",
+        "type": "Verb",
+        "gloss": "move",
+        "definition": "set in motion, stir (up), move",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mox",
+        "type": "Adverb",
+        "gloss": "soon; then",
+        "definition": "soon; then",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "multum",
+        "type": "Adverb",
+        "gloss": "much, a lot",
+        "definition": "much, a lot",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "multus –a –um",
+        "type": "Adjective",
+        "gloss": "much, many",
+        "definition": "much, many",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "mūnio mūnīre mūnīvī mūnītus",
+        "type": "Verb",
+        "gloss": "build, fortify",
+        "definition": "fortify; strengthen; protect, defend, safeguard; build (road)",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "mūtō mūtāre mūtāvī mūtātus",
+        "type": "Verb",
+        "gloss": "change",
+        "definition": "change; take in exchange, give in exchange",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nam",
+        "type": "Conjunction",
+        "gloss": "for",
+        "definition": "for",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nāscor nāscī nātus sum",
+        "type": "Verb",
+        "gloss": "be born",
+        "definition": "be born",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nātūra nātūrae f.",
+        "type": "Noun",
+        "gloss": "nature",
+        "definition": "nature",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "nātus nātī m.",
+        "type": "Noun",
+        "gloss": "son",
+        "definition": "son",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "nāvis nāvis f.",
+        "type": "Noun",
+        "gloss": "ship",
+        "definition": "ship",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "nauta nautae m.",
+        "type": "Noun",
+        "gloss": "sailor",
+        "definition": "sailor",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "–ne",
+        "type": "Adverb",
+        "gloss": "(added to the first word of a question)",
+        "definition": "(added to the first word of a question)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nē",
+        "type": "Conjunction",
+        "gloss": "not; in order that…not; that…not; that",
+        "definition": "(introduces negative purpose clause) in order that…not; (introduces negative indirect command) that…not; (introduces positive fear clause) that",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nec",
+        "type": "Conjunction",
+        "gloss": "nor; and not",
+        "definition": "nor; and not, not, neither, not even",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "necesse",
+        "type": "Adjective",
+        "gloss": "necessary (undeclinable)",
+        "definition": "necessary",
+        "conjugation": "None",
+        "declension": "5",
+        "numbers": "None"
+    },
+    {
+        "word": "necne",
+        "type": "Adverb",
+        "gloss": "or not",
+        "definition": "(in Indirect Question) or not",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "neglegō neglegere neglēxī neglēctus",
+        "type": "Verb",
+        "gloss": "disregard, neglect",
+        "definition": "disregard, neglect, ignore, regard of no consequence; do nothing about; despise",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "negō negāre negāvī negātus",
+        "type": "Verb",
+        "gloss": "deny, refuse",
+        "definition": "deny, refuse; say ... Not",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nēmō nēminis m. or f.",
+        "type": "Pronoun",
+        "gloss": "no one",
+        "definition": "no one",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nemus nemoris n.",
+        "type": "Noun",
+        "gloss": "grove, forest",
+        "definition": "grove, forest",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "neque/nec",
+        "type": "Conjunction",
+        "gloss": "and not",
+        "definition": "and not",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "neque/nec…neque/nec",
+        "type": "Idiom",
+        "gloss": "neither...nor",
+        "definition": "neither…nor",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nē…quidem",
+        "type": "Idiom",
+        "gloss": "not even",
+        "definition": "not even",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nesciō nescīre nescīvī/nesciī nescītus",
+        "type": "Verb",
+        "gloss": "not know",
+        "definition": "not know",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "neuter neutra neutrum",
+        "type": "Pronoun",
+        "gloss": "neither",
+        "definition": "neither (of two)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nihil or nīl n.",
+        "type": "Pronoun",
+        "gloss": "nothing",
+        "definition": "nothing",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nihilum/nīlum nihilī/nīlī n.",
+        "type": "Noun",
+        "gloss": "nothing",
+        "definition": "nothing; nothingness, which does not exist; something valueless; no respect",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "nisī or ni",
+        "type": "Conjunction",
+        "gloss": "if...not; unless",
+        "definition": "if…not, unless",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "noceō nocēre nocuī nocitus",
+        "type": "Verb",
+        "gloss": "harm",
+        "definition": "harm, hurt; injure (+ dat.)",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nōlō nōlle nōluī",
+        "type": "Verb",
+        "gloss": "be unwilling",
+        "definition": "be unwilling, not want, not wish",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nōmen nōminis n.",
+        "type": "Noun",
+        "gloss": "name",
+        "definition": "name",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "nōn",
+        "type": "Adverb",
+        "gloss": "not",
+        "definition": "not",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nōnne",
+        "type": "Adverb",
+        "gloss": "introduces a direct question expecting the answer \"yes\"",
+        "definition": "introduces a direct question expecting the answer \"yes\"",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nōn sōlum…sed/vērum etiam",
+        "type": "Idiom",
+        "gloss": "not only...but also",
+        "definition": "not only…but also",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nōscō nōscere nōvī nōtus",
+        "type": "Verb",
+        "gloss": "learn, know",
+        "definition": "come to know, learn, recognize; in perfect, know; become cognizant of/acquainted/familiar with;",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "noster nostra nostrum",
+        "type": "Pronoun",
+        "gloss": "our, ours",
+        "definition": "our, ours",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nōtus –a –um",
+        "type": "Adjective",
+        "gloss": "well-known",
+        "definition": "well-known, familiar, notable, famous, esteemed; notorious, of ill-repute",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "novus –a –um",
+        "type": "Adjective",
+        "gloss": "new",
+        "definition": "new, fresh, young; unusual, extraordinary (> novae res, f. pl. = revolution)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "nox noctis f.",
+        "type": "Noun",
+        "gloss": "night",
+        "definition": "night",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "noxa noxae f.",
+        "type": "Noun",
+        "gloss": "harm, injury",
+        "definition": "harm, injury",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "nūllus –a –um",
+        "type": "Pronoun",
+        "gloss": "not any, no",
+        "definition": "not any, no",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "num",
+        "type": "Adverb",
+        "gloss": "whether",
+        "definition": "introduces a direct question expecting the answer \"no\"; (introduces an Indirect Question) whether",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nūmen nūminis n.",
+        "type": "Noun",
+        "gloss": "divine will",
+        "definition": "divine power/will, divinity, divine spirit, numen",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "numerus numerī m.",
+        "type": "Noun",
+        "gloss": "coin, money",
+        "definition": "coin, money",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "numquam",
+        "type": "Adverb",
+        "gloss": "never",
+        "definition": "never",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nunc",
+        "type": "Adverb",
+        "gloss": "now",
+        "definition": "now",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nūntiō nuntiāre nuntiāvī nuntiātus",
+        "type": "Verb",
+        "gloss": "announce",
+        "definition": "announce/report/bring word/give warning; convey/deliver/relate message/greeting",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nūntius nūnti(ī) m.",
+        "type": "Noun",
+        "gloss": "messenger; news",
+        "definition": "messenger/herald/envoy; message (oral), warning; report; messenger's speech",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "nūper",
+        "type": "Adverb",
+        "gloss": "not long ago",
+        "definition": "recently, not long ago; in recent years/our own time; (superlative) latest in series",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nusquam",
+        "type": "Adverb",
+        "gloss": "nowhere",
+        "definition": "nowhere; on no occasion",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "nūtrīx nūtrīcis f.",
+        "type": "Noun",
+        "gloss": "nurse",
+        "definition": "nurse",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "ob",
+        "type": "Preposition",
+        "gloss": "on account of",
+        "definition": "on account of, because of (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "obitus –ūs m.",
+        "type": "Noun",
+        "gloss": "downfall, a going down",
+        "definition": "a going down, setting; downfall, ruin",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "oblīvīscor oblīvīscī oblītus sum",
+        "type": "Verb",
+        "gloss": "forget",
+        "definition": "forget (+ gen.)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "obstō obstāre obstitī obstātum",
+        "type": "Verb",
+        "gloss": "stand before, stand in the way",
+        "definition": "stand in the way; hinder, block",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "occīdō occīdere occīdī occīsum",
+        "type": "Verb",
+        "gloss": "to strike down, knock down",
+        "definition": "to strike down , strike to the ground; ruin; plague; to beat , smash , crush",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "occultē",
+        "type": "Other",
+        "gloss": "in secret",
+        "definition": "in secret",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "Adverb"
+    },
+    {
+        "word": "oculus oculī m.",
+        "type": "Noun",
+        "gloss": "eye",
+        "definition": "eye",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "ōdī ōdisse",
+        "type": "Verb",
+        "gloss": "hate",
+        "definition": "hate",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "odium odiī n.",
+        "type": "Noun",
+        "gloss": "hatred",
+        "definition": "hatred",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "omnīnō",
+        "type": "Adverb",
+        "gloss": "entirely",
+        "definition": "entirely, altogether [after negatives/with numerals => at all/in all]",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "omnis omne",
+        "type": "Pronoun",
+        "gloss": "every; all",
+        "definition": "every; all",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "opīniō opīniōnis f.",
+        "type": "Noun",
+        "gloss": "opinion",
+        "definition": "belief, idea, opinion; rumor",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "oportet oportēre oportuit",
+        "type": "Verb",
+        "gloss": "it is proper/right",
+        "definition": "it is proper, it is right",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "oppidum oppidī n.",
+        "type": "Noun",
+        "gloss": "town",
+        "definition": "town",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "opprimō opprimere oppressī oppressus",
+        "type": "Verb",
+        "gloss": "press on",
+        "definition": "press on; close; overwhelm, oppress",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "oppugnō oppugnāre oppugnāvī oppugnātus",
+        "type": "Verb",
+        "gloss": "attack",
+        "definition": "attack",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ops opis f.",
+        "type": "Noun",
+        "gloss": "resources",
+        "definition": "power, might; help; influence; resources/wealth (pl.)",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "optō optāre optāvī optātus",
+        "type": "Verb",
+        "gloss": "desire; choose",
+        "definition": "desire; choose",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "opus operis n.",
+        "type": "Noun",
+        "gloss": "work; need",
+        "definition": "work; need",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "opus est",
+        "type": "Idiom",
+        "gloss": "there is need of",
+        "definition": "there is need of",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ōrātiō ōrātiōnis f.",
+        "type": "Noun",
+        "gloss": "oration, speech",
+        "definition": "oration, speech",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "ōrātor ōrātōris m.",
+        "type": "Noun",
+        "gloss": "speaker",
+        "definition": "speaker",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "orbis orbis m.",
+        "type": "Noun",
+        "gloss": "circle, orb",
+        "definition": "circle, orb",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "orbis terrārum",
+        "type": "Idiom",
+        "gloss": "world",
+        "definition": "world",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "orior orīrī ortus sum",
+        "type": "Verb",
+        "gloss": "rise, arise",
+        "definition": "rise, arise",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "orō orāre orāvī orātus",
+        "type": "Verb",
+        "gloss": "pray",
+        "definition": "pray (for), beg (for)",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ortus ortūs m.",
+        "type": "Noun",
+        "gloss": "birth, rising",
+        "definition": "birth, rising",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "ōs ōris n.",
+        "type": "Noun",
+        "gloss": "mouth, face",
+        "definition": "mouth; face",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "ostendō ostendere ostendī",
+        "type": "Verb",
+        "gloss": "show",
+        "definition": "show; reveal; make clear, point out, display, exhibit",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "paene",
+        "type": "Adverb",
+        "gloss": "almost",
+        "definition": "nearly, almost; mostly",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "paenitet paenitēre paenituit",
+        "type": "Verb",
+        "gloss": "it causes to regret",
+        "definition": "it causes (one) to repent or regret",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "parcō parcere pepercī parsus",
+        "type": "Verb",
+        "gloss": "spare",
+        "definition": "forbear, refrain from; spare; show consideration; be economical/thrifty with",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "parēns parentis m. or f.",
+        "type": "Noun",
+        "gloss": "parent",
+        "definition": "parent, father, mother",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "pāreō pārēre pāruī pāritūrus",
+        "type": "Verb",
+        "gloss": "obey",
+        "definition": "be obedient, obey (+ dat.); appear, be visible, be at hand",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "parō parāre parāvī parātus",
+        "type": "Verb",
+        "gloss": "prepare",
+        "definition": "prepare; furnish/supply/provide; produce; obtain/get; buy; raise; put up; plan",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "pars partis f.",
+        "type": "Noun",
+        "gloss": "part",
+        "definition": "part",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "parum; minus; minimē",
+        "type": "Adverb",
+        "gloss": "too little",
+        "definition": "too/very little, not enough/so good, insufficient; less",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "parvus –a –um minor –or –us minimus –a –um",
+        "type": "Adjective",
+        "gloss": "small",
+        "definition": "small, little, cheap; unimportant",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "pater patris m.",
+        "type": "Noun",
+        "gloss": "father",
+        "definition": "father",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "patior patī passus sum",
+        "type": "Verb",
+        "gloss": "permit, endure",
+        "definition": "experience, suffer, endure; permit, allow",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "patria patriae f.",
+        "type": "Noun",
+        "gloss": "country",
+        "definition": "country, homeland",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "paucī –ae –a",
+        "type": "Adjective",
+        "gloss": "few",
+        "definition": "few",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "paulus –a –um",
+        "type": "Adjective",
+        "gloss": "little, small",
+        "definition": "little; small; (only a) small amount/quantity of/little bit of",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "pauper pauperis m.",
+        "type": "Adjective",
+        "gloss": "poor man",
+        "definition": "poor man",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "pāx pācis f.",
+        "type": "Noun",
+        "gloss": "peace; favor",
+        "definition": "peace; favor",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "pectus pectoris n.",
+        "type": "Noun",
+        "gloss": "chest, breast; heart",
+        "definition": "chest, breast; heart",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "pecūnia pecūniae f.",
+        "type": "Noun",
+        "gloss": "money",
+        "definition": "money",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "pellō pellere pepulī pulsus",
+        "type": "Verb",
+        "gloss": "strike",
+        "definition": "push, drive (off)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "per",
+        "type": "Preposition",
+        "gloss": "through",
+        "definition": "through (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "perdō perdere perdidī perditus",
+        "type": "Verb",
+        "gloss": "destroy",
+        "definition": "destroy; lose",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "pereō perīre periī peritūs",
+        "type": "Verb",
+        "gloss": "perish",
+        "definition": "perish, die; pass away, be destroyed, be ruined; go to waste",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "perficiō perficere perfēcī perfectus",
+        "type": "Verb",
+        "gloss": "complete, accomplish",
+        "definition": "complete, accomplish",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "perīculum perīculī n.",
+        "type": "Noun",
+        "gloss": "danger",
+        "definition": "danger",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "persuādeō persuādēre persuāsī persuāsus",
+        "type": "Verb",
+        "gloss": "persuade",
+        "definition": "persuade, convince (+ dat.)",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "perveniō pervenīre pervēnī perventus",
+        "type": "Verb",
+        "gloss": "reach",
+        "definition": "come to; reach; arrive",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "pēs pedis m.",
+        "type": "Noun",
+        "gloss": "foot",
+        "definition": "foot [pedem referre => to retreat]",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "petō petere petiī/petīvī petītus",
+        "type": "Verb",
+        "gloss": "seek",
+        "definition": "ask for, seek; attack",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "piget pigēre piguit pigitum est",
+        "type": "Verb",
+        "gloss": "it disgusts",
+        "definition": "it disgusts (one), it irks (one)",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "pius –a –um",
+        "type": "Adjective",
+        "gloss": "duitful",
+        "definition": "dutiful, loyal",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "placeō placēre placuī placitum",
+        "type": "Verb",
+        "gloss": "please",
+        "definition": "be pleasing, please (+ dat.)",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "plēbs plēbis f.",
+        "type": "Noun",
+        "gloss": "common people",
+        "definition": "common people, general citizens, commons/plebeians; lower class/ranks; mob/mass",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "poena poenae f.",
+        "type": "Noun",
+        "gloss": "punishment",
+        "definition": "punishment, penalty",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "poenās dare",
+        "type": "Idiom",
+        "gloss": "pay the penalty",
+        "definition": "to pay the penalty",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "poēta poētae m.",
+        "type": "Noun",
+        "gloss": "poet",
+        "definition": "poet",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "polliceor pollicērī pollicitus sum",
+        "type": "Verb",
+        "gloss": "promise",
+        "definition": "promise",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "pōnō pōnere posuī positus",
+        "type": "Verb",
+        "gloss": "place",
+        "definition": "put, place; set aside",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "populus populī m.",
+        "type": "Noun",
+        "gloss": "people",
+        "definition": "(the) people; populace",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "porta portae f.",
+        "type": "Noun",
+        "gloss": "gate",
+        "definition": "gate, entrance; city gates; door; avenue; goal (soccer)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "portō portāre portāvī portātus",
+        "type": "Verb",
+        "gloss": "carry a load",
+        "definition": "carry a load, transport",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "poscō poscere poposcī",
+        "type": "Verb",
+        "gloss": "demand",
+        "definition": "ask, demand",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "possum posse potuī",
+        "type": "Verb",
+        "gloss": "be able",
+        "definition": "be able, can",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "post",
+        "type": "Preposition",
+        "gloss": "after (adv. and prep. +acc.)",
+        "definition": "after(ward), later; behind (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "postquam",
+        "type": "Conjunction",
+        "gloss": "after",
+        "definition": "after",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "praeferō praeferre praetulī praelātus",
+        "type": "Verb",
+        "gloss": "prefer",
+        "definition": "prefer",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "praeficiō praeficere praefēcī praefectus",
+        "type": "Verb",
+        "gloss": "put in charge",
+        "definition": "put in charge (of)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "praemium praemi(i) n.",
+        "type": "Noun",
+        "gloss": "reward",
+        "definition": "prize, reward; gift; recompense",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "praesum praeesse praefuī praefutūrus",
+        "type": "Verb",
+        "gloss": "be before; be present",
+        "definition": "be in charge/control/head (of) (+ dat.); take the lead (in); be present (at)",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "precor precārī precātus sum",
+        "type": "Verb",
+        "gloss": "beg, pray",
+        "definition": "beg, pray",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "premō premere pressī pressus",
+        "type": "Verb",
+        "gloss": "press",
+        "definition": "press (hard); overpower; check",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "pretium pretiī n.",
+        "type": "Noun",
+        "gloss": "price, value",
+        "definition": "price, value",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "prīmā lūce",
+        "type": "Idiom",
+        "gloss": "at daybreak",
+        "definition": "at daybreak",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "prius or priusquam",
+        "type": "Number",
+        "gloss": "earlier, preceding",
+        "definition": "earlier, preceding",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "1"
+    },
+    {
+        "word": "priusquam",
+        "type": "Conjunction",
+        "gloss": "before",
+        "definition": "before; until; sooner than",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "prō",
+        "type": "Preposition",
+        "gloss": "for",
+        "definition": "in front of; on behalf of, for; in return for, instead of (+ abl.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "proficīscor proficīscī profectus sum",
+        "type": "Verb",
+        "gloss": "set forth",
+        "definition": "set out, set forth",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "profugus –ī m.",
+        "type": "Noun",
+        "gloss": "fugitive, exile",
+        "definition": "fugitive, exile",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "prōgredior prōgredī prōgressus sum",
+        "type": "Verb",
+        "gloss": "go forward",
+        "definition": "go, come forth, go forward, march forward; advance, proceed, make progress",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "prohibeō prohibēre prohibuī prohibitus",
+        "type": "Verb",
+        "gloss": "prevent",
+        "definition": "prevent; prohibit, forbid",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "properō properāre properāvī properātus",
+        "type": "Verb",
+        "gloss": "hasten",
+        "definition": "hasten, speed",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "propter",
+        "type": "Preposition",
+        "gloss": "because of",
+        "definition": "on account of, because of (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "prōsum prōdesse prōfuī prōfutūrus",
+        "type": "Verb",
+        "gloss": "be useful",
+        "definition": "be useful, be advantageous, benefit, profit (+ dat.)",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "prōvincia prōvinciae f.",
+        "type": "Noun",
+        "gloss": "province",
+        "definition": "province",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "proximus proximi m.",
+        "type": "Adjective",
+        "gloss": "neighbor",
+        "definition": "neighbor; nearest one",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "pūblicus –a –um",
+        "type": "Adjective",
+        "gloss": "public",
+        "definition": "public; common, of the people/state; official [res publica => the state]",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "pudet pudēre puduit/puditum est",
+        "type": "Verb",
+        "gloss": "makes ashamed",
+        "definition": "it makes (one) ashamed",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "puella puellae f.",
+        "type": "Noun",
+        "gloss": "girl",
+        "definition": "girl",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "puer puerī m.",
+        "type": "Noun",
+        "gloss": "boy",
+        "definition": "boy",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "pugna pugnae f.",
+        "type": "Noun",
+        "gloss": "battle, fight",
+        "definition": "battle, fight",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "pugnō pugnāre pugnāvī pugnātum",
+        "type": "Verb",
+        "gloss": "fight",
+        "definition": "fight",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "pulcher pulchra pulchrum",
+        "type": "Adjective",
+        "gloss": "beautiful",
+        "definition": "beautiful, handsome",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "putō putāre putāvī putātus",
+        "type": "Verb",
+        "gloss": "think",
+        "definition": "think, suppose",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quaerō quaerere quaesiī/quaesīvī quaesītus",
+        "type": "Verb",
+        "gloss": "seek",
+        "definition": "search for, seek, ask",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quālis quāle",
+        "type": "Pronoun",
+        "gloss": "what sort",
+        "definition": "what sort of; of which sort, as",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quam",
+        "type": "Adverb",
+        "gloss": "than; as, how",
+        "definition": "than; as, how",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quamdiū",
+        "type": "Adverb",
+        "gloss": "as long as",
+        "definition": "(for) how long; as long as",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quam ob rem",
+        "type": "Adverb",
+        "gloss": "therefore",
+        "definition": "on account of which thing; therefore; why",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quam prīmum",
+        "type": "Adverb",
+        "gloss": "as soon as possible",
+        "definition": "as soon as possible",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quamquam",
+        "type": "Conjunction",
+        "gloss": "although",
+        "definition": "although",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quamvīs",
+        "type": "Adverb",
+        "gloss": "however you like",
+        "definition": "however you like; altogether",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quandō",
+        "type": "Adverb",
+        "gloss": "when, since",
+        "definition": "when, since, because [si quando => if ever]",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quantus –a –um",
+        "type": "Pronoun",
+        "gloss": "how great",
+        "definition": "how great; how much/many; of what size/amount/degree/number/worth/price",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quārē",
+        "type": "Adverb",
+        "gloss": "why",
+        "definition": "because of which thing; therefore; why",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quasi",
+        "type": "Adverb",
+        "gloss": "as if",
+        "definition": "as if, just as if, as though; as it were; about",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "–que",
+        "type": "Conjunction",
+        "gloss": "and",
+        "definition": "and; both…and",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quī quae quod",
+        "type": "Pronoun",
+        "gloss": "who, which",
+        "definition": "some, any; what…, which...; who, which, that",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quia",
+        "type": "Conjunction",
+        "gloss": "because",
+        "definition": "because",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quīdam quaedam quiddam",
+        "type": "Pronoun",
+        "gloss": "a certain person/thing",
+        "definition": "a certain person, a certain thing",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quidem",
+        "type": "Adverb",
+        "gloss": "certainly",
+        "definition": "indeed, certainly; at least",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quīn",
+        "type": "Adverb",
+        "gloss": "introduces Relative Clause of Characteristic, Doubting clause, Prevention clause",
+        "definition": "introduces Relative Clause of Characteristic, Doubting clause, Prevention clause",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quīnque; quīntus –a –um",
+        "type": "Other",
+        "gloss": "5; 5th",
+        "definition": "5; 5th",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "1"
+    },
+    {
+        "word": "quīque quaeque quodque",
+        "type": "Pronoun",
+        "gloss": "each",
+        "definition": "each, every",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quis quid",
+        "type": "Pronoun",
+        "gloss": "who/what",
+        "definition": "who, what",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quisquam quicquam",
+        "type": "Pronoun",
+        "gloss": "someone, anyone",
+        "definition": "someone, something; anyone, anything",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quisque quidque/quīcque",
+        "type": "Pronoun",
+        "gloss": "each, every",
+        "definition": "each, every; each one, every one, everything; in apposition w. pl.",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quō",
+        "type": "Adverb",
+        "gloss": "where",
+        "definition": "where, whither",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quoad",
+        "type": "Adverb",
+        "gloss": "as long as",
+        "definition": "as long as, until",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quod",
+        "type": "Conjunction",
+        "gloss": "the fact that",
+        "definition": "because, the fact that",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quodsī",
+        "type": "Conjunction",
+        "gloss": "but if",
+        "definition": "but if",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quōminus",
+        "type": "Conjunction",
+        "gloss": "by which the less",
+        "definition": "(introduces Prevention clause) by which the less, from",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quoniam",
+        "type": "Conjunction",
+        "gloss": "since",
+        "definition": "since, because",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "quot",
+        "type": "Pronoun",
+        "gloss": "how many (undeclinable)",
+        "definition": "how many",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "radius radi(ī) m.",
+        "type": "Noun",
+        "gloss": "ray; beam",
+        "definition": "spoke of a wheel, stick",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "recipiō recipere recēpī receptus",
+        "type": "Verb",
+        "gloss": "take back",
+        "definition": "keep back; recover; undertake; guarantee; accept, take in; take back",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "redeō redīre rediī reditum",
+        "type": "Verb",
+        "gloss": "go back",
+        "definition": "return, go back, give back; fall back on, revert to; respond, pay back",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "rēfert rēferre rētulit",
+        "type": "Verb",
+        "gloss": "it concerns",
+        "definition": "it is important, it concerns",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "rēgīna rēgīnae f.",
+        "type": "Noun",
+        "gloss": "queen",
+        "definition": "queen",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "rēgnum rēgnī n.",
+        "type": "Noun",
+        "gloss": "royal power",
+        "definition": "royal power; power; control; kingdom",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "regō regere rēxī rēctus",
+        "type": "Verb",
+        "gloss": "rule",
+        "definition": "rule, control, guide; manage, direct",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "religiō religiōnis f.",
+        "type": "Noun",
+        "gloss": "rite; scruple",
+        "definition": "supernatural constraint, taboo; obligation; sanction; worship; rite; sanctity; reverence, respect, awe, conscience, scruples; religion; order of monks/nuns",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "relinquō relinquere relīquī relictus",
+        "type": "Verb",
+        "gloss": "abandon",
+        "definition": "leave (behind), abandon",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "reliquus –a –um",
+        "type": "Adjective",
+        "gloss": "remaining",
+        "definition": "remaining, rest (of)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "remaneō remanēre remānsī remānsus",
+        "type": "Verb",
+        "gloss": "stay behind",
+        "definition": "stay behind; continue, remain",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "removeō removēre removī remōtus",
+        "type": "Verb",
+        "gloss": "move back",
+        "definition": "move back; put away; withdraw; remove",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "rēs reī f.",
+        "type": "Noun",
+        "gloss": "thing",
+        "definition": "thing; property; matter, affair; activity; situation",
+        "conjugation": "None",
+        "declension": "5",
+        "numbers": "None"
+    },
+    {
+        "word": "respondeō respondēre respondī respōnsus",
+        "type": "Verb",
+        "gloss": "answer",
+        "definition": "answer",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "rēs publica reī publicae f.",
+        "type": "Noun",
+        "gloss": "republic",
+        "definition": "republic",
+        "conjugation": "None",
+        "declension": "5",
+        "numbers": "None"
+    },
+    {
+        "word": "retegō retegere retēxī retēctus",
+        "type": "Verb",
+        "gloss": "uncover, reveal",
+        "definition": "uncover, reveal",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "rēx rēgis m.",
+        "type": "Noun",
+        "gloss": "king",
+        "definition": "king",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "rīdeō rīdēre rīsī rīsus",
+        "type": "Verb",
+        "gloss": "laugh",
+        "definition": "laugh at (+ dat.), laugh; ridicule",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "rogō rogāre rogāvī rogātus",
+        "type": "Verb",
+        "gloss": "ask",
+        "definition": "ask (for)",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "Rōma Rōmae f.",
+        "type": "Noun",
+        "gloss": "Rome",
+        "definition": "Rome",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "Rōmānus –a –um",
+        "type": "Adjective",
+        "gloss": "Roman",
+        "definition": "belonging to Rome; Roman; subst., Romanus, i, m., a Roman (> Roma)",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ruīna ruīnae f.",
+        "type": "Noun",
+        "gloss": "collapse",
+        "definition": "fall; catastrophe; collapse, destruction",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "rūmor rūmōris m.",
+        "type": "Noun",
+        "gloss": "rumor",
+        "definition": "rumor",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "ruō ruere ruī rūtum",
+        "type": "Verb",
+        "gloss": "rush",
+        "definition": "rush",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "rūs rūris n.",
+        "type": "Noun",
+        "gloss": "country",
+        "definition": "country(side)",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "saepe",
+        "type": "Adverb",
+        "gloss": "often",
+        "definition": "often",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "saevus –a –um",
+        "type": "Adjective",
+        "gloss": "savage",
+        "definition": "cruel, savage",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "salūs salūtis f.",
+        "type": "Noun",
+        "gloss": "health",
+        "definition": "safety, health",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "salūtem dīcere",
+        "type": "Idiom",
+        "gloss": "say hello",
+        "definition": "to say \"greetings,\" to say hello",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sānus –a –um",
+        "type": "Adjective",
+        "gloss": "sound",
+        "definition": "sound; healthy; sensible; sober; sane",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "sapiēns –ntis m.",
+        "type": "Noun",
+        "gloss": "wise",
+        "definition": "wise",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "sapientia sapientiae f.",
+        "type": "Noun",
+        "gloss": "wisdom",
+        "definition": "wisdom",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "satis or sat",
+        "type": "Adverb",
+        "gloss": "enough",
+        "definition": "enough, sufficiently",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "saxum saxī n.",
+        "type": "Noun",
+        "gloss": "stone",
+        "definition": "stone",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "scelus sceleris n.",
+        "type": "Noun",
+        "gloss": "crime",
+        "definition": "wicked deed, crime, sin; villainy",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "sciō scīre scīvī/sciī scītus",
+        "type": "Verb",
+        "gloss": "know",
+        "definition": "know",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "scrībō scrībere scrīpsī scrīptus",
+        "type": "Verb",
+        "gloss": "write",
+        "definition": "write",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "scrīptor –ōris m.",
+        "type": "Noun",
+        "gloss": "writer scribe",
+        "definition": "writer, scribe",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "sed",
+        "type": "Conjunction",
+        "gloss": "but",
+        "definition": "but",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "semper",
+        "type": "Adverb",
+        "gloss": "always",
+        "definition": "always",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "senex senis",
+        "type": "Noun",
+        "gloss": "old man",
+        "definition": "old man",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "sēnsus sēnsūs m.",
+        "type": "Noun",
+        "gloss": "feeling",
+        "definition": "perception, feeling; sense",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "sententia sententiae f.",
+        "type": "Noun",
+        "gloss": "opinion",
+        "definition": "thought, feeling; opinion",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "sentiō sentīre sēnsī sēnsus",
+        "type": "Verb",
+        "gloss": "perceive",
+        "definition": "perceive; feel",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sequor sequī secūtus sum",
+        "type": "Verb",
+        "gloss": "follow",
+        "definition": "follow",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sē recipere",
+        "type": "Idiom",
+        "gloss": "withdraw, take oneself",
+        "definition": "withdraw, take oneself",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "serēnus –a –um",
+        "type": "Adjective",
+        "gloss": "serene, calm",
+        "definition": "serene, calm",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "servitūs servitūtis f.",
+        "type": "Noun",
+        "gloss": "slavery",
+        "definition": "slavery",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "servō servāre servāvī servātus",
+        "type": "Verb",
+        "gloss": "save",
+        "definition": "save, preserve",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "servus servī m.",
+        "type": "Noun",
+        "gloss": "slave",
+        "definition": "slave",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "sī",
+        "type": "Conjunction",
+        "gloss": "if",
+        "definition": "if, freq.; causal, if, indeed, since; equivalent to cum; whether",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sīc",
+        "type": "Adverb",
+        "gloss": "thus",
+        "definition": "thus, so, in this way, in such a way",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sīdus sīderis n.",
+        "type": "Noun",
+        "gloss": "star",
+        "definition": "star, constellation",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "signum signī n.",
+        "type": "Noun",
+        "gloss": "sign",
+        "definition": "sign, signal; standard",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "similis simile",
+        "type": "Adjective",
+        "gloss": "similar",
+        "definition": "similar (+ gen. or dat.)",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "simulac",
+        "type": "Conjunction",
+        "gloss": "as soon as",
+        "definition": "as soon as, the moment that",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "simulatque",
+        "type": "Conjunction",
+        "gloss": "as soon as",
+        "definition": "as soon as, the moment that",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sine",
+        "type": "Preposition",
+        "gloss": "without",
+        "definition": "without (+ abl.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "socius –iī m.",
+        "type": "Noun",
+        "gloss": "an associate",
+        "definition": "an associate, ally; companion, friend, comrade",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "socius –a –um",
+        "type": "Adjective",
+        "gloss": "allied",
+        "definition": "sharing, joining in, partaking, united, associated, kindred, allied, fellow, common",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "sōl sōlis m.",
+        "type": "Noun",
+        "gloss": "sun",
+        "definition": "sun",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "soleō solēre solitus sum",
+        "type": "Verb",
+        "gloss": "be accustomed",
+        "definition": "be accustomed; be in the habit of; become accustomed to",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sollers sollertis",
+        "type": "Adjective",
+        "gloss": "skilled, expert",
+        "definition": "skilled, expert",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "solvō solvere solvī solūtus",
+        "type": "Verb",
+        "gloss": "release",
+        "definition": "loosen; free, release; dissolve",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sōlus –a –um",
+        "type": "Pronoun",
+        "gloss": "alone, only",
+        "definition": "alone, only",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "somnus somnī m.",
+        "type": "Noun",
+        "gloss": "sleep",
+        "definition": "sleep",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "soror sorōris f.",
+        "type": "Noun",
+        "gloss": "sister",
+        "definition": "sister",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "sors sortis f.",
+        "type": "Noun",
+        "gloss": "fate",
+        "definition": "lot, fate; oracular response",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "spargō spargere sparsī sparsum",
+        "type": "Verb",
+        "gloss": "scatter",
+        "definition": "to scatter, strew; cast in fragments; disperse; shower, hurl; sprinkle; besprinkle, bedew, stain; infuse; (fig.), spread abroad, disseminate; bring over or upon, diffuse",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "speciēs speciēī f.",
+        "type": "Noun",
+        "gloss": "appearance",
+        "definition": "appearance, aspect",
+        "conjugation": "None",
+        "declension": "5",
+        "numbers": "None"
+    },
+    {
+        "word": "spectō spectāre spectāvī spectātus",
+        "type": "Verb",
+        "gloss": "look at",
+        "definition": "look at, observe",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "spērō spērāre spērāvī spērātus",
+        "type": "Verb",
+        "gloss": "hope",
+        "definition": "hope (for)",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "spēs speī f.",
+        "type": "Noun",
+        "gloss": "hope",
+        "definition": "hope",
+        "conjugation": "None",
+        "declension": "5",
+        "numbers": "None"
+    },
+    {
+        "word": "statua statuae f.",
+        "type": "Noun",
+        "gloss": "statue",
+        "definition": "statue; image",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "stō stāre stetī statum",
+        "type": "Verb",
+        "gloss": "stand",
+        "definition": "stand; stand fast, endure",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "studeō studēre studuī",
+        "type": "Verb",
+        "gloss": "be eager",
+        "definition": "desire, be eager for; busy oneself with; strive",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "studiōsus –a –um",
+        "type": "Adjective",
+        "gloss": "eager",
+        "definition": "eager, keen, full of zeal; studious; devoted to, fond of",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "studium studiī n.",
+        "type": "Noun",
+        "gloss": "eagerness",
+        "definition": "zeal, enthusiasm; pursuit, study",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "sub",
+        "type": "Preposition",
+        "gloss": "under",
+        "definition": "under; at the foot of; near; up to (+ abl.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "suī sibi sē",
+        "type": "Pronoun",
+        "gloss": "him-/her-/itself",
+        "definition": "him-/her-/itself",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "sum esse fuī futūrus",
+        "type": "Verb",
+        "gloss": "be",
+        "definition": "be; exist; (also used to form verb perfect passive tenses) (+ nom. perfect participle)",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "summus –a –um",
+        "type": "Adjective",
+        "gloss": "highest",
+        "definition": "highest; top (of); last, final",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "superī –ōrum m.",
+        "type": "Noun",
+        "gloss": "those above, i.e. the gods",
+        "definition": "those above, i.e. the gods",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "superō superāre superāvī superātus",
+        "type": "Verb",
+        "gloss": "overcome",
+        "definition": "overcome, conquer; surpass",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "supersum superesse superfuī superfutūrus",
+        "type": "Verb",
+        "gloss": "be left over",
+        "definition": "be left over; survive; be in excess/superfluous (to); remain to be performed",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "superus –a –um",
+        "type": "Adjective",
+        "gloss": "above",
+        "definition": "above, high; higher, upper, of this world; greatest, last, highest",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "supplex supplicis",
+        "type": "Adjective",
+        "gloss": "suppliant",
+        "definition": "suppliant",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "sustineō sustinēre sustinuī sustentus",
+        "type": "Verb",
+        "gloss": "sustain",
+        "definition": "support; check; put off; put up with; sustain; hold back",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "suus –a –um",
+        "type": "Pronoun",
+        "gloss": "his/her/its own",
+        "definition": "his (own), her (own), its (own); their (own)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "taceō tacēre tacuī tacitus",
+        "type": "Verb",
+        "gloss": "be silent",
+        "definition": "be silent; pass over in silence; leave unmentioned, be silent about something",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "taeda taedae f.",
+        "type": "Noun",
+        "gloss": "torch",
+        "definition": "torch",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "taedet taedēre taesum est",
+        "type": "Verb",
+        "gloss": "it makes (one) tired",
+        "definition": "it makes (one) tired or sick",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tālis tāle",
+        "type": "Pronoun",
+        "gloss": "such",
+        "definition": "such, of such a sort",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tālis...quālis",
+        "type": "Idiom",
+        "gloss": "such...as",
+        "definition": "such...as",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tam",
+        "type": "Adverb",
+        "gloss": "so",
+        "definition": "so",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tamen",
+        "type": "Adverb",
+        "gloss": "nevertheless",
+        "definition": "nevertheless",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tamquam",
+        "type": "Adverb",
+        "gloss": "just as",
+        "definition": "as, just as, just as if; as it were, so to speak; as much as; so as",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tam...quam",
+        "type": "Conjunction",
+        "gloss": "so much...as",
+        "definition": "so much...as",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tandem",
+        "type": "Adverb",
+        "gloss": "finally",
+        "definition": "finally, at last; in questions and commands, pray, I ask you, then",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tantus –a –um",
+        "type": "Pronoun",
+        "gloss": "so much",
+        "definition": "so much, so great, of such size; [tantus ... quantus => as much ... as]",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tantus...quantus",
+        "type": "Idiom",
+        "gloss": "just as much/many...as",
+        "definition": "just as much/many...as",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tēctum –ī n.",
+        "type": "Noun",
+        "gloss": "roof",
+        "definition": "roof; building, house",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "tegō tegere tēxī tēctus",
+        "type": "Verb",
+        "gloss": "cover",
+        "definition": "cover, protect; defend; hide",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tempestās tempestātis f.",
+        "type": "Noun",
+        "gloss": "season",
+        "definition": "season, time, weather; storm",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "templum templī n.",
+        "type": "Noun",
+        "gloss": "temple",
+        "definition": "temple",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "temptō temptāre temptāvī temptātus",
+        "type": "Verb",
+        "gloss": "try",
+        "definition": "test, try; urge; worry; bribe",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tempus temporis n.",
+        "type": "Noun",
+        "gloss": "time",
+        "definition": "time",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "teneō tenēre tenuī tentus",
+        "type": "Verb",
+        "gloss": "hold",
+        "definition": "hold, grasp; keep possess; occupy",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tergum tergī n. and tergus –oris n.",
+        "type": "Noun",
+        "gloss": "the back of men or animals",
+        "definition": "the back of men or animals; the stern of a ship; skin, hide; gauntlet, hide; form, frame, body; carcass, body; length, long body; a layer, plate; pl., terga, orum, members, frame",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "terra terrae f.",
+        "type": "Noun",
+        "gloss": "land",
+        "definition": "land, earth",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "terreō terrēre terruī territus",
+        "type": "Verb",
+        "gloss": "terrify",
+        "definition": "terrify, frigthen",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "timeō timēre timuī",
+        "type": "Verb",
+        "gloss": "fear",
+        "definition": "fear, be afraid (of)",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "timor timōris m.",
+        "type": "Noun",
+        "gloss": "fear",
+        "definition": "fear",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "tot",
+        "type": "Pronoun",
+        "gloss": "so many",
+        "definition": "so many",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tot...quot",
+        "type": "Idiom",
+        "gloss": "as many...as",
+        "definition": "as many...as",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tōtus –a –um",
+        "type": "Pronoun",
+        "gloss": "whole",
+        "definition": "whole",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tradō tradere trādidī trāditus",
+        "type": "Verb",
+        "gloss": "hand over",
+        "definition": "hand over, surrender; hand down",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "trāns",
+        "type": "Preposition",
+        "gloss": "across",
+        "definition": "across, over; beyond; on the other side; (only local relations) (+ acc.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tū tuī",
+        "type": "Pronoun",
+        "gloss": "you",
+        "definition": "you",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "tum or tunc",
+        "type": "Adverb",
+        "gloss": "then, at that time",
+        "definition": "then, at that time; then, thereupon, afterwards (> tum-ce)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "turba turbae f.",
+        "type": "Noun",
+        "gloss": "uproar",
+        "definition": "commotion, uproar, turmoil, tumult, disturbance; crowd, mob, multitude",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "turpis turpe",
+        "type": "Adjective",
+        "gloss": "ugly",
+        "definition": "foul, ugly; base, shameful",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "tūtus –a –um",
+        "type": "Adjective",
+        "gloss": "safe",
+        "definition": "safe, prudent; secure; protected",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "tuus –a –um",
+        "type": "Pronoun",
+        "gloss": "your",
+        "definition": "your, yours",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "validus –a –um",
+        "type": "Adjective",
+        "gloss": "strong",
+        "definition": "strong; healthy",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ubī",
+        "type": "Adverb",
+        "gloss": "where, when",
+        "definition": "where, when; (adv. of place and time; relat.), where; (indefinite), wheresoever; (interrog.), where; (of time), when; whenever; as soon as; in comparison",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ubīque",
+        "type": "Adverb",
+        "gloss": "everywhere",
+        "definition": "anywhere, everywhere (> ubiquitous)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vel",
+        "type": "Conjunction",
+        "gloss": "or",
+        "definition": "or; either…or; even; (conj.), or implying indifference as to the alternative or choice, or, freq.; even, or whether, and; vel — vel, either — or",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vēla dare",
+        "type": "Idiom",
+        "gloss": "set sail",
+        "definition": "to set sail",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vel...vel",
+        "type": "Idiom",
+        "gloss": "either...or",
+        "definition": "either...or",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vēlum vēlī n.",
+        "type": "Noun",
+        "gloss": "sail",
+        "definition": "sail",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "vendō vendere vendidī venditus",
+        "type": "Verb",
+        "gloss": "sell",
+        "definition": "sell",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "venia veniae f.",
+        "type": "Noun",
+        "gloss": "pardon",
+        "definition": "indulgence, pardon",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "veniō venīre vēnī ventum",
+        "type": "Verb",
+        "gloss": "come",
+        "definition": "come",
+        "conjugation": "4",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "venōr venārī venātus sum",
+        "type": "Verb",
+        "gloss": "hunt, go hunting",
+        "definition": "hunt, go hunting",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ventus ventī m.",
+        "type": "Noun",
+        "gloss": "wind",
+        "definition": "wind",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "verbum verbī n.",
+        "type": "Noun",
+        "gloss": "word",
+        "definition": "word",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "vērē",
+        "type": "Adverb",
+        "gloss": "truly",
+        "definition": "truly",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vereor verērī veritus sum",
+        "type": "Verb",
+        "gloss": "fear",
+        "definition": "be in awe of, show respect to; dread, fear",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vēritās vēritātis f.",
+        "type": "Noun",
+        "gloss": "truth",
+        "definition": "truth",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "vērō",
+        "type": "Adverb",
+        "gloss": "certainly",
+        "definition": "certainly, indeed; but (in fact)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vertex verticis m.",
+        "type": "Noun",
+        "gloss": "whirlpool",
+        "definition": "whirlpool, eddy",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "vertō vertere vertī versus",
+        "type": "Verb",
+        "gloss": "turn",
+        "definition": "turn, turn around; change, alter; overthrow, destroy",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vērus –a –um",
+        "type": "Adjective",
+        "gloss": "real, true",
+        "definition": "real, true, actual, genuine",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "vester vestra vestrum",
+        "type": "Pronoun",
+        "gloss": "your",
+        "definition": "your (pl.), yours (pl.)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vetō vetāre vetuī vetitus",
+        "type": "Verb",
+        "gloss": "forbid",
+        "definition": "forbid",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vetus veteris",
+        "type": "Adjective",
+        "gloss": "old",
+        "definition": "old",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "via viae f.",
+        "type": "Noun",
+        "gloss": "street",
+        "definition": "way, road, street",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "videō vidēre vidī vīsus",
+        "type": "Verb",
+        "gloss": "see",
+        "definition": "see; (passive) be seen, seem",
+        "conjugation": "2",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vigor vigōris m.",
+        "type": "Noun",
+        "gloss": "liveliness, activity, vigor",
+        "definition": "liveliness, activity, vigor",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "vīlla vīllae f.",
+        "type": "Noun",
+        "gloss": "estate",
+        "definition": "farm/country home/estate; large country residence/seat, villa; village",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "vincō vincere vīcī victus",
+        "type": "Verb",
+        "gloss": "conquer",
+        "definition": "conquer, overcome",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "violō violāre violāvī violātus",
+        "type": "Verb",
+        "gloss": "violate",
+        "definition": "violate, dishonor; outrage",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vir virī m.",
+        "type": "Noun",
+        "gloss": "man",
+        "definition": "man; husband",
+        "conjugation": "None",
+        "declension": "2",
+        "numbers": "None"
+    },
+    {
+        "word": "virtūs virtūtis f.",
+        "type": "Noun",
+        "gloss": "manliness",
+        "definition": "manliness, courage; excellence, virtue",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "vīta vītae f.",
+        "type": "Noun",
+        "gloss": "life",
+        "definition": "life",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "vīvō vīvere vīxī vīctūrus",
+        "type": "Verb",
+        "gloss": "live",
+        "definition": "live, be alive",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vix",
+        "type": "Adverb",
+        "gloss": "scarcely",
+        "definition": "hardly, scarcely",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ūllus –a –um",
+        "type": "Pronoun",
+        "gloss": "any",
+        "definition": "any",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "umbra umbrae f.",
+        "type": "Noun",
+        "gloss": "shadow",
+        "definition": "shadow, shade",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "umquam",
+        "type": "Adverb",
+        "gloss": "ever",
+        "definition": "ever",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ūnā",
+        "type": "Adverb",
+        "gloss": "together",
+        "definition": "together, together with; at the same time, along with",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "unda undae f.",
+        "type": "Noun",
+        "gloss": "wave",
+        "definition": "wave",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "unde",
+        "type": "Adverb",
+        "gloss": "whence",
+        "definition": "from where, whence",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ūnus –a –um",
+        "type": "Number",
+        "gloss": "1",
+        "definition": "1",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "1"
+    },
+    {
+        "word": "vocō vocāre vocāvī vocātus",
+        "type": "Verb",
+        "gloss": "call",
+        "definition": "call; summon; name",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "volō velle voluī",
+        "type": "Verb",
+        "gloss": "wish",
+        "definition": "be willing, want, wish",
+        "conjugation": "5",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vōx vōcis f.",
+        "type": "Noun",
+        "gloss": "voice",
+        "definition": "voice; word",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "urbs urbis f.",
+        "type": "Noun",
+        "gloss": "city",
+        "definition": "city",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "urna urnae f.",
+        "type": "Noun",
+        "gloss": "urn",
+        "definition": "urn",
+        "conjugation": "None",
+        "declension": "1",
+        "numbers": "None"
+    },
+    {
+        "word": "ūsus ūsūs m.",
+        "type": "Noun",
+        "gloss": "use",
+        "definition": "use, enjoyment; experience, skill, advantage; custom",
+        "conjugation": "None",
+        "declension": "4",
+        "numbers": "None"
+    },
+    {
+        "word": "ut",
+        "type": "Conjunction",
+        "gloss": "as, when; that; how? In what manner?",
+        "definition": "as; when; (introduces Purpose clause, in order that; introduces Indirect Command) that; (introduces negative Fear clause) that…not",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "uter utra utrum",
+        "type": "Pronoun",
+        "gloss": "either which (of two)",
+        "definition": "either, which (of two)",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ūtilis ūtilis ūtile",
+        "type": "Adjective",
+        "gloss": "useful",
+        "definition": "useful, profitable, practical, helpful, advantageous",
+        "conjugation": "None",
+        "declension": "3",
+        "numbers": "None"
+    },
+    {
+        "word": "utinam",
+        "type": "Adverb",
+        "gloss": "introduces an Optative subjunctive",
+        "definition": "introduces an Optative subjunctive",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "ūtor ūtī ūsus sum",
+        "type": "Verb",
+        "gloss": "use",
+        "definition": "use; experience, enjoy (+ abl.)",
+        "conjugation": "3",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "utrum",
+        "type": "Adverb",
+        "gloss": "introduces the first question of a double direction question or Indirect Question",
+        "definition": "introduces the first question of a double direction question or Indirect Question",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "utrum…an",
+        "type": "Idiom",
+        "gloss": "whether...or",
+        "definition": "whether…or; introducing an alternative question with an beginning the second clause",
+        "conjugation": "None",
+        "declension": "None",
+        "numbers": "None"
+    },
+    {
+        "word": "vulnerō vulnerāre vulnerāvī vulnerātus",
+        "type": "Verb",
+        "gloss": "wound",
+        "definition": "wound/injure/harm, pain/distress; inflict wound on; damage (things/interest of)",
+        "conjugation": "1",
+        "declension": "None",
+        "numbers": "None"
+    }
+]

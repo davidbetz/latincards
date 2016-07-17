@@ -1,0 +1,15 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 19
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+almus, -a, -um : nourishing
+daemōn, daemonis, m. : devil
+fraus, fraudis, f. : deceit, deception
+impetus, impetūs, m. : impulse, force
+languidus, -a, -um : faint, weak
+medēla, medēlae, f. : remedy, cure
+nefās : sin
+expiō : expiate, atone for
+sacrārium, sacrāriī, n. : sacred place, sanctuary
+caeles, caelitis : heavenly
+arma, armōrum, n. : weapons
+# end

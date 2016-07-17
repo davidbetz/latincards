@@ -1,0 +1,577 @@
+[{
+    "word": "adeō",
+    "type": "Adverb",
+    "gloss": "such a degree, so",
+    "definition": "such a point; precisely, exactly; thus far; indeed, truly; even",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "adversus",
+    "type": "Adverb",
+    "gloss": "facing, opposite, against, opposed (to) (adv. and prep. + acc.)",
+    "definition": "facing, opposite, against, opposed (to)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "an",
+    "type": "Adverb",
+    "gloss": "or",
+    "definition": "introduces an alternative question, or; introduces an Indirect Question, whether",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "bene",
+    "type": "Adverb",
+    "gloss": "well",
+    "definition": "well",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cotīdiē/cottīdiē",
+    "type": "Adverb",
+    "gloss": "daily",
+    "definition": "daily, every day; day by day; usually, ordinarily, commonly",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cūr",
+    "type": "Adverb",
+    "gloss": "why",
+    "definition": "why",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dēnique",
+    "type": "Adverb",
+    "gloss": "finally",
+    "definition": "finally, in the end; and then; at worst; in short, to sum up; in fact, indeed",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "diū",
+    "type": "Adverb",
+    "gloss": "for a long time",
+    "definition": "for a long time",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "eō",
+    "type": "Adverb",
+    "gloss": "that place, thither",
+    "definition": "that place, thither",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "et",
+    "type": "Adverb",
+    "gloss": "even, also",
+    "definition": "even, also",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "etiam",
+    "type": "Adverb",
+    "gloss": "also",
+    "definition": "also, even; still",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "facile",
+    "type": "Adverb",
+    "gloss": "easily",
+    "definition": "easily",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "frūstrā",
+    "type": "Adverb",
+    "gloss": "in vain",
+    "definition": "in vain; for nothing, to no purpose",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "herī",
+    "type": "Adverb",
+    "gloss": "yesterday",
+    "definition": "yesterday",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "hīc",
+    "type": "Adverb",
+    "gloss": "here",
+    "definition": "here, in this place; at this time",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "hūc",
+    "type": "Adverb",
+    "gloss": "to here, hither",
+    "definition": "to here, hither",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "iam",
+    "type": "Adverb",
+    "gloss": "now; already",
+    "definition": "now, already, by/even now; besides; [non ~ => no longer; ~ pridem => long ago];",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ibī",
+    "type": "Adverb",
+    "gloss": "there; then",
+    "definition": "in that place, there; then, thereupon",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "illīc",
+    "type": "Adverb",
+    "gloss": "there",
+    "definition": "there, in that place",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "illūc",
+    "type": "Adverb",
+    "gloss": "there",
+    "definition": "there, thither",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "interdum",
+    "type": "Adverb",
+    "gloss": "sometimes",
+    "definition": "sometimes, now and then",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ita",
+    "type": "Adverb",
+    "gloss": "thus, so",
+    "definition": "in this manner, thus, so",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "libenter",
+    "type": "Adverb",
+    "gloss": "willingly",
+    "definition": "willingly; gladly, with pleasure",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "longē",
+    "type": "Adverb",
+    "gloss": "far",
+    "definition": "a long way, far; by far",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "magnopere",
+    "type": "Adverb",
+    "gloss": "greatly",
+    "definition": "greatly",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "male",
+    "type": "Adverb",
+    "gloss": "badly",
+    "definition": "badly",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "modo",
+    "type": "Adverb",
+    "gloss": "only, just now",
+    "definition": "provided that; only, just; now, just now",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "mox",
+    "type": "Adverb",
+    "gloss": "soon; then",
+    "definition": "soon; then",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "multum",
+    "type": "Adverb",
+    "gloss": "much, a lot",
+    "definition": "much, a lot",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "–ne",
+    "type": "Adverb",
+    "gloss": "(added to the first word of a question)",
+    "definition": "(added to the first word of a question)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "necne",
+    "type": "Adverb",
+    "gloss": "or not",
+    "definition": "(in Indirect Question) or not",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nōn",
+    "type": "Adverb",
+    "gloss": "not",
+    "definition": "not",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nōnne",
+    "type": "Adverb",
+    "gloss": "introduces a direct question expecting the answer \"yes\"",
+    "definition": "introduces a direct question expecting the answer \"yes\"",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "num",
+    "type": "Adverb",
+    "gloss": "whether",
+    "definition": "introduces a direct question expecting the answer \"no\"; (introduces an Indirect Question) whether",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "numquam",
+    "type": "Adverb",
+    "gloss": "never",
+    "definition": "never",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nunc",
+    "type": "Adverb",
+    "gloss": "now",
+    "definition": "now",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nūper",
+    "type": "Adverb",
+    "gloss": "not long ago",
+    "definition": "recently, not long ago; in recent years/our own time; (superlative) latest in series",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nusquam",
+    "type": "Adverb",
+    "gloss": "nowhere",
+    "definition": "nowhere; on no occasion",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "omnīnō",
+    "type": "Adverb",
+    "gloss": "entirely",
+    "definition": "entirely, altogether [after negatives/with numerals => at all/in all]",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "paene",
+    "type": "Adverb",
+    "gloss": "almost",
+    "definition": "nearly, almost; mostly",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "parum; minus; minimē",
+    "type": "Adverb",
+    "gloss": "too little",
+    "definition": "too/very little, not enough/so good, insufficient; less",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quam",
+    "type": "Adverb",
+    "gloss": "than; as, how",
+    "definition": "than; as, how",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quamdiū",
+    "type": "Adverb",
+    "gloss": "as long as",
+    "definition": "(for) how long; as long as",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quam ob rem",
+    "type": "Adverb",
+    "gloss": "therefore",
+    "definition": "on account of which thing; therefore; why",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quam prīmum",
+    "type": "Adverb",
+    "gloss": "as soon as possible",
+    "definition": "as soon as possible",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quamvīs",
+    "type": "Adverb",
+    "gloss": "however you like",
+    "definition": "however you like; altogether",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quandō",
+    "type": "Adverb",
+    "gloss": "when, since",
+    "definition": "when, since, because [si quando => if ever]",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quārē",
+    "type": "Adverb",
+    "gloss": "why",
+    "definition": "because of which thing; therefore; why",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quasi",
+    "type": "Adverb",
+    "gloss": "as if",
+    "definition": "as if, just as if, as though; as it were; about",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quidem",
+    "type": "Adverb",
+    "gloss": "certainly",
+    "definition": "indeed, certainly; at least",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quīn",
+    "type": "Adverb",
+    "gloss": "introduces Relative Clause of Characteristic, Doubting clause, Prevention clause",
+    "definition": "introduces Relative Clause of Characteristic, Doubting clause, Prevention clause",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quō",
+    "type": "Adverb",
+    "gloss": "where",
+    "definition": "where, whither",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quoad",
+    "type": "Adverb",
+    "gloss": "as long as",
+    "definition": "as long as, until",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "saepe",
+    "type": "Adverb",
+    "gloss": "often",
+    "definition": "often",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "satis or sat",
+    "type": "Adverb",
+    "gloss": "enough",
+    "definition": "enough, sufficiently",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "semper",
+    "type": "Adverb",
+    "gloss": "always",
+    "definition": "always",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "sīc",
+    "type": "Adverb",
+    "gloss": "thus",
+    "definition": "thus, so, in this way, in such a way",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tam",
+    "type": "Adverb",
+    "gloss": "so",
+    "definition": "so",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tamen",
+    "type": "Adverb",
+    "gloss": "nevertheless",
+    "definition": "nevertheless",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tamquam",
+    "type": "Adverb",
+    "gloss": "just as",
+    "definition": "as, just as, just as if; as it were, so to speak; as much as; so as",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tandem",
+    "type": "Adverb",
+    "gloss": "finally",
+    "definition": "finally, at last; in questions and commands, pray, I ask you, then",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tum or tunc",
+    "type": "Adverb",
+    "gloss": "then, at that time",
+    "definition": "then, at that time; then, thereupon, afterwards (> tum-ce)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ubī",
+    "type": "Adverb",
+    "gloss": "where, when",
+    "definition": "where, when; (adv. of place and time; relat.), where; (indefinite), wheresoever; (interrog.), where; (of time), when; whenever; as soon as; in comparison",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ubīque",
+    "type": "Adverb",
+    "gloss": "everywhere",
+    "definition": "anywhere, everywhere (> ubiquitous)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vērē",
+    "type": "Adverb",
+    "gloss": "truly",
+    "definition": "truly",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vērō",
+    "type": "Adverb",
+    "gloss": "certainly",
+    "definition": "certainly, indeed; but (in fact)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vix",
+    "type": "Adverb",
+    "gloss": "scarcely",
+    "definition": "hardly, scarcely",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "umquam",
+    "type": "Adverb",
+    "gloss": "ever",
+    "definition": "ever",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ūnā",
+    "type": "Adverb",
+    "gloss": "together",
+    "definition": "together, together with; at the same time, along with",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "unde",
+    "type": "Adverb",
+    "gloss": "whence",
+    "definition": "from where, whence",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "utinam",
+    "type": "Adverb",
+    "gloss": "introduces an Optative subjunctive",
+    "definition": "introduces an Optative subjunctive",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "utrum",
+    "type": "Adverb",
+    "gloss": "introduces the first question of a double direction question or Indirect Question",
+    "definition": "introduces the first question of a double direction question or Indirect Question",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}]

@@ -1,0 +1,10 @@
+<div class="group">
+    <h1>{{data.base}}</h1>
+
+    <div class="chart">
+        <pronouns.chart data="data.declined" />
+    </div>
+    <div class="chart example" ng-if="data.example">
+        <pronouns.chart data="data.example" />
+    </div>
+</div>

@@ -1,0 +1,15 @@
+<sum stem="es">
+	<form voice="active" tense="present" number="singular" person="1st" mood="indicative" start="er" connector="a" ending="m" />
+	<form voice="active" tense="present" number="singular" person="2nd" mood="indicative" start="er" connector="ā" ending="s" />
+	<form voice="active" tense="present" number="singular" person="3rd" mood="indicative" start="er" connector="a" ending="t" />
+	<form voice="active" tense="present" number="plural" person="1st" mood="indicative" start="er" connector="ā" ending="mus" />
+	<form voice="active" tense="present" number="plural" person="2nd" mood="indicative" start="er" connector="ā" ending="tis" />
+	<form voice="active" tense="present" number="plural" person="3rd" mood="indicative" start="er" connector="a" ending="nt" />
+
+	<form voice="active" tense="imperfect" number="singular" person="1st" mood="indicative" start="er" connector="a" ending="m" />
+	<form voice="active" tense="imperfect" number="singular" person="2nd" mood="indicative" start="er" connector="ā" ending="s" />
+	<form voice="active" tense="imperfect" number="singular" person="3rd" mood="indicative" start="er" connector="a" ending="t" />
+	<form voice="active" tense="imperfect" number="plural" person="1st" mood="indicative" start="er" connector="ā" ending="mus" />
+	<form voice="active" tense="imperfect" number="plural" person="2nd" mood="indicative" start="er" connector="ā" ending="tis" />
+	<form voice="active" tense="imperfect" number="plural" person="3rd" mood="indicative" start="er" connector="a" ending="nt" />
+</sum>

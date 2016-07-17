@@ -1,0 +1,49 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 33
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+dītō, dītāre, dītāvī, - : enrich
+mūtuor, mūtuārī, -, mūtuātus sum : borrow
+sīgnificō, sīgnificāre, sīgnificātus : signify
+cōgō, cōgere, coēgī, coāctus : lead, bring, assemble, force, compel
+fallō, fallere, fefellī, falsus : deceive
+falsus, -a, -um : false
+pangō, pangere, pānxī (pēgī/pepigī), pānctus (pactus) : make, compose, sing
+pellō, pellere, pepulī, pulsus : drive out
+expelō, expellere, expulī, expulsus : drive out
+repellō, repellere, repulī, repulsus : cast off, overcome
+spargō, spargere, sparsī, sparsus : sprinkle
+aspargō, aspergere, aspersī, aspersus : sprinkle
+dispargō, dispergere, dispersī, dispersus : scatter
+ferō, ferre, tulī, lātus : bring, bear, carry
+auferō, auferre, abstulī, ablātus : take away
+cōnferō, cōnferre, cōntulī, cōllātus : accompany, grant
+cōnferre sē : take oneself (to), go
+dēferō, dēferre, dētulī, dēlātus : offer, bring
+efferō, efferre, extulī, ēlātus : bring out, bear, lift up
+īnferō, īnferre, īntulī, illātus : bring in
+offerō, offerre, obtulī, oblātus : offer
+perferō, perferre, pertulī, perlātus : carry through, carry up
+prōferō, prōferre, prōtulī, prōlātus : bring forth, bring forward
+referō, referre, rettulī, relātus : bring back ,yield, render, report
+vinciō, vincīre, vīnxī, vīnctus : bind
+poena, poenae, f. : pain, punishmnet, penalty
+dāmnum, dāmnī, n. : damage, loss, punishment
+flagellum, flagellī, n. : scourge
+medium, mediī, n. : the middle, midst
+praecōnium, praecōniī, n. : praise, proclamation
+fulgor, fulgōris, m. : brightness
+sodālis, sodālis, sodālium, m. : companion, associate
+venter, ventris, m. : belly, womb
+commūnicātiō, commūnicātiōnis, f. : partaking, fellowship
+nātiō, nātiōnis, f. : nation, (pl.) gentiles, heathens
+nātīvitās, nātīvitātis, f. : birth
+reconciliātiō, reconcilitātiōnis, f. : restoration, reconciliation
+verber, verberis, n. : lash, scourging
+castus, -a, -um : chaste
+dēfūnctus, -a, -um : deceased, dead
+jūcundus, -a, -um : pleasing
+tranquillus, -a, -um : peaceful, tranquil
+perennis, perenne : eternal
+inquam : I say
+velut : as, like
+#end

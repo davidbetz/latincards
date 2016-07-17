@@ -1,0 +1,56 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 22
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+urgeō, urgēre, ursī, - : urge
+simpliciter : plainly
+mysticus, -a, -um : mystical
+repraesentō : represent
+nempe : truly, to be sure
+dīluvium, dīluviī, n. : flood
+arca, arcae, f. : ark
+praefigūrō : prefigure
+cubitum, cubitiī, n. : cubit
+cōnsummō : complete
+vidēlicet : of course
+gubernātor, gubernātōris, m. : pilot
+rēctor, rēctōris, m. : captain
+subsistō : exist
+ūnicus, -a, -um : only, sole
+ēruō, ēruere, ēruī, ērutus : tear out, rescue
+framea, frameae, f. : sword
+canis, canis, m/f. : dog
+scl. : (=scīlicet) of course
+nōminō : name, call
+tunica, tunicae, f. : tunic, robe
+incōnsūtilis, -e : not sewn together, seamless
+scindō, scindere, scidī, scissus : tear, rend
+sors, sortis, f. : lot
+prōveniō : come forth, pass on
+quasi : as if, like
+mōnstrum, mōnstrī, n. : monster
+vīcārius, vīcariī, m. : vicar
+successor, successōris, m. : successor
+generāliter : generally, universally
+singulāriter : singly, particularly
+committō : commit, entrust
+Graecus, -a, -um : Greek
+ovīle, ovīlis, ovīlium, n. : sheepfold
+temporālis, -e : temporal
+evangelicus, -a, -um : of the Gospel
+uterque, utraque, utrumque : each (of two), both
+māteriālis, -e : material, temporal
+exerceō, exercēre, exercuī, exercitus : work out, wield
+nūtus, nūtūs, m. : nod, assent
+patientia, patientiae, f. : permission
+auctōritās, auctōritātis, f. : authority
+subjiciō : subjugate, subordinate
+dīgnitās, dīgnitātis, f. : dignity
+nōbilitās, nōbilitātis, f. : nobility
+quīlibet, quaelibet, quodlibet : any at all
+praecellō, praecellere, -, - : excel, surpass
+tantō ... quantō : the (more) ... the more
+antecellō, antecellere, -, - : excel
+testor, testārī, -, testātus sum : call to witness, witness
+īnstituō : appoint, establish
+dēviō : go astray
+# end

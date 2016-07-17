@@ -1,0 +1,58 @@
+.irregular .chart {
+    display: table;
+    border-spacing: 10px;
+    margin: 0 auto;
+}
+
+.irregular .container {
+    display: table-cell;
+}
+
+.irregular .word-group {
+    width: 500px;
+    text-align: center;
+    font-size: 2em;
+    display: table;
+    border-spacing: 0;
+    color: #33ccff;
+    color: #2d99c1;
+}
+
+
+.irregular .example .word-group {
+    width: 400px;
+}
+    .irregular .word-group span:empty {
+        display: none;
+    }
+    
+    .irregular .word-group span {
+        display: table-cell;
+        min-width: 150px;
+        border: 1px solid #eee;
+        cursor: default;
+    }
+
+    .irregular .word-group span.label {
+        min-width: 40px;
+        width: 40px;
+    }
+
+    .irregular .example .word-group span {
+        min-width: 150px;
+    }
+
+    .irregular .word-group span.green {
+        color: #568239;
+        font-weight: bold;
+    }
+    
+    .irregular .word-group span:hover {
+        background-color: #33ccff;
+        background-color: #2d99c1;
+        color: #ffffff;
+    }
+    
+    .irregular .word-group span.legend:hover {
+        background-color: #fff;
+    }

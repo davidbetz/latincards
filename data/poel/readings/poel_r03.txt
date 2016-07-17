@@ -1,0 +1,109 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 3
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+ōrdinō, ōrdināre, ōrdināvī, ōrdinātus : arrange, compile
+nārrātiō, nārrātiōnis, f. : account, narrative 
+initium, initiī, n. : beginning
+ērudītus, -a, -um : learned, versed
+firmitās, firmitātis, f. : firmness, certainty
+-, vicis, f. : turn, duty
+uxor, uxōris, f. : wife
+ambō, ambae, ambō : both
+jūstificātiō, jūstificātiōnis, f. : formality, ordinance
+irreprehēnsibilis, -e : blameless
+sterilis, -e : sterile, barren
+sacerdōtium, sacerdotiī, n. : priesthood, priestly duties
+sors, sortis, f. : lot
+forīs : outside, outdoors
+turbō, turbāre, turbāvī, turbātus : disturb, throw into confusion
+irruō, irruere, irruī, - : rush into, rush upon, take hold of
+sīcera, sīcerae, f. : an intoxicating drink, hard liquor
+uterus, uterī, m. : belly, womb
+incrēdibilis, -e : disobedient, rebellious
+prūdentia, prūdentiae, f. : insight, wisdom, way of thinking
+plēbs, plēbis, f. : people
+prō eō quod : because 
+tardō, tardāre, tardāvī, tardātus : delay, loiter
+visiō, visiōnis, f. : vision
+innuō, innuere, innuī, - : give a nod to, make signals to
+mūtus, -a, -um : speechless, dumb
+officium, officiī, n. : service
+occultō, occultāre, occultāvī, occultātus : hide, conceal
+mēnsis, mēnsis, mēnsium, m. : month
+opprobrium, opprobriī, n. : reproach, disgrace
+dēspōnsātus, -a, -um : engaged
+salūtātiō, salūtātiōnis, f. : greeting
+obumbruō, obumbrāre, obumbrāvī, obumbrātus : overshadow
+cognāta, cognātae, f. : kinswoman, female relative
+senecta, senectae, f. : old age
+impossibilis, -e : impossible
+exsurgō : rise up, depart
+montāna, montānōrum , n. : mountainous districts, hill country
+festīnātiō, festīnātiōnis, f. : haste, speed
+salūtō, salūtāre, salūtāvī, salūtātus : greet
+exsultāvit : leapt, stirred
+infāns, infāntis, m/f. : baby, infact
+ex hōc : from this (time), from now on
+generātiō, generātiōnis, f. : generation, age
+prōgeniēs, prōgeniēī, f. : generation, age
+superbus, -a, -um : proud, haughty
+inānis, -e : empty
+recordor, recordārī, -, recordātus sum : remember
+sēmen, sēminis, n. : seed, offspring
+quasi : as if, as it were, about
+cognātī, cognātōrum, m. : relatives
+congrātulor, congrātulārī, -, congrātulātus sum : wish joy, congratulate
+circumcīdō, circumcīdere, circumcīdī, circumcīsus : circumcise
+nēquāquam : by no means, not at all
+cognātiō, cognātiōnis, f. : relatives, family
+pugillārēs, pugillārium, m. : writing-tablets
+īlico : on the spot, immediately
+dīvulgō, dīvulgāre, dīvulgāvī, dīvulgātus : make common, talk about
+etenium : and indeed, for indeed
+prophētō, prophētāre, prophētāvī, prophētātus : prophesy, foretell
+vīsitō, vīsitāre, vīsitāvī, vīsitātus : visit
+jūsjūrandum, jūrisjūrandī, n. : oath
+jūrō, jūrāre, jūrāvī, jūrātus : swear
+scientia, scientiae, f. : knowledge
+viscera misericordiae : bowels of compassion
+ostēnsiō, ostēnsiōnis, f. : public appearance
+ēdictum, ēdictī, n. : decree
+dēscrīptiō, dēscrīptiōnis, f. : registration, census
+profitēri : to make a public statement
+singulī, -ae, -a : each one
+praegnāns, praegnantis : pregnant
+prīmogenitus, -a, -um : first-born
+pannus, pannī, n. : cloth, piece of cloth, (pl.) baby clothes
+involvō, involvere, involvī, involūtus : wrap up
+praesēpium, praesēpiī, m. : manger, feeding trough
+dēversōrium, dēversōrii, n. : inn, lodging-place
+vigilō, vigilāre, vigilāvī, vigilātus : stay awake
+vigilia, vigilae, f. : a watch
+suprā : over
+mīlitia, mīlitiae, f. : army, host
+bonae voluntātis : of His good pleasure
+verbum : event
+festīnō, festīnāre, festīnāvī, festīnātus : hasten, hurry
+cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātus : finish, complete
+pūrgātiō, pūrgātiōnis, f. : purification
+masculīnus, -a, -um : male
+adaperiō : ad + aperiō
+vulva, vulvae, f. : womb
+pār : pair
+turtur, turturis, m. : turtle dove
+pullus, pullī, m. : young (of a bull)
+columba, columbae, f. : dove, pigeon
+cōnsōlātiō, cōnsōlātiōnis, f. : consolation, help, rescue
+ulna, ulnae, f. : arm
+tuam ipsīus : your own
+prophētissa, prophētissae, f. : prophetess
+tribus, tribūs, f. : tribe
+vidua, viduae, f. : window
+jējūnium, jējūniī, n. : fast
+obsecrātiō, obsecrātiōnis, f. : prayer
+comitātus, comitātūs, m. : company of travellers, traveling party
+nōtī, nōtōrum, m. : friends, acquaintances
+trīduum, trīduī, n. : a three-day period
+stupeō, stupēre, stupuī, - : be stunned, be astonished
+aetās, aetātis, f. : time of life, age
+# end

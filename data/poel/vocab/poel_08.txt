@@ -1,0 +1,39 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 08
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+-pleō, -plēre, -plēvī, -plētus : fill, complete
+adimpleō, adimplēre, adimplēvī, adimplētus : fulfill
+compleō, complēre, complēvī, complētus : fulfill, accomplish
+impleō, implēre, implēvī, implētus : fill, accomplish
+repleō, replēre, replēvī, replētus : fill, complete
+regō, regere, rēxī, rēctus : rule, guide, govern
+corrigō, corrigere, corrēxī, corrēctus : correct
+dīrigō, dīrigere, dīrēxī, dīrēctus : direct
+ērigō, ērigere, ērēxī, ērēctus : raise up, erect
+incēnsum, incēnsī, n. : incense
+meritum, meritī, n. : merit
+silentium, silentiī, n. : silence
+angelicus, -a, -um : angelic
+contrītus, -a, -um : contrite
+cūnctus, -a, -um : all
+glōriōsus, -a, -um : glorious
+grātus, -a, -um : (+ dat.) pleasing, agreeable
+mīrus, -a, -um : wonderful
+mundus, -a, -um : pure, clean
+immundus, -a, -um : impure, unclean
+sāncrōsānctus, -a, -um : most holy, venerable
+salūtifer, -a, -um : salutary, saving
+supernus, -a, -um : heavenly, celestial
+terrēnus, -a, -um : earthly
+etiam : (intesifying adv.) also, even
+iterum : (adv.) again
+jam : (adv.) already; now; soon
+per : (prep. + acc.) through
+post : (prep. + acc.) after, behind
+quandō : (interrog. adv.) when?
+quia : (subord. conj.) that; because
+quod : (subord. conj.) that, because
+quoniam : (subord. conj.) that, because
+sed : (coord. conj.) but, yet
+tunc : (adv.) then, at that time
+#end

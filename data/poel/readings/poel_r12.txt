@@ -1,0 +1,16 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 12
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+puerlīlis, puerlīle : youthful
+decus, decoris, n. : glory, beauty
+prōmō, prōmere, prōmpsī, prōmptus : bring forth
+inclitus, -a, -um : famous, glorious
+prōlēs, prōlis, f. : offspring
+coetus, coetūs, m. : assembly
+caelicus, -a, -um : celestrial
+plēbs, plēbis, f. : people
+obvius, -a, -um : open, exposed
+mūnia, mūnium, n. : duty
+melos, melī, n. : song
+dēvōtiō, dēvōtiōnis, f. : devotion
+# end

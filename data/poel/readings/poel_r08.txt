@@ -1,0 +1,20 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 8
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+vexillum, vexillī, n. : flag, standard, banner
+lancea, lanceae, f. : spear, lance
+mūcrō, mūcrōnis, m. : sharp point
+dīrus, -a, -um : horrible, cruel
+sordēs, sordium, f. : filth
+mānō : flow, drip
+carmen, carminis, n. : song, prophetic song
+decōris, -a, -um : fitting, beautiful
+fulgidus, -a, -um : gleaming
+purpura, purpurae, f. : purple
+stīpes, stīpitis, m. : log, post
+statēra, statērae, f. : balance, scales
+praeda, praedae, f. : spoils, booty
+Tartarus, Tartarī, m. : the Underworld, Hell
+adaugeō, adaugēre, audauxī, adauctus : increase
+reus, reī, m. : one liable for punishment
+# end

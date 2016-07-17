@@ -1,0 +1,33 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 19
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+cūrō, cūrāre, cūrāvī, cūrātus : heal, cure, care for
+dēsīderō, dēsīderāre, dēsīderāvī, dēsīderātus : desire
+vulnerō, vulnerāre, vulnerāvī, vulnerātus : wound
+appāreō, appārēre, appāruī, appāritus : show forth, appear
+doceō, docēre, docuī, doctus : teach
+alō, alere, aluī, altus : nourish
+cadō, cadere, cecidī, cāsus : fall (down)
+incidō, incidere, incidī, - : fall into, happen
+frāter, frātris, m. : brother
+pēs, pedis, m. : foot
+auris, auris, aurium, f. : ear
+carō, carnis, f. : flesh
+mulier, mulieris, f. : woman, wife
+prex, precis, f. : entreaty, prayer
+caput, capitis, n. : head
+latus, lateris, n. : side
+ōs, ōris, n. : mouth
+diēs, diēī, m/f. : day
+fidēs, fideī, f. : faith, faithfulness
+rēs, reī, f. : thing
+spēs, speī, f. : hope
+dīlēctus, -a, -um : beloved
+dulcis, dulce : sweet, kind
+fidēlis, fidēle : faithful, believing
+supersubstantiālis, supersubstantiāle : life-sustaining
+deinde : then, next, thereupon
+ego, meī : I
+sūrsum : on high, upward
+tū, tuī : you
+#end

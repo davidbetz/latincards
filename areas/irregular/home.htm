@@ -1,0 +1,35 @@
+<div class="irregular">
+    <div class="content">
+        <div>
+            <h2>Indicative</h2>
+            <irregular.viewer forms="indicative" />
+        </div>
+        <div>
+            <h2>Subjunctive</h2>
+            <irregular.viewer forms="subjunctive" />
+        </div>
+        <div>
+            <h2>Imperative</h2>
+            <irregular.viewer forms="imperative" />
+        </div>
+        <div>
+            <h2>Infinitive</h2>
+            <div class="word-group">
+                <span ng-repeat="(key, item) in infinitive">{{key}}</span>
+            </div>
+            <div class="word-group">
+                <span ng-repeat="(key, item) in infinitive">{{item.form}}</span>
+            </div>
+        </div>
+        <div>
+            <h2>Participle</h2>
+            <div class="word-group">
+                <span ng-repeat="(key, item) in participle">{{key}}</span>
+            </div>
+            <div class="word-group">
+                <span ng-repeat="(key, item) in participle">{{item.form}}</span>
+            </div>
+        </div>
+    </div>
+    <br />
+</div>

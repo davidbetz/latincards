@@ -1,0 +1,17 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 16
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+generōsis, -a, -um : noble
+intāctus, -a, -um : untouched, chaste
+conversor : live (a certain lifestyle)
+sēmen, sēminis, n. : seed
+mora, morae, f. : delay, period of time
+incolātus, incolātūs, m. : residence, dwelling
+recumbō, recumbere, recubuī, - : recline at table
+lēgālis, lēgāle : prescribed in the Torah
+merum, merī, n. : wine
+cernuus, -a, -um : bowing
+supplēmentum, supplēmentī, n. : reinforcement
+dēfectus, dēfectūs, m. : lack, failure, defect
+genitor, genitōris, m. : begetter, father
+# end

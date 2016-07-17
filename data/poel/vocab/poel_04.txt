@@ -1,0 +1,33 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 04
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+animus, animī, m. : heart, mind, spirit 
+gladius, gladiī, m. : sword 
+magister, magistrī, m. : teacher, master, rabbi 
+modus, modī, m. : manner, way 
+mundus, mundī, m. : world 
+numerus, numerī, m. : number, multitude 
+aurum, aurī, n. : gold 
+cēnāculum, cēnāculī, n. : dining room, upper room, upstairs room 
+sacrāmentum, sacrāmentī, n. : sacrament 
+aeternus, -a, -um : eternal 
+in aeternum : forever 
+antīquus, -a, -um : old, ancient; subst. pl. ancients, forefathers 
+beātus, -a, -um : blessed, happy 
+bonus, -a, -um : good 
+clārus, -a, -um : clear, bright; glorious, famous 
+magnus, -a, -um : great, large; big 
+meus, -a, -um : my, mine 
+mortuus, -a, -um : dead 
+multus, -a, -um : much, many 
+noster, nostra, nostrum : our, ours 
+novus, -a, -um : new, recent
+pius, -a, -um : holy, loving, tender 
+impius, -a, -um : wicked, godless 
+sacer, sacra, sacrum : holy, sacred 
+tuus, -a, -um : your, yours (sing) 
+vērus, -a, -um : true 
+vīvus, -a, -um : living, alive 
+Sabaōth : (Hebrew indecl pl. noun) armies, hosts 
+ubi : (interrog. adv.) where? 
+#end

@@ -1,0 +1,721 @@
+[{
+    "word": "accēdō accēdere accessī accessum",
+    "type": "Verb",
+    "gloss": "approach",
+    "definition": "go or come to, approach; happen",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "accidō accidere accidī –––",
+    "type": "Verb",
+    "gloss": "fall; happen",
+    "definition": "fall, befall, happen",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "accipiō accipere accēpī acceptus",
+    "type": "Verb",
+    "gloss": "receive",
+    "definition": "receive; accept; hear (of), learn (of)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "aggredior aggredī aggressus sum",
+    "type": "Verb",
+    "gloss": "approach",
+    "definition": "approach, advance; attack, assail; undertake, seize (opportunity), attempt",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "agō agere ēgī āctus",
+    "type": "Verb",
+    "gloss": "drive, do, act",
+    "definition": "drive; do; spend, conduct",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "āmittō amittere amīsī amīssus",
+    "type": "Verb",
+    "gloss": "let go, send away",
+    "definition": "lose; lose by death; send away, dismiss; part with; let go/slip/fall, drop",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "animadvertō animadvertere animadvertī animadversus",
+    "type": "Verb",
+    "gloss": "turn to, give mind to",
+    "definition": "pay attention to, attend to; notice, observe; judge, estimate; punish (in+ACC)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cadō cadere cecidī cāsum",
+    "type": "Verb",
+    "gloss": "fall",
+    "definition": "fall, sink; die, be killed",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "canō canere cecinī cantus",
+    "type": "Verb",
+    "gloss": "sing",
+    "definition": "sing (of)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "capiō capere cēpī captus",
+    "type": "Verb",
+    "gloss": "seize",
+    "definition": "seize, take (up), capture; win",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cēdō cēdere cessī cessum",
+    "type": "Verb",
+    "gloss": "yield",
+    "definition": "go, move; yield; withdraw",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cingō cingere cīnxī cīnctus",
+    "type": "Verb",
+    "gloss": "surround",
+    "definition": "surround, encircle; gird (on onself)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "coepĪ coepisse coeptum",
+    "type": "Verb",
+    "gloss": "begin",
+    "definition": "begin",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cognōscō cognōscere cognōvī cognitus",
+    "type": "Verb",
+    "gloss": "learn, understand",
+    "definition": "come to know, learn, recognize; in perfect, know",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "colloquor colloquī collocūtus sum",
+    "type": "Verb",
+    "gloss": "talk to/with",
+    "definition": "talk/speak to/with; talk together/over; converse; discuss; confer, parley",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cōnficiō cōnficere cōnfēcī cōnfectus",
+    "type": "Verb",
+    "gloss": "complete; destroy",
+    "definition": "accomplish, complete",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cōnstituō cōnstituere cōnstituī cōnstitūtus",
+    "type": "Verb",
+    "gloss": "establish; decide",
+    "definition": "set up, establish; decide",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "crēdō crēdere crēdidī crēditus",
+    "type": "Verb",
+    "gloss": "trust, believe",
+    "definition": "trust, believe (+ dat.)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "currō currere cucurrī cursus",
+    "type": "Verb",
+    "gloss": "run",
+    "definition": "run/trot/gallop, hurry/hasten/speed, move/travel/proceed/flow swiftly/quickly",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dēfendō dēfendere dēfendī dēfensus",
+    "type": "Verb",
+    "gloss": "defend, ward off",
+    "definition": "defend/guard/protect, look after; act/speak/plead/write for defense; prosecute; repel, fend/ward off, avert/prevent; support/preserve/maintain; defend (right)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dēsinō dēsinere dēsiī dēsitus",
+    "type": "Verb",
+    "gloss": "leave off, cease",
+    "definition": "stop/end/finish, abandon/leave/break off, desist/cease; come to/at end/close",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dēsistō dēsistere dēstitī dēstitus",
+    "type": "Verb",
+    "gloss": "cease, desist",
+    "definition": "cease, desist",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dīcō dīcere dīxī dictus",
+    "type": "Verb",
+    "gloss": "say, speak",
+    "definition": "say, speak, tell",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "discēdō discēdere discessī discessum",
+    "type": "Verb",
+    "gloss": "go away, depart",
+    "definition": "go away, depart",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "discō discere didicī",
+    "type": "Verb",
+    "gloss": "learn",
+    "definition": "learn; hear, get to know, become acquainted with; acquire knowledge/skill of/in",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dūcō dūcere dūxī ductus",
+    "type": "Verb",
+    "gloss": "lead; consider",
+    "definition": "lead; consider",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "efficiō efficere effēcī effectus",
+    "type": "Verb",
+    "gloss": "make",
+    "definition": "make; bring about",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ēgredior ēgredī ēgressus sum",
+    "type": "Verb",
+    "gloss": "depart",
+    "definition": "stride out, depart, disembark ( + abl)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "emō emere ēmī ēmptus",
+    "type": "Verb",
+    "gloss": "buy",
+    "definition": "buy",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "expellō expellere expulī expulsus",
+    "type": "Verb",
+    "gloss": "drive out, expel",
+    "definition": "drive out, expel, banish; disown, reject",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "expōnō expōnere exposuī expositus",
+    "type": "Verb",
+    "gloss": "abandon",
+    "definition": "set/put forth/out; abandon, expose; publish; explain, relate; disembark",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "faciō facere fēcī factus",
+    "type": "Verb",
+    "gloss": "do, make",
+    "definition": "make; do; reckon",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "fugiō fugere fūgī fugitūrus",
+    "type": "Verb",
+    "gloss": "flee",
+    "definition": "flee",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "gerō gerere gessī gestus",
+    "type": "Verb",
+    "gloss": "bear, manage",
+    "definition": "bear; manage, conduct; perform",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "gradior gradī gressus sum",
+    "type": "Verb",
+    "gloss": "step, walk",
+    "definition": "take steps, step, walk, go advance",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "iaciō iacere iēcī iactus",
+    "type": "Verb",
+    "gloss": "throw",
+    "definition": "throw, hurl, cast; throw away; utter",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "īgnōscō īgnōscere īgnōvī īgnōtus",
+    "type": "Verb",
+    "gloss": "pardon, forgive",
+    "definition": "pardon, forgive (+ dat.)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "incipiō incipere incēpī inceptus",
+    "type": "Verb",
+    "gloss": "begin",
+    "definition": "take on, begin",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "incolō incolere incoluī",
+    "type": "Verb",
+    "gloss": "inhabit, dwell",
+    "definition": "live, dwell/reside (in); inhabit; sojourn",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ingredior ingredī ingressus sum",
+    "type": "Verb",
+    "gloss": "step in, enter",
+    "definition": "advance, walk; enter, step/go into; undertake, begin",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "īnstituō īnstituere īnstituī īnstitūtus",
+    "type": "Verb",
+    "gloss": "undertake; equip",
+    "definition": "set up, establish, found, make, institute; build; prepare; decide",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "intellegō intellegere intellēxī intellēctus",
+    "type": "Verb",
+    "gloss": "understand",
+    "definition": "understand",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "intendō intendere intendī intentus",
+    "type": "Verb",
+    "gloss": "stretch, strain",
+    "definition": "hold out; stretch, strain, exert",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "interficiō interficere interfēcī interfectus",
+    "type": "Verb",
+    "gloss": "kill",
+    "definition": "kill",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "invādō invādere invāsī invāsum",
+    "type": "Verb",
+    "gloss": "go in",
+    "definition": "go in, attack, invade",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "iungō iungere iūnxī iūnctus",
+    "type": "Verb",
+    "gloss": "join",
+    "definition": "join, unite; bring together, clasp (hands); connect, yoke, harness",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "lābor labī lapsus sum",
+    "type": "Verb",
+    "gloss": "glide, slip",
+    "definition": "glide, slip",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "legō legere lēgī lēctus",
+    "type": "Verb",
+    "gloss": "gather; read",
+    "definition": "gather; choose; read; collect (cremated bones); furl (sail), weigh (anchor); pick out",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "loquor loquī locūtus sum",
+    "type": "Verb",
+    "gloss": "speak",
+    "definition": "speak",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "meminī meminisse",
+    "type": "Verb",
+    "gloss": "remember, recollect",
+    "definition": "remember, be mindful (of)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "metuō metuere metuī",
+    "type": "Verb",
+    "gloss": "fear, dread",
+    "definition": "fear, dread",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "mittō mittere mīsī missus",
+    "type": "Verb",
+    "gloss": "send",
+    "definition": "send",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "morior morī mortuus sum",
+    "type": "Verb",
+    "gloss": "die",
+    "definition": "die",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nāscor nāscī nātus sum",
+    "type": "Verb",
+    "gloss": "be born",
+    "definition": "be born",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "neglegō neglegere neglēxī neglēctus",
+    "type": "Verb",
+    "gloss": "disregard, neglect",
+    "definition": "disregard, neglect, ignore, regard of no consequence; do nothing about; despise",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nōscō nōscere nōvī nōtus",
+    "type": "Verb",
+    "gloss": "learn, know",
+    "definition": "come to know, learn, recognize; in perfect, know; become cognizant of/acquainted/familiar with;",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "oblīvīscor oblīvīscī oblītus sum",
+    "type": "Verb",
+    "gloss": "forget",
+    "definition": "forget (+ gen.)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "occīdō occīdere occīdī occīsum",
+    "type": "Verb",
+    "gloss": "to strike down, knock down",
+    "definition": "to strike down , strike to the ground; ruin; plague; to beat , smash , crush",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ōdī ōdisse",
+    "type": "Verb",
+    "gloss": "hate",
+    "definition": "hate",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "opprimō opprimere oppressī oppressus",
+    "type": "Verb",
+    "gloss": "press on",
+    "definition": "press on; close; overwhelm, oppress",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ostendō ostendere ostendī",
+    "type": "Verb",
+    "gloss": "show",
+    "definition": "show; reveal; make clear, point out, display, exhibit",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "parcō parcere pepercī parsus",
+    "type": "Verb",
+    "gloss": "spare",
+    "definition": "forbear, refrain from; spare; show consideration; be economical/thrifty with",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "patior patī passus sum",
+    "type": "Verb",
+    "gloss": "permit, endure",
+    "definition": "experience, suffer, endure; permit, allow",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "pellō pellere pepulī pulsus",
+    "type": "Verb",
+    "gloss": "strike",
+    "definition": "push, drive (off)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "perdō perdere perdidī perditus",
+    "type": "Verb",
+    "gloss": "destroy",
+    "definition": "destroy; lose",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "perficiō perficere perfēcī perfectus",
+    "type": "Verb",
+    "gloss": "complete, accomplish",
+    "definition": "complete, accomplish",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "petō petere petiī/petīvī petītus",
+    "type": "Verb",
+    "gloss": "seek",
+    "definition": "ask for, seek; attack",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "pōnō pōnere posuī positus",
+    "type": "Verb",
+    "gloss": "place",
+    "definition": "put, place; set aside",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "poscō poscere poposcī",
+    "type": "Verb",
+    "gloss": "demand",
+    "definition": "ask, demand",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "praeficiō praeficere praefēcī praefectus",
+    "type": "Verb",
+    "gloss": "put in charge",
+    "definition": "put in charge (of)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "premō premere pressī pressus",
+    "type": "Verb",
+    "gloss": "press",
+    "definition": "press (hard); overpower; check",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "proficīscor proficīscī profectus sum",
+    "type": "Verb",
+    "gloss": "set forth",
+    "definition": "set out, set forth",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "prōgredior prōgredī prōgressus sum",
+    "type": "Verb",
+    "gloss": "go forward",
+    "definition": "go, come forth, go forward, march forward; advance, proceed, make progress",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quaerō quaerere quaesiī/quaesīvī quaesītus",
+    "type": "Verb",
+    "gloss": "seek",
+    "definition": "search for, seek, ask",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "recipiō recipere recēpī receptus",
+    "type": "Verb",
+    "gloss": "take back",
+    "definition": "keep back; recover; undertake; guarantee; accept, take in; take back",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "regō regere rēxī rēctus",
+    "type": "Verb",
+    "gloss": "rule",
+    "definition": "rule, control, guide; manage, direct",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "relinquō relinquere relīquī relictus",
+    "type": "Verb",
+    "gloss": "abandon",
+    "definition": "leave (behind), abandon",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "retegō retegere retēxī retēctus",
+    "type": "Verb",
+    "gloss": "uncover, reveal",
+    "definition": "uncover, reveal",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ruō ruere ruī rūtum",
+    "type": "Verb",
+    "gloss": "rush",
+    "definition": "rush",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "scrībō scrībere scrīpsī scrīptus",
+    "type": "Verb",
+    "gloss": "write",
+    "definition": "write",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "sequor sequī secūtus sum",
+    "type": "Verb",
+    "gloss": "follow",
+    "definition": "follow",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "solvō solvere solvī solūtus",
+    "type": "Verb",
+    "gloss": "release",
+    "definition": "loosen; free, release; dissolve",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "spargō spargere sparsī sparsum",
+    "type": "Verb",
+    "gloss": "scatter",
+    "definition": "to scatter, strew; cast in fragments; disperse; shower, hurl; sprinkle; besprinkle, bedew, stain; infuse; (fig.), spread abroad, disseminate; bring over or upon, diffuse",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tegō tegere tēxī tēctus",
+    "type": "Verb",
+    "gloss": "cover",
+    "definition": "cover, protect; defend; hide",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tradō tradere trādidī trāditus",
+    "type": "Verb",
+    "gloss": "hand over",
+    "definition": "hand over, surrender; hand down",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vendō vendere vendidī venditus",
+    "type": "Verb",
+    "gloss": "sell",
+    "definition": "sell",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vertō vertere vertī versus",
+    "type": "Verb",
+    "gloss": "turn",
+    "definition": "turn, turn around; change, alter; overthrow, destroy",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vincō vincere vīcī victus",
+    "type": "Verb",
+    "gloss": "conquer",
+    "definition": "conquer, overcome",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vīvō vīvere vīxī vīctūrus",
+    "type": "Verb",
+    "gloss": "live",
+    "definition": "live, be alive",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ūtor ūtī ūsus sum",
+    "type": "Verb",
+    "gloss": "use",
+    "definition": "use; experience, enjoy (+ abl.)",
+    "conjugation": "3",
+    "declension": "None",
+    "numbers": "None"
+}]

@@ -1,0 +1,34 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 10
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+solvō, solvere, solvī, solūtus : set free; break up; pay back
+absolvō, absolvere, absolvī, absolūtus : set free (from); absolve; finish
+tollō, tollere, sustulī, sublātus : take away, lift up, take up
+extollō, extollere, extulī, – : lift up, extol
+fīniō, fīnīre, fīnīvī (fīniī), fīnītus : end, finish
+Galilaea, Galilaeae, f. : Galilee
+annus, annī, m. : year
+clērus, clērī, m. : clergy
+dēbitum, dēbitī, n. : debt
+dēsīderium, dēsdīderīi, n. : want, need, desire
+dētrīmentum, dētrīmentī, n. : loss
+imperium, imperiī, n. : dominion, empire; precept, command
+ministerium, ministeriī, n. : ministry, service
+spatium, spatiī, n. : space
+vinculum, vinculī, n. : bond, chain
+excelsus, -a, -um : high, lofty, exalted
+perpetuus, -a, -um : everlasting, perpetual
+secundus, -a, -um : next, second
+ūnigenitus, -a, -um : only begotten, only
+allēlūjā : (Hebrew, interjection) alleluia (cry of joy and praise)
+ante : (prep. + acc.) before
+ecce : (interjection) look!, here!
+eléīson : (Greek, imperative) have mercy!
+hōsānnā : (Hebrew, interjection) hosanna (cry of praise)
+Kȳrie : (Greek, vocative) O Lord!
+perenniter : (adv.) constantly, perennially
+posteā : (adv.) afterwards, later on
+quī, quae, quod : (1. interrog. adj.; 2. rel. pron.) 1. which?, what?, 2. who, which, that
+secundum : (prep. + acc.) according to
+subitō : (adv.) suddenly
+#end

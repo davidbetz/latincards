@@ -1,0 +1,57 @@
+.adjectives .chart {
+    display: table;
+    border-spacing: 10px;
+    margin: 0 auto;
+}
+
+.adjectives .container {
+    display: table-cell;
+}
+
+.adjectives .word-group {
+    width: 500px;
+    text-align: center;
+    font-size: 2em;
+    display: table;
+    border-spacing: 0;
+    color: #33ccff;
+    color: #2d99c1;
+}
+
+
+.adjectives .example .word-group {
+    width: 400px;
+}
+    .adjectives .word-group span:empty {
+        display: none;
+    }
+    
+    .adjectives .word-group span {
+        display: table-cell;
+        min-width: 150px;
+        border: 1px solid #eee;
+        cursor: default;
+    }
+
+    .adjectives .example .word-group span {
+        min-width: 150px;
+    }
+
+    .adjectives .word-group span.green {
+        color: #568239;
+        font-weight: bold;
+    }
+    
+    .adjectives .word-group span:hover {
+        background-color: #33ccff;
+        background-color: #2d99c1;
+        color: #ffffff;
+    }
+
+    .adjectives .word-group span.legend {
+        width: 20px;
+    }
+    
+    .adjectives .word-group span.legend:hover {
+        background-color: #fff;
+    }

@@ -1,0 +1,41 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 22
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+dīgnor, dīgnārī, -, dīgnātus sum : consider worthwhile, deign
+dēdīgnor, dēdīgnārī, -, dēdīgnātus sum : disdain
+jūdicō, jūdicāre, jūdicāvī, jūdicātus : judge
+dījūdicō, dījūdicāre, dījūdicāvī, dījūdicātus : discern, distinguish
+memoror, memorārī, -, memorātus sum : be mindful of, remember
+postulō, postulāre, postulāvī, postulātus : ask (for), pray for, require
+praedicō, praedicāre, praedicāvī, praedicātus : preach, proclaim
+rogō, rogāre, rogāvī, rogātus : ask (for), pray, bessech
+interrogō, interrrogāre, interrogāvī, interrogātus : ask, inquire
+fateor, fatērī, -, fassus sum : acknowledge, confess, praise
+cōnfiteor, cōnfiērī, -, cōnfessus sum : confess, praise
+profiteor, profiērī, -, professus sum : profess
+jubeō, jubēre, jussī, jussus : command, bid, ask
+respondeō, respondēre, respondī, respōnsus : answer, respond (to)
+loquor, loquī, -, locūtus sum : speak
+alloquor, alloquī, -, allocūtus sum : speak to, address
+petō, petere, petīvī (petiī), petītus : ask (for), entreat
+sequor, sequī, -, secūtus sum : follow
+assequor, assequī, -, assecūtus sum : follow
+cōnsequor, cōnsequī, -, cōnsecūtus sum : follow, obtain
+persequor, persequī, -, persecūtus sum : pursue, track down, persecute
+prōsequor, prōsequī, -, prōsecūtus sum : proceed (with), go through (with)
+ūtor, ūtī, -, ūsus sum : use, enjoy, be friends with
+cūra, cūrae, f. : care, concern
+spīna, spīnae, f. : thorn
+antistes, antistitis, m. : bishop
+cīvitās, cīvitātis, f. : city
+clāritās, clāritātis, f. : light, brightness, glory, fame
+intercessiō, incercessiōnis, f. : intercession
+cantus, cantūs, m. : chant
+introitus, introitūs, m. : a going in, introit
+plānctus, plānctūs, m. : mourning
+serēnus, -a, -um : bright, serene
+commūnis, commūne : common, unclean
+major, majus, majōris : greater, older
+nē : in order that  ... not, that ... not
+ut : in order that ..., that 
+#end

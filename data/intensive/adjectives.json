@@ -1,0 +1,705 @@
+[{
+    "word": "absēns absentis",
+    "type": "Adjective",
+    "gloss": "absent",
+    "definition": "absent",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ācer ācris ācre",
+    "type": "Adjective",
+    "gloss": "sharp, piercing",
+    "definition": "sharp, keen; fierce",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "acerbus –a –um",
+    "type": "Adjective",
+    "gloss": "bitter",
+    "definition": "bitter; harsh",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "adolēscēns or adulēscens -entis",
+    "type": "Adjective",
+    "gloss": "young, growing",
+    "definition": "young, youthful; \"minor\" (in reference to the younger of two having same name); subs: young man or woman",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "aeternus –a –um",
+    "type": "Adjective",
+    "gloss": "everlasting, eternal",
+    "definition": "everlasting, eternal",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "aliēnus –a –um",
+    "type": "Adjective",
+    "gloss": "strange, unrelated",
+    "definition": "strange, unrelated",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "altus –a –um",
+    "type": "Adjective",
+    "gloss": "tall, high; deep",
+    "definition": "tall, high; deep",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "amīcus –a –um",
+    "type": "Adjective",
+    "gloss": "friendly (+dat.)",
+    "definition": "friendly (+ dat.)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "antīquus –a –um",
+    "type": "Adjective",
+    "gloss": "ancient, old",
+    "definition": "old, ancient, old-time, former",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "audāx",
+    "type": "Adjective",
+    "gloss": "bold; reckless",
+    "definition": "bold, daring; courageous; reckless, rash; audacious, presumptuous; desperate",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "aureus –a –um",
+    "type": "Adjective",
+    "gloss": "golden",
+    "definition": "of gold, golden; gilded; gold bearing; gleaming like gold; beautiful, splendid",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "bonus –a –um",
+    "type": "Adjective",
+    "gloss": "good",
+    "definition": "good",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "caecus –a –um",
+    "type": "Adjective",
+    "gloss": "blind",
+    "definition": "blind; hidden, secret, dark",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "cārus –a –um",
+    "type": "Adjective",
+    "gloss": "precious",
+    "definition": "precious; dear (to) (+ dat.)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "celer celeris celere",
+    "type": "Adjective",
+    "gloss": "swift",
+    "definition": "swift",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "certus –a –um",
+    "type": "Adjective",
+    "gloss": "sure, fixed",
+    "definition": "sure, certain, reliable; fixed, settled, firm; trusty, reliable; resolved, determined",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "clārus –a –um",
+    "type": "Adjective",
+    "gloss": "clear, distinguished",
+    "definition": "bright, clear; famous, distinguished",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "crūdēlis crūdēle",
+    "type": "Adjective",
+    "gloss": "unfeeling, cruel",
+    "definition": "cruel, hardhearted, unmerciful, severe, bloodthirsty, savage, inhuman; harsh, bitter",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "cupidus –a –um",
+    "type": "Adjective",
+    "gloss": "desirious",
+    "definition": "desirious (+ gen.)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "decōrus –a –um",
+    "type": "Adjective",
+    "gloss": "fitting, suitable; handsome",
+    "definition": "fitting, suitable; handsome",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "dēmēns dēmentis",
+    "type": "Adjective",
+    "gloss": "mad, raving",
+    "definition": "mad, raving",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "dexter dextra dextrum",
+    "type": "Adjective",
+    "gloss": "right, on the right side",
+    "definition": "right, on/to the right hand/side; skillful/dexterous/handy;",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "difficilis difficile",
+    "type": "Adjective",
+    "gloss": "difficult",
+    "definition": "difficult",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "dīgnus –a –um",
+    "type": "Adjective",
+    "gloss": "worthy",
+    "definition": "worthy (of) (+ abl.)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "dissimilis dissimile",
+    "type": "Adjective",
+    "gloss": "dissimilar",
+    "definition": "dissimilar, unlike, different (+ gen. or dat.)",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "dubius –a –um",
+    "type": "Adjective",
+    "gloss": "doubtful",
+    "definition": "doubtful",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "dulcis dulce",
+    "type": "Adjective",
+    "gloss": "sweet",
+    "definition": "sweet, pleasant",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "dūrus –a –um",
+    "type": "Adjective",
+    "gloss": "hard, harsh",
+    "definition": "hard; harsh",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "exiguus –a –um",
+    "type": "Adjective",
+    "gloss": "small, little",
+    "definition": "small, little",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "facilis facile",
+    "type": "Adjective",
+    "gloss": "easy",
+    "definition": "easy",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "fēlīx fēlīcis",
+    "type": "Adjective",
+    "gloss": "fortunate",
+    "definition": "fortunate, happy",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "fortis forte",
+    "type": "Adjective",
+    "gloss": "brave; strong",
+    "definition": "brave; strong",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "frīgidus –a –um",
+    "type": "Adjective",
+    "gloss": "cool, cold",
+    "definition": "cold, cool, chilly, frigid; lifeless, indifferent, dull",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "gracilis gracile",
+    "type": "Adjective",
+    "gloss": "thin",
+    "definition": "thin",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "grātus –a –um",
+    "type": "Adjective",
+    "gloss": "pleasant; grateful",
+    "definition": "charming, pleasing; grateful, pleased",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "gravis grave",
+    "type": "Adjective",
+    "gloss": "heavy",
+    "definition": "heavy, deep; important, serious; severe",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "honestus –a –um",
+    "type": "Adjective",
+    "gloss": "honorable",
+    "definition": "honorable, respectable",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "horridus –a –um",
+    "type": "Adjective",
+    "gloss": "rough",
+    "definition": "rough, shaggy, trembling",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "hostīlis hostīlis hostīle",
+    "type": "Adjective",
+    "gloss": "hostile",
+    "definition": "hostile",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "humilis humile",
+    "type": "Adjective",
+    "gloss": "humble",
+    "definition": "humble",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "immortālis immortālis immortāle",
+    "type": "Adjective",
+    "gloss": "immortal",
+    "definition": "immortal, not subject to death; eternal, everlasting, perpetual; imperishable",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "impius –a –um",
+    "type": "Adjective",
+    "gloss": "disloyal",
+    "definition": "disloyal, wicked",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "incertus –a –um",
+    "type": "Adjective",
+    "gloss": "uncertain",
+    "definition": "unsure, uncertain, unreliable",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "indīgnus –a –um",
+    "type": "Adjective",
+    "gloss": "unworthy (of)",
+    "definition": "unworthy (of) (+ abl.)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "īnfēlīx īnfēlīcis",
+    "type": "Adjective",
+    "gloss": "unfortunate, unhappy",
+    "definition": "unfortunate, unhappy",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "īnfīrmus –a –um",
+    "type": "Adjective",
+    "gloss": "weak, feeble",
+    "definition": "fragile/frail/feeble; unwell/sick/infirm; weak (military); mild/irresolute; powerless/ineffectual; unsound/untrustworthy",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "ingēns ingentis",
+    "type": "Adjective",
+    "gloss": "huge",
+    "definition": "huge; oustanding",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "inimīcus –a –um",
+    "type": "Adjective",
+    "gloss": "unfriendly, hostile",
+    "definition": "unfriendly, hostile (+ dat.)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "īrātus –a –um",
+    "type": "Adjective",
+    "gloss": "angry",
+    "definition": "angry",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "laetus –a –um",
+    "type": "Adjective",
+    "gloss": "happy",
+    "definition": "happy",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "līber lībera līberum",
+    "type": "Adjective",
+    "gloss": "free",
+    "definition": "free (man); unimpeded; void of; independent, outspoken/frank; free from tribute; unconstrained, unrestrained, unencumbered; licentious; idle; w/abandon",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "longus –a –um",
+    "type": "Adjective",
+    "gloss": "long, far",
+    "definition": "long; far; long-standing; far-reaching",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "magnus –a –um",
+    "type": "Adjective",
+    "gloss": "great",
+    "definition": "large, big; great; vast/huge; much; powerful; tall/long/broad; extensive/spacious; great (achievement); mighty; distinguished; skilled; bold/confident; proud; full/complete/utter/pure; intense; loud; at high price; notable/famous; old",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "malus –a –um",
+    "type": "Adjective",
+    "gloss": "bad, evil",
+    "definition": "bad, evil",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "medius –a –um",
+    "type": "Adjective",
+    "gloss": "middle, midst",
+    "definition": "middle (of); as subst., midst; common, neutral, ordinary, moderate; ambiguous",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "memor",
+    "type": "Adjective",
+    "gloss": "remembering",
+    "definition": "remembering; mindful (of, + gen.), grateful; unforgetting, commemorative",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "minimus –a –um",
+    "type": "Adjective",
+    "gloss": "least, smallest",
+    "definition": "least, smallest, very small, minute, trifling, insignificant",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "miser misera miserum",
+    "type": "Adjective",
+    "gloss": "wretched, pitiable",
+    "definition": "wretched, pitiable, miserable",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "multus –a –um",
+    "type": "Adjective",
+    "gloss": "much, many",
+    "definition": "much, many",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "necesse",
+    "type": "Adjective",
+    "gloss": "necessary (undeclinable)",
+    "definition": "necessary",
+    "conjugation": "None",
+    "declension": "5",
+    "numbers": "None"
+}, {
+    "word": "nōtus –a –um",
+    "type": "Adjective",
+    "gloss": "well-known",
+    "definition": "well-known, familiar, notable, famous, esteemed; notorious, of ill-repute",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "novus –a –um",
+    "type": "Adjective",
+    "gloss": "new",
+    "definition": "new, fresh, young; unusual, extraordinary (> novae res, f. pl. = revolution)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "parvus –a –um minor –or –us minimus –a –um",
+    "type": "Adjective",
+    "gloss": "small",
+    "definition": "small, little, cheap; unimportant",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "paucī –ae –a",
+    "type": "Adjective",
+    "gloss": "few",
+    "definition": "few",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "paulus –a –um",
+    "type": "Adjective",
+    "gloss": "little, small",
+    "definition": "little; small; (only a) small amount/quantity of/little bit of",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "pauper pauperis m.",
+    "type": "Adjective",
+    "gloss": "poor man",
+    "definition": "poor man",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "pius –a –um",
+    "type": "Adjective",
+    "gloss": "duitful",
+    "definition": "dutiful, loyal",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "proximus proximi m.",
+    "type": "Adjective",
+    "gloss": "neighbor",
+    "definition": "neighbor; nearest one",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "pūblicus –a –um",
+    "type": "Adjective",
+    "gloss": "public",
+    "definition": "public; common, of the people/state; official [res publica => the state]",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "pulcher pulchra pulchrum",
+    "type": "Adjective",
+    "gloss": "beautiful",
+    "definition": "beautiful, handsome",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "reliquus –a –um",
+    "type": "Adjective",
+    "gloss": "remaining",
+    "definition": "remaining, rest (of)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "Rōmānus –a –um",
+    "type": "Adjective",
+    "gloss": "Roman",
+    "definition": "belonging to Rome; Roman; subst., Romanus, i, m., a Roman (> Roma)",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "saevus –a –um",
+    "type": "Adjective",
+    "gloss": "savage",
+    "definition": "cruel, savage",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "sānus –a –um",
+    "type": "Adjective",
+    "gloss": "sound",
+    "definition": "sound; healthy; sensible; sober; sane",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "serēnus –a –um",
+    "type": "Adjective",
+    "gloss": "serene, calm",
+    "definition": "serene, calm",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "similis simile",
+    "type": "Adjective",
+    "gloss": "similar",
+    "definition": "similar (+ gen. or dat.)",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "socius –a –um",
+    "type": "Adjective",
+    "gloss": "allied",
+    "definition": "sharing, joining in, partaking, united, associated, kindred, allied, fellow, common",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "sollers sollertis",
+    "type": "Adjective",
+    "gloss": "skilled, expert",
+    "definition": "skilled, expert",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "studiōsus –a –um",
+    "type": "Adjective",
+    "gloss": "eager",
+    "definition": "eager, keen, full of zeal; studious; devoted to, fond of",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "summus –a –um",
+    "type": "Adjective",
+    "gloss": "highest",
+    "definition": "highest; top (of); last, final",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "superus –a –um",
+    "type": "Adjective",
+    "gloss": "above",
+    "definition": "above, high; higher, upper, of this world; greatest, last, highest",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "supplex supplicis",
+    "type": "Adjective",
+    "gloss": "suppliant",
+    "definition": "suppliant",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "turpis turpe",
+    "type": "Adjective",
+    "gloss": "ugly",
+    "definition": "foul, ugly; base, shameful",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "tūtus –a –um",
+    "type": "Adjective",
+    "gloss": "safe",
+    "definition": "safe, prudent; secure; protected",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "validus –a –um",
+    "type": "Adjective",
+    "gloss": "strong",
+    "definition": "strong; healthy",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "vērus –a –um",
+    "type": "Adjective",
+    "gloss": "real, true",
+    "definition": "real, true, actual, genuine",
+    "conjugation": "None",
+    "declension": "1",
+    "numbers": "None"
+}, {
+    "word": "vetus veteris",
+    "type": "Adjective",
+    "gloss": "old",
+    "definition": "old",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ūtilis ūtilis ūtile",
+    "type": "Adjective",
+    "gloss": "useful",
+    "definition": "useful, profitable, practical, helpful, advantageous",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}]

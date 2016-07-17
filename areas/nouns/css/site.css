@@ -1,0 +1,56 @@
+.nouns .chart {
+    display: table;
+    border-spacing: 10px;
+    margin: 0 auto;
+}
+
+.nouns .container {
+    display: table-cell;
+}
+
+.nouns .word-group {
+    width: 500px;
+    text-align: center;
+    font-size: 2em;
+    display: table;
+    border-spacing: 0;
+    color: #33ccff;
+    color: #2d99c1;
+}
+
+.nouns .example .word-group {
+    width: 400px;
+}
+    .nouns .word-group span:empty {
+        display: none;
+    }
+    
+    .nouns .word-group span {
+        display: table-cell;
+        min-width: 150px;
+        border: 1px solid #eee;
+        cursor: default;
+    }
+
+    .nouns .example .word-group span {
+        min-width: 150px;
+    }
+
+    .nouns .word-group span.green {
+        color: #568239;
+        font-weight: bold;
+    }
+    
+    .nouns .word-group span:hover {
+        background-color: #33ccff;
+        background-color: #2d99c1;
+        color: #ffffff;
+    }
+
+    .nouns .word-group span.legend {
+        width: 20px;
+    }
+    
+    .nouns .word-group span.legend:hover {
+        background-color: #fff;
+    }

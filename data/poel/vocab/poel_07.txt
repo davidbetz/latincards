@@ -1,0 +1,41 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 07
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+celebrō, celebrārem celebrāvī, celebrātus : celebrate
+concelebrō, concelebrārem concelebrāvī, concelebrātus : celebrate together
+firmō, firmāre, firmāvī, firmātus : strengthen, make stready
+affirmō, affirmāre, affirmāvī, affirmātus : prove, assert
+confirmō, confirmāre, confirmāvī, confirmātus : strengthen, uphold
+sānō, sānāre, sānāvī, sānātus : heal
+dīcō, dīcere, dīxī, dictus : say, tell (pass. also) be called
+benedīcō, benedīcere, benedīxī, benedictus : speak well (of), bless
+maledīcō, maledīcere, maledīxī, maledictus : speak evil (of), curse
+anima, animae, f. : soul, life
+laetitia, laetitiae, f. : gladness, joy
+lītūrgia, lītūrgiae, f. : (divine) service, liturgy
+misericordia, misericordiae, f. : mercy, kindness, pity
+turba, turbae, f. : crowd, multitude
+victōria, victōriae, f. : victory
+diāconus, diāconī, m. : deacon
+respōnsum, respōnsī, n. : answer, response
+vōtum, vōtī, n. : vow, prayer
+cārus, -a, -um : (+ dat.) dear, beloved
+dīgnus, -a, -um : (+ abl.) worthy (of)
+indīgnus, -a, -um : (+ abl.) unworthy (of)
+firmus, -a, -um : steadfast, firm
+īnfirmus, -a, -um : weak, sick
+maestus, -a, -um : sad
+Nazarēnus, -a, -um : of Nazareth, Nazarene, Nazorean
+plēnus, -a, -um : (+ abl.) full (of)
+prīmus, -a, -um : first
+in prīmīs : at first, in the first place
+ūniversus, -a, -um : all, the whole
+ūnus, -a, -um : one, a, and
+ūnā : (adv.) together
+ā (ab, abs) : (prep. + abl.) by (the agency of)
+bene : (adv.) well
+Jēsūs, Jēsū, Jēsū, Jēsūm, Jēsū, m. : Jesus, Joshua
+male : (adv.) badly, poorly
+male habēre : be sick
+propter : (prep. + acc.) on account of, because of
+#end

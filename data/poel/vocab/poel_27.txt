@@ -1,0 +1,37 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 27
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+lavō, lavāre, lāvī, lautus (lōtus) : wash, be washed, bathe
+fulgeō, fulgēre, fulsī, - : shine, glow
+circumfulgeō, circumfulgēre, circumfulsī, - : shine around
+refulgeō, refulgēre, refulsī, - : shine brightly, gleam
+mereō, merēre, meruī, meritus : be worthy, deserve
+emō, emere, ēmī, ēmptus : buy
+redimō, redimere, redēmī, redēmptus : buy back, redeem
+pāscō, pāscere, pāvī, pāstus : feed 
+statuō, statuere, statuī, statūtus : establish, appoint, determine
+cōnstituō, cōnstituere, cōnstituī, cōnstitūtus : decree, ordain
+īra, īrae, f. : anger, wrath
+synagōga, synagōgae, f. : congregation, synagogue
+Pontius Pīlātus, Pontiī Pīlātī, m. : Pontius Pilate, Pilate
+pretium, pretiī, n. : price, ransom
+sīgnum, sīgnī, n. : sign, miracle
+labor, labōris, m. : work, labor
+odor, odōris, m. : aroma, odor
+gēns, gentis, gentium, f. : nation, (pl.) nations, Gentiles
+virtūs, virtūtis, f. : excellence, virtue, power, strength, (pl.) miracles
+vōx, vōcis, f. : sound, voice
+salūtāre, salūtāris, salūtārium, n. : salvation
+tempus, temporis, n. : time
+faciēs, faciēī, f. : face (i.e. appearance)
+gentius, -a, -um : begotten, engendered
+suāvis, suāve : sweet
+ait : he says
+aiunt : they say
+magis : more
+nōndum : not yet
+quam : how, how much, as ...as possible, than
+quō : (to) where
+tantum : only
+unde : from where
+#end

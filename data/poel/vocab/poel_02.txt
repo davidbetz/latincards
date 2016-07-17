@@ -1,0 +1,31 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 02
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.1 by Paul Denisowski (paul@denisowski.org)
+sum, esse, fuī, futūrus : be, exist 
+ancilla, ancillae, f. : maid, (female) servant 
+Jūdaea, Jūdaeae, f. : Judea 
+jūstitia, jūstitiae, f. : righteousness, justice 
+Marīa, Marīae, f. : Mary 
+potentia, potentiae, f. : power 
+ager, agrī, m. : field, pl. country 
+agnus, agnī, m. : lamb 
+angelus, angelī, m. : messenger, angel 
+archangelus, archangelī, m. : archangel 
+apostolus, apostolī, m. : apostle 
+Chrīstus, Chrīstī, m. : Annointed One, Messiah, Christ
+Deus, Deī, m. (nom. pl. diī) : God
+discipulus, discipulī, m. : disciple, student 
+dominus, dominī, m. : lord, master 
+episcopus, episcopī, m. : overseer, bishop 
+fīlius, fīliī, m. : son 
+minister, ministrī, m. : servant, minister 
+Petrus, Petrī, m. : Peter 
+populus, populī, m. : people 
+puer, puerī, m. : boy, child, servant 
+psalmus, psalmī, m. : psalm 
+servus, servī, m. : servant, slave 
+hodiē : (adv.) today 
+nam : (coord. conj.) for 
+nōn : (adv.) not 
+trāns : (prep. + acc.) across 
+#end

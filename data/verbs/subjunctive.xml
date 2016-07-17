@@ -1,0 +1,195 @@
+<verbs>
+  <words>
+    <word fspai="amō" infinitive="amāre" perfect="amāvī" participle="amātus" />
+    <word fspai="trahō" infinitive="trahere" perfect="trāxī" participle="tractus" />
+    <word fspai="audiō" infinitive="audīre" perfect="audīvī" participle="audītus" />
+    <word fspai="doceō" infinitive="docēre" perfect="docuī" participle="doctus" />
+  </words>
+  <forms>
+    <form conjugation="1st" voice="active" tense="present" number="singular" person="1st" mood="subjunctive" example="amem" ending="o" />
+    <form conjugation="1st" voice="active" tense="present" number="singular" person="2nd" mood="subjunctive" example="amēs" ending="s" />
+    <form conjugation="1st" voice="active" tense="present" number="singular" person="3rd" mood="subjunctive" example="amet" ending="t" />
+    <form conjugation="1st" voice="active" tense="present" number="plural" person="1st" mood="subjunctive" example="amēmus" ending="mus" />
+    <form conjugation="1st" voice="active" tense="present" number="plural" person="2nd" mood="subjunctive" example="amētis" ending="tis" />
+    <form conjugation="1st" voice="active" tense="present" number="plural" person="3rd" mood="subjunctive" example="ament" ending="nt" />
+
+    <form conjugation="2nd" voice="active" tense="present" number="singular" person="1st" mood="subjunctive" example="moneam" ending="ō" />
+    <form conjugation="2nd" voice="active" tense="present" number="singular" person="2nd" mood="subjunctive" example="moneās" ending="s" />
+    <form conjugation="2nd" voice="active" tense="present" number="singular" person="3rd" mood="subjunctive" example="moneat" ending="t" />
+    <form conjugation="2nd" voice="active" tense="present" number="plural" person="1st" mood="subjunctive" example="moneāmus" ending="mus" />
+    <form conjugation="2nd" voice="active" tense="present" number="plural" person="2nd" mood="subjunctive" example="moneātis" ending="tis" />
+    <form conjugation="2nd" voice="active" tense="present" number="plural" person="3rd" mood="subjunctive" example="moneant" ending="nt" />
+
+    <form conjugation="3rd" voice="active" tense="present" number="singular" person="1st" mood="subjunctive" example="vīvam" ending="ō" />
+    <form conjugation="3rd" voice="active" tense="present" number="singular" person="2nd" mood="subjunctive" example="vīvās" ending="s" />
+    <form conjugation="3rd" voice="active" tense="present" number="singular" person="3rd" mood="subjunctive" example="vīvat" ending="t" />
+    <form conjugation="3rd" voice="active" tense="present" number="plural" person="1st" mood="subjunctive" example="vīvāmus" ending="mus" />
+    <form conjugation="3rd" voice="active" tense="present" number="plural" person="2nd" mood="subjunctive" example="vīvātis" ending="tis" />
+    <form conjugation="3rd" voice="active" tense="present" number="plural" person="3rd" mood="subjunctive" example="vīvant" ending="nt" />
+
+    <form conjugation="4th" voice="active" tense="present" number="singular" person="1st" mood="subjunctive" example="audiam" ending="ō" />
+    <form conjugation="4th" voice="active" tense="present" number="singular" person="2nd" mood="subjunctive" example="audiās" ending="s" />
+    <form conjugation="4th" voice="active" tense="present" number="singular" person="3rd" mood="subjunctive" example="audiat" ending="t" />
+    <form conjugation="4th" voice="active" tense="present" number="plural" person="1st" mood="subjunctive" example="audiāmus" ending="mus" />
+    <form conjugation="4th" voice="active" tense="present" number="plural" person="2nd" mood="subjunctive" example="audiātis" ending="tis" />
+    <form conjugation="4th" voice="active" tense="present" number="plural" person="3rd" mood="subjunctive" example="audiaunt" ending="nt" />
+
+    <form conjugation="1st" voice="passive" tense="present" number="singular" person="1st" mood="subjunctive" example="amer"   ending="r" />
+    <form conjugation="1st" voice="passive" tense="present" number="singular" person="2nd" mood="subjunctive" example="amēris" ending="ris" />
+    <form conjugation="1st" voice="passive" tense="present" number="singular" person="3rd" mood="subjunctive" example="amētur" ending="tur" />
+    <form conjugation="1st" voice="passive" tense="present" number="plural" person="1st" mood="subjunctive" example="amēmur"   ending="mur" />
+    <form conjugation="1st" voice="passive" tense="present" number="plural" person="2nd" mood="subjunctive" example="amēminī"  ending="mini" />
+    <form conjugation="1st" voice="passive" tense="present" number="plural" person="3rd" mood="subjunctive" example="amentur"  ending="ntur" />
+
+    <form conjugation="2nd" voice="passive" tense="present" number="singular" person="1st" mood="subjunctive" example="monear"  ending="r" />
+    <form conjugation="2nd" voice="passive" tense="present" number="singular" person="2nd" mood="subjunctive" example="moneāris" ending="ris" />
+    <form conjugation="2nd" voice="passive" tense="present" number="singular" person="3rd" mood="subjunctive" example="moneātur" ending="tur" />
+    <form conjugation="2nd" voice="passive" tense="present" number="plural" person="1st" mood="subjunctive" example="moneāmur"  ending="mur" />
+    <form conjugation="2nd" voice="passive" tense="present" number="plural" person="2nd" mood="subjunctive" example="moneāminī" ending="mini" />
+    <form conjugation="2nd" voice="passive" tense="present" number="plural" person="3rd" mood="subjunctive" example="moneantur" ending="ntur" />
+
+    <form conjugation="3rd" voice="passive" tense="present" number="singular" person="1st" mood="subjunctive" example="vīvar"   ending="r" />
+    <form conjugation="3rd" voice="passive" tense="present" number="singular" person="2nd" mood="subjunctive" example="vīvāris" ending="ris" />
+    <form conjugation="3rd" voice="passive" tense="present" number="singular" person="3rd" mood="subjunctive" example="vīvātur" ending="tur" />
+    <form conjugation="3rd" voice="passive" tense="present" number="plural" person="1st" mood="subjunctive" example="vīvāmur"   ending="mur" />
+    <form conjugation="3rd" voice="passive" tense="present" number="plural" person="2nd" mood="subjunctive" example="vīvāminī"  ending="mini" />
+    <form conjugation="3rd" voice="passive" tense="present" number="plural" person="3rd" mood="subjunctive" example="vīvantur"  ending="ntur" />
+
+    <form conjugation="4th" voice="passive" tense="present" number="singular" person="1st" mood="subjunctive" example="audiar"   ending="r" />
+    <form conjugation="4th" voice="passive" tense="present" number="singular" person="2nd" mood="subjunctive" example="audiāris" ending="ris" />
+    <form conjugation="4th" voice="passive" tense="present" number="singular" person="3rd" mood="subjunctive" example="audiātur" ending="tur" />
+    <form conjugation="4th" voice="passive" tense="present" number="plural" person="1st" mood="subjunctive" example="audiāmur"   ending="mur" />
+    <form conjugation="4th" voice="passive" tense="present" number="plural" person="2nd" mood="subjunctive" example="audiāminī"  ending="mini" />
+    <form conjugation="4th" voice="passive" tense="present" number="plural" person="3rd" mood="subjunctive" example="audiantur"  ending="ntur" />
+
+    <split />
+
+    <form conjugation="1st" voice="active" tense="imperfect" number="singular" person="1st" mood="subjunctive" example="amāre" ending="m" />
+    <form conjugation="1st" voice="active" tense="imperfect" number="singular" person="2nd" mood="subjunctive" example="amārēs" ending="s" />
+    <form conjugation="1st" voice="active" tense="imperfect" number="singular" person="3rd" mood="subjunctive" example="amāret" ending="t" />
+    <form conjugation="1st" voice="active" tense="imperfect" number="plural" person="1st" mood="subjunctive" example="amārēmus" ending="mus" />
+    <form conjugation="1st" voice="active" tense="imperfect" number="plural" person="2nd" mood="subjunctive" example="amārētis" ending="tis" />
+    <form conjugation="1st" voice="active" tense="imperfect" number="plural" person="3rd" mood="subjunctive" example="amārent" ending="nt" />
+
+    <form conjugation="2nd" voice="active" tense="imperfect" number="singular" person="1st" mood="subjunctive" example="monērem" ending="m" />
+    <form conjugation="2nd" voice="active" tense="imperfect" number="singular" person="2nd" mood="subjunctive" example="monērēs" ending="s" />
+    <form conjugation="2nd" voice="active" tense="imperfect" number="singular" person="3rd" mood="subjunctive" example="monēret" ending="t" />
+    <form conjugation="2nd" voice="active" tense="imperfect" number="plural" person="1st" mood="subjunctive" example="monērēmus" ending="mus" />
+    <form conjugation="2nd" voice="active" tense="imperfect" number="plural" person="2nd" mood="subjunctive" example="monērētis" ending="tis" />
+    <form conjugation="2nd" voice="active" tense="imperfect" number="plural" person="3rd" mood="subjunctive" example="monērent" ending="nt" />
+
+    <form conjugation="3rd" voice="active" tense="imperfect" number="singular" person="1st" mood="subjunctive" example="traherem" ending="m" />
+    <form conjugation="3rd" voice="active" tense="imperfect" number="singular" person="2nd" mood="subjunctive" example="traherēs" ending="s" />
+    <form conjugation="3rd" voice="active" tense="imperfect" number="singular" person="3rd" mood="subjunctive" example="traheret" ending="t" />
+    <form conjugation="3rd" voice="active" tense="imperfect" number="plural" person="1st" mood="subjunctive" example="traherēmus" ending="mus" />
+    <form conjugation="3rd" voice="active" tense="imperfect" number="plural" person="2nd" mood="subjunctive" example="traherētis" ending="tis" />
+    <form conjugation="3rd" voice="active" tense="imperfect" number="plural" person="3rd" mood="subjunctive" example="traherent" ending="nt" />
+
+    <form conjugation="4th" voice="active" tense="imperfect" number="singular" person="1st" mood="subjunctive" example="audīrem" ending="m" />
+    <form conjugation="4th" voice="active" tense="imperfect" number="singular" person="2nd" mood="subjunctive" example="audīrēs" ending="s" />
+    <form conjugation="4th" voice="active" tense="imperfect" number="singular" person="3rd" mood="subjunctive" example="audīret" ending="t" />
+    <form conjugation="4th" voice="active" tense="imperfect" number="plural" person="1st" mood="subjunctive" example="audīrēmus" ending="mus" />
+    <form conjugation="4th" voice="active" tense="imperfect" number="plural" person="2nd" mood="subjunctive" example="audīrētis" ending="tis" />
+    <form conjugation="4th" voice="active" tense="imperfect" number="plural" person="3rd" mood="subjunctive" example="audīrent" ending="nt" />
+    
+    <form conjugation="1st" voice="passive" tense="imperfect" number="singular" person="1st" mood="subjunctive" example="amārer" ending="r" />
+    <form conjugation="1st" voice="passive" tense="imperfect" number="singular" person="2nd" mood="subjunctive" example="amārēris" ending="ris" />
+    <form conjugation="1st" voice="passive" tense="imperfect" number="singular" person="3rd" mood="subjunctive" example="amārētur" ending="tur" />
+    <form conjugation="1st" voice="passive" tense="imperfect" number="plural" person="1st" mood="subjunctive" example="amārēmur" ending="mur" />
+    <form conjugation="1st" voice="passive" tense="imperfect" number="plural" person="2nd" mood="subjunctive" example="amārēminī" ending="minī" />
+    <form conjugation="1st" voice="passive" tense="imperfect" number="plural" person="3rd" mood="subjunctive" example="amārentur"  ending="ntur" />
+    
+    <form conjugation="2nd" voice="passive" tense="imperfect" number="singular" person="1st" mood="subjunctive" example="monērer"    ending="r" />
+    <form conjugation="2nd" voice="passive" tense="imperfect" number="singular" person="2nd" mood="subjunctive" example="monērēris"    ending="ris" />
+    <form conjugation="2nd" voice="passive" tense="imperfect" number="singular" person="3rd" mood="subjunctive" example="monērētur"    ending="tur" />
+    <form conjugation="2nd" voice="passive" tense="imperfect" number="plural" person="1st" mood="subjunctive" example="monērēmur"    ending="mur" />
+    <form conjugation="2nd" voice="passive" tense="imperfect" number="plural" person="2nd" mood="subjunctive" example="monērēminī"    ending="minī" />
+    <form conjugation="2nd" voice="passive" tense="imperfect" number="plural" person="3rd" mood="subjunctive" example="monērentur"     ending="ntur" />
+    
+    <form conjugation="3rd" voice="passive" tense="imperfect" number="singular" person="1st" mood="subjunctive" example="traherer" ending="r" />
+    <form conjugation="3rd" voice="passive" tense="imperfect" number="singular" person="2nd" mood="subjunctive" example="traherēris" ending="ris" />
+    <form conjugation="3rd" voice="passive" tense="imperfect" number="singular" person="3rd" mood="subjunctive" example="traherētur" ending="tur" />
+    <form conjugation="3rd" voice="passive" tense="imperfect" number="plural" person="1st" mood="subjunctive" example="traherēmur" ending="mur" />
+    <form conjugation="3rd" voice="passive" tense="imperfect" number="plural" person="2nd" mood="subjunctive" example="traherēminī" ending="minī" />
+    <form conjugation="3rd" voice="passive" tense="imperfect" number="plural" person="3rd" mood="subjunctive" example="traherentur"  ending="ntur" />
+    
+    <form conjugation="4th" voice="passive" tense="imperfect" number="singular" person="1st" mood="subjunctive" example="audīrer" ending="r" />
+    <form conjugation="4th" voice="passive" tense="imperfect" number="singular" person="2nd" mood="subjunctive" example="audīrēris" ending="ris" />
+    <form conjugation="4th" voice="passive" tense="imperfect" number="singular" person="3rd" mood="subjunctive" example="audīrētur" ending="tur" />
+    <form conjugation="4th" voice="passive" tense="imperfect" number="plural" person="1st" mood="subjunctive" example="audīrēmur" ending="mur" />
+    <form conjugation="4th" voice="passive" tense="imperfect" number="plural" person="2nd" mood="subjunctive" example="audīrēminī" ending="minī" />
+    <form conjugation="4th" voice="passive" tense="imperfect" number="plural" person="3rd" mood="subjunctive" example="audīrentur"  ending="ntur" />
+
+    <split />
+
+    <form conjugation="1st" voice="active" tense="perfect" number="singular" person="1st" mood="subjunctive" example="amāverim" ending="m" />
+    <form conjugation="1st" voice="active" tense="perfect" number="singular" person="2nd" mood="subjunctive" example="amāverīs" ending="is" />
+    <form conjugation="1st" voice="active" tense="perfect" number="singular" person="3rd" mood="subjunctive" example="amāverit" ending="t" />
+    <form conjugation="1st" voice="active" tense="perfect" number="plural" person="1st" mood="subjunctive" example="amāverīmus" ending="mus" />
+    <form conjugation="1st" voice="active" tense="perfect" number="plural" person="2nd" mood="subjunctive" example="amāverītis" ending="tis" />
+    <form conjugation="1st" voice="active" tense="perfect" number="plural" person="3rd" mood="subjunctive" example="amāverint"  ending="nt" />
+
+    <form conjugation="2nd" voice="active" tense="perfect" number="singular" person="1st" mood="subjunctive" example="monuerim" ending="m" />
+    <form conjugation="2nd" voice="active" tense="perfect" number="singular" person="2nd" mood="subjunctive" example="monuerīs" ending="is" />
+    <form conjugation="2nd" voice="active" tense="perfect" number="singular" person="3rd" mood="subjunctive" example="monuerit" ending="t" />
+    <form conjugation="2nd" voice="active" tense="perfect" number="plural" person="1st" mood="subjunctive" example="monuerīmus" ending="mus" />
+    <form conjugation="2nd" voice="active" tense="perfect" number="plural" person="2nd" mood="subjunctive" example="monuerītis" ending="tis" />
+    <form conjugation="2nd" voice="active" tense="perfect" number="plural" person="3rd" mood="subjunctive" example="monuerint"  ending="nt" />
+
+    <form conjugation="3rd" voice="active" tense="perfect" number="singular" person="1st" mood="subjunctive" example="trāxerim"    ending="m" />
+    <form conjugation="3rd" voice="active" tense="perfect" number="singular" person="2nd" mood="subjunctive" example="trāxerīs" ending="is" />
+    <form conjugation="3rd" voice="active" tense="perfect" number="singular" person="3rd" mood="subjunctive" example="trāxerit"   ending="t" />
+    <form conjugation="3rd" voice="active" tense="perfect" number="plural" person="1st" mood="subjunctive" example="trāxerīmus"   ending="mus" />
+    <form conjugation="3rd" voice="active" tense="perfect" number="plural" person="2nd" mood="subjunctive" example="trāxerītis"  ending="tis" />
+    <form conjugation="3rd" voice="active" tense="perfect" number="plural" person="3rd" mood="subjunctive" example="trāxerint"  ending="nt" />
+
+    <form conjugation="4th" voice="active" tense="perfect" number="singular" person="1st" mood="subjunctive" example="audīverim"    ending="m" />
+    <form conjugation="4th" voice="active" tense="perfect" number="singular" person="2nd" mood="subjunctive" example="audīverīs" ending="is" />
+    <form conjugation="4th" voice="active" tense="perfect" number="singular" person="3rd" mood="subjunctive" example="audīverit"   ending="t" />
+    <form conjugation="4th" voice="active" tense="perfect" number="plural" person="1st" mood="subjunctive" example="audīverīmus"   ending="mus" />
+    <form conjugation="4th" voice="active" tense="perfect" number="plural" person="2nd" mood="subjunctive" example="audīverītis"  ending="tis" />
+    <form conjugation="4th" voice="active" tense="perfect" number="plural" person="3rd" mood="subjunctive" example="audīverint"  ending="nt" />
+
+    <form conjugation="1st" voice="passive" tense="perfect" mood="indicative" example="amātus {ego|present}" />
+    <form conjugation="2nd" voice="passive" tense="perfect" mood="indicative" example="monitus {ego|present}" />
+    <form conjugation="2nd" voice="passive" tense="perfect" mood="indicative" example="docus {ego|present}" />
+    <form conjugation="3rd" voice="passive" tense="perfect" mood="indicative" example="tractus {ego|present}" />
+    <form conjugation="4th" voice="passive" tense="perfect" mood="indicative" example="audītus {ego|present}" />
+
+    <split />
+    
+    <form conjugation="1st" voice="active" tense="pluperfect" number="singular" person="1st" mood="subjunctive" example="amāvissem" ending="issem" />
+    <form conjugation="1st" voice="active" tense="pluperfect" number="singular" person="2nd" mood="subjunctive" example="amāvissēs" ending="isses" />
+    <form conjugation="1st" voice="active" tense="pluperfect" number="singular" person="3rd" mood="subjunctive" example="amāvisset" ending="isset" />
+    <form conjugation="1st" voice="active" tense="pluperfect" number="plural" person="1st" mood="subjunctive" example="amāvissēmus" ending="issemus" />
+    <form conjugation="1st" voice="active" tense="pluperfect" number="plural" person="2nd" mood="subjunctive" example="amāvissētis" ending="issetis" />
+    <form conjugation="1st" voice="active" tense="pluperfect" number="plural" person="3rd" mood="subjunctive" example="amāvissent"  ending="issent" />
+
+    <form conjugation="2nd" voice="active" tense="pluperfect" number="singular" person="1st" mood="subjunctive" example="monuissem" ending="issem" />
+    <form conjugation="2nd" voice="active" tense="pluperfect" number="singular" person="2nd" mood="subjunctive" example="monuissēs" ending="isses" />
+    <form conjugation="2nd" voice="active" tense="pluperfect" number="singular" person="3rd" mood="subjunctive" example="monuisset" ending="isset" />
+    <form conjugation="2nd" voice="active" tense="pluperfect" number="plural" person="1st" mood="subjunctive" example="monuissēmus" ending="issemus" />
+    <form conjugation="2nd" voice="active" tense="pluperfect" number="plural" person="2nd" mood="subjunctive" example="monuissētis" ending="issetis" />
+    <form conjugation="2nd" voice="active" tense="pluperfect" number="plural" person="3rd" mood="subjunctive" example="monuissent"  ending="issent" />
+    
+    <form conjugation="3rd" voice="active" tense="pluperfect" number="singular" person="1st" mood="subjunctive" example="trāxissem" ending="m" />
+    <form conjugation="3rd" voice="active" tense="pluperfect" number="singular" person="2nd" mood="subjunctive" example="trāxissēs" ending="s" />
+    <form conjugation="3rd" voice="active" tense="pluperfect" number="singular" person="3rd" mood="subjunctive" example="trāxisset" ending="t" />
+    <form conjugation="3rd" voice="active" tense="pluperfect" number="plural" person="1st" mood="subjunctive" example="trāxissēmus" ending="mus" />
+    <form conjugation="3rd" voice="active" tense="pluperfect" number="plural" person="2nd" mood="subjunctive" example="trāxissētis" ending="tis" />
+    <form conjugation="3rd" voice="active" tense="pluperfect" number="plural" person="3rd" mood="subjunctive" example="trāxissent" ending="nt" />
+
+    <form conjugation="4th" voice="active" tense="pluperfect" number="singular" person="1st" mood="subjunctive" example="audīvissem" ending="m" />
+    <form conjugation="4th" voice="active" tense="pluperfect" number="singular" person="2nd" mood="subjunctive" example="audīvissēs" ending="s" />
+    <form conjugation="4th" voice="active" tense="pluperfect" number="singular" person="3rd" mood="subjunctive" example="audīvisset" ending="t" />
+    <form conjugation="4th" voice="active" tense="pluperfect" number="plural" person="1st" mood="subjunctive" example="audīvissēmus" ending="mus" />
+    <form conjugation="4th" voice="active" tense="pluperfect" number="plural" person="2nd" mood="subjunctive" example="audīvissētis" ending="tis" />
+    <form conjugation="4th" voice="active" tense="pluperfect" number="plural" person="3rd" mood="subjunctive" example="audīvissent" ending="nt" />
+
+    <form conjugation="1st" voice="passive" tense="pluperfect" mood="indicative" example="amātus {ego|imperfect}" />
+    <form conjugation="2nd" voice="passive" tense="pluperfect" mood="indicative" example="monitus {ego|imperfect}" />
+    <form conjugation="2nd" voice="passive" tense="pluperfect" mood="indicative" example="docus {ego|imperfect}" />
+    <form conjugation="3rd" voice="passive" tense="pluperfect" mood="indicative" example="tractus {ego|imperfect}" />
+    <form conjugation="4th" voice="passive" tense="pluperfect" mood="indicative" example="audītus {ego|imperfect}" />
+  </forms>
+</verbs>

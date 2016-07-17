@@ -1,0 +1,39 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 34
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+errō, errāre, errāvī, errātus : wander, go astray, err
+penetrō, penetrāre, penetrāvī, penetrātus : pierce, penetrate
+rutilō, rutilāre, rutilāvī, rutilātus : flow
+noceō, nocēre, nocuī, nocitus : hurt, do harm to
+placeō, placēre, placuī, placitus : please, be pleasing to
+placet : it is pleasing
+complaceō, complacēre, complacuī, (complacitus sum) : please, be acceptable to
+occidō, occidere, occidī, occāsus : go down, set (of the sun)
+occidēns, occidēntis : west
+prōcidō, prōcidere, prōcidī, - : fall forward
+ēnītor, ēnītī, -, ēnīsus (ēnīxus) sum : bring forth, give birth to
+parcō, parcere, pepercī (parsī), parsus : spare
+oboediō, oboedīre, oboedīvī (oboediī), oboedītus : obey, listen to
+serviō, servīre, servīvī (serviī), servītus : serve, comply with
+fiō, fierī, -, factus sum : be made, be done, become, happen, be
+concordia, concordiae, f. : union, peace
+oboedentia, oboedentiae, f. : obedience
+radius, radiī, m. : ray
+sōl, sōlis, m. : sun
+commūniō, commūniōnis, f. : communion
+genetrīx, genetrīcis, f. : mother
+humilitās, humilitātis, f. : lowliness, humility
+īnstitūtiō, īnstitūtiōnis, f. : instruction
+sāncitās, sāncitātis, f. : holiness
+lūmināre, lūmināris, lūminārium, n. : light, lamp, heavenly body
+pectus, pectoris, n. : breast
+occāsus, occāsūs, m. : setting (of the sun)
+ortus, ortūs, m. : rising (of the sun)
+lacrimōsus, -a, -um : tearful
+sincērus, -e, -um : sincere
+factum es : it happened (that), it came to pass (that)
+jūxtā : near, along, according to
+licet, licere, licuit, (licitum est) : it is permitted
+necesse est : it is needful, it is necessary
+oportet, oportēre, oportuit, - : it is proper, it is necessary
+#end

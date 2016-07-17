@@ -1,0 +1,159 @@
+body {
+    font-family: Segoe UI Light, Calibri, Arial, sans-serif;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 5px 0;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+br {
+    clear: both;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+    ul li {
+        font-size: 80%;
+    }
+
+        ul li a {
+            text-decoration: none;
+        }
+
+#menu > div > section-selector {
+}
+
+ul.category-selection {
+    display: table;
+    border-spacing: 5px;
+}
+
+    ul.category-selection li {
+        font-family: 'Open Sans', sans-serif;
+        display: table-cell;
+        list-style-type: none;
+        margin-right: 5px;
+        padding: 2px 5px;
+        border: 1px solid #ccc;
+        text-align: center;
+        cursor: pointer;
+        background-color: #eee;
+    }
+
+        ul.category-selection li:hover {
+            background-color: #ccc;
+        }
+
+ul.section-selector {
+}
+
+    ul.section-selector li {
+        float: left;
+        list-style-type: none;
+        min-width: 40px;
+        height: 40px;
+        padding: 0 4px;
+        line-height: 40px;
+        margin: 0 5px 5px 0;
+        text-align: center;
+        cursor: pointer;
+        border: 1px solid #ccc;
+        background-color: #eee;
+    }
+
+        ul.section-selector li.selected,
+        ul.section-selector li.selected:hover {
+            background-color: #cce;
+        }
+
+        ul.section-selector li:hover {
+            background-color: #ccc;
+        }
+
+.acontent {
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 0;
+}
+
+.abible {
+    position: fixed;
+    right: 0;
+}
+
+
+#body {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row;
+    flex-flow: row;
+        -webkit-flex-flow: column;
+        flex-flow: column;
+}
+
+#menu {
+    -webkit-flex: 1 6 20%;
+    flex: 1 6 20%;
+    -webkit-order: 1;
+    order: 1;
+    background-color: #fff;
+        -webkit-order: 0;
+        order: 0;
+} 
+
+#content {
+    -webkit-flex: 3 1 60%;
+    flex: 3 1 60%;
+    -webkit-order: 2;
+    order: 2;
+    margin-left: 300px;
+        -webkit-order: 0;
+        order: 0;
+        margin-left: 0;
+}
+
+#bible {
+    -webkit-flex: 1 6 20%;
+    flex: 1 6 20%;
+    -webkit-order: 3;
+    order: 3;
+        -webkit-order: 0;
+        order: 0;
+}
+
+/*@media all and (max-width: 800px) {
+    #body {
+        -webkit-flex-flow: column;
+        flex-flow: column;
+    }
+
+    #menu, #content, #bible {
+        -webkit-order: 0;
+        order: 0;
+    }
+
+    #content {
+        margin-left: 0;
+    }
+}*/

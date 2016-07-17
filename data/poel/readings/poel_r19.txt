@@ -1,0 +1,20 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 19
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+cardō, cardinis, n. : hinge, line, limit
+līmes, līmitis, n. : boundary, limit
+auctor, auctōris, m. : creator, author
+servīlis, servīle : of a slave or servant
+induō, induere, induī, indūtus : put on
+bājulō, bājulāre, -, - : bear, carry
+sēcrētum, sēcrētī, n. : secret, mystery
+pudīcus, -a, -um : modest, chaste
+repente : suddenly
+alvus, alvī, f. : belly, womb
+puerpera, puerperae, f. : woman in labor
+gestiō, gestīre, gestīvī, gestītus : exult, be joyful
+faenum, faenī, n. : hay
+lac, lactis, n. : milk
+modicus, -a, -um : a little
+āles, ālitis : winged; bird
+# end

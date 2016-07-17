@@ -1,0 +1,120 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 4
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+oliva, olivae, f. : olive (tree)
+scandalizō : make stumble
+percutiō, percutere, percussī, percussus : strike
+posteāquam : after
+bis : twice
+gallus, gallī, m. : cock
+ter : three times, thrice
+commorior : die with
+praedium, praediī, n. : piece of land, estate
+paveō, pavēre, pavī, - : tremble with fear
+taedeō, taedēre, taeduī, taesus : be distressed
+paululum : a little, a short distance
+dormiō : sleep
+prōmptus, -a, -um : willing, ready, eager
+sermō, sermōnis, m. : word, speech
+dēnuō : again
+ingravō : weigh down
+ignōrō : not to know
+requiēscō, requiēscere, requiēvī, requiētus : rest oneself
+prope : near
+summus, -a, -um : highest, chief
+scrība, scrībae, f. : scribe, one versed in Jewish law
+trāditor, trāditōris, m. : betrayer
+ōsculor : kill
+cautē : under close watch
+amputō : lop off
+auricula, auriculae, f. : ear
+tamquam : just as
+lātrō, lātrōnis, m. : brigand, bandit
+comprehendō, comprehendere, comprehendī, comprehēnsus : arrest
+adulēscēns, adulēscentis : young; young man, youth
+amiciō, amicīre, amicuī/amixī, amictus : clothe, cover
+sindōn, sindonis, f. : linen cloth
+nūdus, -a, -um : naked
+ā longē : from afar, at a distance
+intrō : within, inside
+ātrium, ātriī, n. : courtyard
+calefaciō : make warm, warm
+concilium, conciliī, n. : Sanhedrin
+aedificiō : build
+ne ... quidem : not even
+testor : bear witness, give evidence of
+rūrsum : again
+nūbēs, nūbis, nūbium, f. : cloud
+scindō, scindere, scidī, scissus : tear, rend
+vestīmentum, vestīmentī, n. : garment, (pl.) clothes
+condemnō : condemn, pass judgement
+reum mortis : deserving of death
+cōnspuō, cōnspuere, cōnspuī, cōnspūtus : spit on
+vēlō : cover
+colaphus, colaphī, m. : punch (sharp blow with the fist)
+caedō, caedere, cecīdī, caesus : cut, strike
+prophētizō : be a prophet, play the prophet
+alapa, alapae, f. : slap
+deorsum : down, below
+forās : outside
+rūrsus : again
+pusillum, pusillī, n. : a little (while)
+anathematizō : curse
+jūrō : swear
+recordor : remember
+māne : in the morning
+cōnsilium, cōnsiliī, n. : counsel, plans
+accūsō : accuse
+soleō, solēre, -, solitus sum : be accustomed
+sēditiōsus, -a, -um : seditious; rebel
+sēditiō, sēditiōnis, f. : revolt, uprising
+homicidium, homicidiī, n. : murder
+invidia, invidiae, f. : jealousy
+pontifex, pontificis, m. : chief priest
+concitō : incite, stir up
+iterum : back
+praetōrium, praetōriī, n. : praetorium (Roman headquarers)
+cohors, cohortis, f. : cohort (a body of 600 Roman soliders)
+induō, induere, induī, indūtus : put on, clothe
+purpura, purpurae, f. : purple, purple cloth
+plectō, plectere, plexī/plexuī, plexus : braid, weave
+spineus, -a, -um : of thorns
+arundō, arundinis, f. : reed, cane
+illūdō, illūdere, illūsī, illūssus : mock, make fun of
+exuō, exuere, exuī, exūtus : strip
+angariō : press into service
+quidpiam, quaepiam, quodpiam : some, a certain
+vīlla, vīllae, f. : farm
+interpretātus, -a, -um : translated
+calvāria, calvāriae, f. : skull
+myrrhātus, -a, -um : laced with myrrh
+titulus, titulī, n. : inscription, public notice
+causa : wrong, offense
+ā sinistrīs : on the left
+blasphēmō : blaspheme, revile, insult
+vah : ha!
+lūdō, lūdere, lūsī, lūsus : joke
+alterunter, alterutra, alterutrum : one another, each other
+convīcior : reproach, insult
+spongia, spongiae, f. : sponge
+acētum, acētī, n. : sour wine
+calamus, calamī, m. : reed
+sinite : wait!
+vēlum, vēlī, n. : curtain
+ā sūrsum ūsque deorsum : from top to bottom
+ex adversō : opposite
+ministrō : serve, take care of
+sērō : late
+Parascevē : (Day of) Preparation
+nōbilis, -e : noble, respected
+decuriō, decuriōnis, m. : member of the Sanhedrin
+audācter : boldly
+accersō/arcessō, arcessere, arcessīvī, acressītus : summon
+mercor : buy
+sindōn, sindonis, f. : muslin
+excīdō : hew out, cut out
+petra, petrae, f. : rock
+advolvō, advolvere, advolvī, advolūtus : roll to, roll across
+lapis, lapis, lapium, m. : stone
+ōstium, ōstiī, n. : entrance
+# end

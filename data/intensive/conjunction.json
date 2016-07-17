@@ -1,0 +1,265 @@
+[{
+    "word": "antequam",
+    "type": "Conjunction",
+    "gloss": "before",
+    "definition": "before",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "atque/ac",
+    "type": "Conjunction",
+    "gloss": "and, also",
+    "definition": "and (what's more), and in addition, and also",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "aut aut…aut",
+    "type": "Conjunction",
+    "gloss": "or, either...or",
+    "definition": "or, either…or",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "autem",
+    "type": "Conjunction",
+    "gloss": "however; moreover",
+    "definition": "however; moreover",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cum",
+    "type": "Conjunction",
+    "gloss": "when; since; although",
+    "definition": "when; since; although",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dōnec",
+    "type": "Conjunction",
+    "gloss": "until",
+    "definition": "while, as long as; until",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dum",
+    "type": "Conjunction",
+    "gloss": "while, until, provided that",
+    "definition": "while, as long as, until; provided that",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dummodo",
+    "type": "Conjunction",
+    "gloss": "provided that",
+    "definition": "so long as , if so be that , provided that , if only (often with subj.)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "enim",
+    "type": "Conjunction",
+    "gloss": "in fact, for",
+    "definition": "in fact, indeed; for",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "et",
+    "type": "Conjunction",
+    "gloss": "and",
+    "definition": "and",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "etsī",
+    "type": "Conjunction",
+    "gloss": "although",
+    "definition": "although",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "igitur",
+    "type": "Conjunction",
+    "gloss": "therefore",
+    "definition": "therefore",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nam",
+    "type": "Conjunction",
+    "gloss": "for",
+    "definition": "for",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nē",
+    "type": "Conjunction",
+    "gloss": "not; in order that…not; that…not; that",
+    "definition": "(introduces negative purpose clause) in order that…not; (introduces negative indirect command) that…not; (introduces positive fear clause) that",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nec",
+    "type": "Conjunction",
+    "gloss": "nor; and not",
+    "definition": "nor; and not, not, neither, not even",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "neque/nec",
+    "type": "Conjunction",
+    "gloss": "and not",
+    "definition": "and not",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nisī or ni",
+    "type": "Conjunction",
+    "gloss": "if...not; unless",
+    "definition": "if…not, unless",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "postquam",
+    "type": "Conjunction",
+    "gloss": "after",
+    "definition": "after",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "priusquam",
+    "type": "Conjunction",
+    "gloss": "before",
+    "definition": "before; until; sooner than",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quamquam",
+    "type": "Conjunction",
+    "gloss": "although",
+    "definition": "although",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "–que",
+    "type": "Conjunction",
+    "gloss": "and",
+    "definition": "and; both…and",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quia",
+    "type": "Conjunction",
+    "gloss": "because",
+    "definition": "because",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quod",
+    "type": "Conjunction",
+    "gloss": "the fact that",
+    "definition": "because, the fact that",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quodsī",
+    "type": "Conjunction",
+    "gloss": "but if",
+    "definition": "but if",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quōminus",
+    "type": "Conjunction",
+    "gloss": "by which the less",
+    "definition": "(introduces Prevention clause) by which the less, from",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quoniam",
+    "type": "Conjunction",
+    "gloss": "since",
+    "definition": "since, because",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "sed",
+    "type": "Conjunction",
+    "gloss": "but",
+    "definition": "but",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "sī",
+    "type": "Conjunction",
+    "gloss": "if",
+    "definition": "if, freq.; causal, if, indeed, since; equivalent to cum; whether",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "simulac",
+    "type": "Conjunction",
+    "gloss": "as soon as",
+    "definition": "as soon as, the moment that",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "simulatque",
+    "type": "Conjunction",
+    "gloss": "as soon as",
+    "definition": "as soon as, the moment that",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tam...quam",
+    "type": "Conjunction",
+    "gloss": "so much...as",
+    "definition": "so much...as",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vel",
+    "type": "Conjunction",
+    "gloss": "or",
+    "definition": "or; either…or; even; (conj.), or implying indifference as to the alternative or choice, or, freq.; even, or whether, and; vel — vel, either — or",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ut",
+    "type": "Conjunction",
+    "gloss": "as, when; that; how? In what manner?",
+    "definition": "as; when; (introduces Purpose clause, in order that; introduces Indirect Command) that; (introduces negative Fear clause) that…not",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}]

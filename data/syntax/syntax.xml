@@ -1,0 +1,4 @@
+<syntax>
+  <item name="Ablative of Agent" category="ablative" appliesTo="people" example="puella {{ā Marcō | green}} amatur" />
+  <item name="Ablative of Means" category="ablative" appliesTo="objects" example="{{scūtīs|green}} defendimur" />
+</syntax>

@@ -1,0 +1,12 @@
+<div class="viewer">
+    <div class="container">
+        <div class="word-group">
+            <span>&nbsp;</span>
+            <span ng-repeat="item in forms[0]">{{item.label}}</span>
+        </div>
+        <div class="word-group" ng-repeat="word in forms">
+            <span>{{item.data.name}}</span>
+            <span ng-repeat="item in word">{{item.data.form}}</span>
+        </div>
+    </div>
+</div>

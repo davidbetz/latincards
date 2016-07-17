@@ -1,0 +1,19 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 17
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+linquō, linquere, liquī, - : leave
+vespera, versperae, f. : evening
+aemulus, aemulī, m. : rival
+prius : before that, first (of two actions)
+ferculum, ferculī, n. : dish (of food)
+bīnī, -ae, -a : two apiece, two
+duplex, duplicis : double
+cibō : feed
+convescor, convescī, -, - : eat (with others)
+edulium, eduliī, n. : food
+pandō, pandere, pandī, pānsus (passus) : throw open
+ōstium, ōstiī, n. : door
+hostīlis, hostīle : hostile, caused by the enemy
+rōbur, rōboris, n. : strength
+auxilium, auxiliī, n. : help
+# end

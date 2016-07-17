@@ -1,0 +1,44 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 31
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+approponquō, appropinquāre, appropinquāvī, approprinquātus : draw near, approach
+nārrō, nārrāre, nārrāvī, nārrātus : tell, narrate
+plōrō, plōrāre, plōrāvī, plōrātus : bewail, lament, weep
+maneō, manēre, mānsī, mānsus : remain, wait, stay
+permaneō, permanēre, permānsī, permānsus : remain, continue
+remaneō, remanēre, remānsī, remānsus : be left, remain
+paeniteor, paenitērī, -, - : repent
+taceō, tacēre, tacuī, tacitus : be silent
+intelligō, intellegere, intellēxī, intellēctus : perceive, understand, pay heed to
+quaerō, quaerere, quaesīvī, quaesītus : seek , ask for
+quaesō : I beg
+quaesumus : we beg
+requīrō, requīrere, requīsīvī, requīsītus : seek, require
+vertō, vertere vertī, versus : turn
+āvertō, āvertere āvertī, āversus : turn away, remove
+convertō, convertere convertī, conversus : change, convert, turn around
+convertor, convertī, -, conversus sum : change, convert, turn around
+revertor, revertī, -, reversus sum : return
+sentiō, sentīre, sēnsī, sēnsus : feel, perceive
+magus, magī, m. : wise man, magician, astrologer
+daemonium, daemoniī, n. : evil spirit, demon
+sepulcrum, sepulcrī, n. : sepulcher
+sermō, sermōnis, m. : talk, speech
+victor, vertōris, m. : conquerer, victor
+praeses, praesidis, m/f., : president, governor, procurator
+majestās, majestātis, f. : majesty
+redēmptiō, redēmptiōnis, f. : deliverance, redemption
+urbs, urbis, urbium, f. : city
+vestis, vestis, vestium, f. : garment, clothing
+īnfernus, -a, -um : of hell, infernal
+īnferus, -a, -um : of hell, below
+octāvus, -a, -um : eighth
+pūrus, -a, -um : clean, pure
+pār, paris : equal, like
+pariter : equally, together
+compār, comparis : equal, like
+dispār, disparis : unlike, different
+at : but, furthermore
+īdem, eadem, idem : the same
+itaque : therefore, and so
+#end

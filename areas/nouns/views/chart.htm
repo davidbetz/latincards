@@ -1,0 +1,4 @@
+<div class="container" ng-repeat="item in data">
+    <h2>{{item.label}}</h2>
+    <nouns.forms data="item.declined" first="$index==0" />
+</div>

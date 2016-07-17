@@ -1,0 +1,25 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 5
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+gemō, gemere, gemuī, gemitus : sigh, groan, lament
+contrīstō : make sad, afflict
+afflictus, -a, -um : miserable, downcast
+maereō, maerēre, -, - : be sad, grieve, mourn
+inclitus, -a, -um : famous, glorious
+supplicium, suppliciī, n. : torture, pain
+contemplor : look at, consider carefully
+tormentum, tormentiī, n. : torture, torment
+subdītus, -a, -um : subject, submissive
+dēsōlātus, -a, -um : forsaken
+amor, amōris, m. : love
+vīs, -, (pl) vīrēs, vīrium, f. : force, power, (pl) strength
+lūgeō, lūgēre, lūxī, lūctus : mourn, cry out in grief
+plāga, plāgae, f. : blow, strike
+praeclārus, -a, -um : very beautiful, splendid, illustrious
+amārus, -a, -um : bitter
+recolō, recolere, recoluī, recultus : call to mind, contemplate
+inēbriō : saturate, seep
+īnflammō : kindle, set afire
+praemūniō, praemūnīre, praemūnīvī, praemūnītus : fortify, make safe
+cōnfoveō, cōnfovēre, -, -  : cherish assiduously
+# end

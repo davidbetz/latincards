@@ -1,0 +1,50 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 15
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+dux, ducis, m. : leader
+thema, thematis, n. : subject, theme
+speciālis, speciāle : special
+vitālis, vitāle : life-giving
+duodēnus, -a, -um : twelve each
+ambigō, ambigere, -, - : doubt
+sonōrus, -a, -um : loud, resounding
+dēcōrus, -a, -um : fitting, proper
+jūbilātiō, jūbilātiōnis, f. : shout of joy
+recolō, recolere, recoluī, recultus : recall
+Phase : Passover
+vestustās, vestustātis, f. : old age, antiquity
+novitās, novitātis, f. : newness
+ēliminō : banish
+doctus, -a, -um : taught
+īnstitūtum, īnstitūtī, n. : regulation, instruction
+animōsus, -a, -um : living, lively
+dīversus, -a, -um : different
+lateō, latēre, latuī, - : be hidden
+eximius, -a, -um : extraordinary
+uterque, utraque, utrumque : each (of two), both
+concīdō, concīdere, concīdī, concīsus : cut to pieces, destroy
+cōnsūmō : consume, use up
+sors, sortis, f. : lot
+inaequālis, inaequāle : unequal, different
+interitus, interitūs, m. : ruin, destruction
+sūmptiō, sūmptiōnis, f. : taking
+exitus, exitūs, m. : outcome, result
+dēmum : finally, only
+vacillō : waver, doubt
+mementō : remember!
+frāgmentum, frāgmentī, n. : fragment, piece, part
+tegō, tegere, tēxī, tēctus : cover
+scissūra, scissūrae, f. : tearing, rending
+frāctūra, frāctūrae, f. : fracture, breaking
+status, statūs, m. : state, condition
+statūra, statūrae, f. : stature
+sīgnō : signify
+minuō, minuere, minuī, minūtus : diminish
+viātor, viātōris, m. : traveler
+canis, canis, m/f. : dog
+praesīgnō : foreshadow, prefigure
+manna, mannae, f. : the manna of the Hebrews
+commēnsālis, commēnsālis, m. : table companion
+cohērēs, cohērēdis, m. : coheir
+cīvis, cīvis, cīvium, m/f. : citizen
+# end

@@ -1,0 +1,29 @@
+[    {
+        "base": "ūllus",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "ūllus", "ūlla", "ūllum" ],
+                    "g": [ "ūllīus", "ūllīus", "ūllīus" ],
+                    "d": [ "ūllī", "ūllī", "ūllī" ],
+                    "c": [ "ūllum", "ūllam", "ūllum" ],
+                    "a": [ "ūllō", "ūllā", "ūllō" ],
+                    "v": [ "ūlle", "ūlla", "ūllum" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "ūllī", "ūllae", "ūlla" ],
+                    "g": [ "ūllōrum", "ūllārum", "ūllōrum" ],
+                    "d": [ "ūllīs", "ūllīs", "ūllīs" ],
+                    "c": [ "eos", "eas", "ea" ],
+                    "a": [ "ūllīs", "ūllīs", "ūllīs" ],
+                    "v": [ "ūllī", "ūllae", "ūlla" ]
+                }
+            }
+        ]
+    }
+
+]

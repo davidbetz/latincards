@@ -1,0 +1,45 @@
+<verbs>
+  <words>
+    <word fspai="amō" infinitive="amāre" perfect="amāvī" participle="amātus" />
+    <word fspai="trahō" infinitive="trahere" perfect="trāxī" participle="tractus" />
+    <word fspai="audiō" infinitive="audīre" perfect="audīvī" participle="audītus" />
+    <word fspai="doceō" infinitive="docēre" perfect="docuī" participle="doctus" />
+  </words>
+  <forms>
+    <form tense="present" voice="active" gender="masculine" case="n" number="singular" example="docens" ending="-" />
+    <form tense="present" voice="active" gender="masculine" case="g" number="singular" example="docentis" ending="us" />
+    <form tense="present" voice="active" gender="masculine" case="d" number="singular" example="docentī" ending="ī" />
+    <form tense="present" voice="active" gender="masculine" case="c" number="singular" example="docentem" ending="em" />
+    <form tense="present" voice="active" gender="masculine" case="a" number="singular" example="docente" ending="e" />
+
+    <form tense="present" voice="active" gender="feminine" case="n" number="singular" example="docens" ending="-" />
+    <form tense="present" voice="active" gender="feminine" case="g" number="singular" example="docentis" ending="us" />
+    <form tense="present" voice="active" gender="feminine" case="d" number="singular" example="docentī" ending="ī" />
+    <form tense="present" voice="active" gender="feminine" case="c" number="singular" example="docentem" ending="em" />
+    <form tense="present" voice="active" gender="feminine" case="a" number="singular" example="docente" ending="e" />
+
+    <form tense="present" voice="active" gender="neuter" case="n" number="singular" example="docens" ending="-" />
+    <form tense="present" voice="active" gender="neuter" case="g" number="singular" example="docentis" ending="us" />
+    <form tense="present" voice="active" gender="neuter" case="d" number="singular" example="docentī" ending="ī" />
+    <form tense="present" voice="active" gender="neuter" case="c" number="singular" example="docentem" ending="em" />
+    <form tense="present" voice="active" gender="neuter" case="a" number="singular" example="docente" ending="e" />
+
+    <form tense="present" voice="active" gender="masculine" case="n" number="plural" example="docentēs" ending="ēs" />
+    <form tense="present" voice="active" gender="masculine" case="g" number="plural" example="docentium" ending="ium" />
+    <form tense="present" voice="active" gender="masculine" case="d" number="plural" example="docentibus" ending="ibus" />
+    <form tense="present" voice="active" gender="masculine" case="c" number="plural" example="docentēs" ending="ēs" />
+    <form tense="present" voice="active" gender="masculine" case="a" number="plural" example="docentibus" ending="ibus" />
+
+    <form tense="present" voice="active" gender="feminine" case="n" number="plural" example="docentēs" ending="ēs" />
+    <form tense="present" voice="active" gender="feminine" case="g" number="plural" example="docentium" ending="ium" />
+    <form tense="present" voice="active" gender="feminine" case="d" number="plural" example="docentibus" ending="ibus" />
+    <form tense="present" voice="active" gender="feminine" case="c" number="plural" example="docentēs" ending="ēs" />
+    <form tense="present" voice="active" gender="feminine" case="a" number="plural" example="docentibus" ending="ibus" />
+
+    <form tense="present" voice="active" gender="neuter" case="n" number="plural" example="docentia" ending="ēs" />
+    <form tense="present" voice="active" gender="neuter" case="g" number="plural" example="docentium" ending="ium" />
+    <form tense="present" voice="active" gender="neuter" case="d" number="plural" example="docentibus" ending="ibus" />
+    <form tense="present" voice="active" gender="neuter" case="c" number="plural" example="docentia" ending="ēs" />
+    <form tense="present" voice="active" gender="neuter" case="a" number="plural" example="docentibus" ending="ibus" />
+  </forms>
+</verbs>

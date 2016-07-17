@@ -1,0 +1,336 @@
+[
+    {
+        "word": "sum",
+        "mood": "Indicative",
+        "tense": "Present",
+        "notes": [ "Latin infinitive ends in 'se', but becomes 're' when 's' is surrounded by vowels.", "Latin was spoken before written. Therefore, changes come from ease of vocalization" ],
+        "s1": {
+            "form": "sum",
+            "morph": [ "esm", "esum" ]
+        },
+        "s2": {
+            "form": "es",
+            "morph": [ "ess" ]
+        },
+        "s3": {
+            "form": "est"
+        },
+        "p1": {
+            "form": "sumus",
+            "morph": [ "esmus", "esumus" ]
+        },
+        "p2": {
+            "form": "estis"
+        },
+        "p3": {
+            "form": "sunt",
+            "morph": [ "esnt", "esunt" ]
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Indicative",
+        "tense": "Imperfect",
+        "s1": {
+            "form": "eram"
+        },
+        "s2": {
+            "form": "erās"
+        },
+        "s3": {
+            "form": "erat"
+        },
+        "p1": {
+            "form": "erāmus"
+        },
+        "p2": {
+            "form": "erātis"
+        },
+        "p3": {
+            "form": "erant"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Indicative",
+        "tense": "Future",
+        "notes": [ "The 's' becomes an 'r' between the two vowels.", "Future forms follow the standars u, o, i, i, i, u pattern." ],
+        "s1": {
+            "form": "erō"
+        },
+        "s2": {
+            "form": "eris"
+        },
+        "s3": {
+            "form": "erit"
+        },
+        "p1": {
+            "form": "erimus"
+        },
+        "p2": {
+            "form": "eritis"
+        },
+        "p3": {
+            "form": "erunt"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Indicative",
+        "tense": "Perfect",
+        "notes": [ ],
+        "s1": {
+            "form": "fuī"
+        },
+        "s2": {
+            "form": "fuistī"
+        },
+        "s3": {
+            "form": "fuit"
+        },
+        "p1": {
+            "form": "fuimus"
+        },
+        "p2": {
+            "form": "fuistis"
+        },
+        "p3": {
+            "form": "fuērunt, fuēre"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Indicative",
+        "tense": "Pluperfect",
+        "notes": [ "'fu' + imperfect" ],
+        "s1": {
+            "form": "fueram"
+        },
+        "s2": {
+            "form": "fuerās"
+        },
+        "s3": {
+            "form": "fuerat"
+        },
+        "p1": {
+            "form": "fuerāmus"
+        },
+        "p2": {
+            "form": "fuerātis"
+        },
+        "p3": {
+            "form": "fuerant"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Indicative",
+        "tense": "Future Perfect",
+        "notes": [ "'fu' + future (though, 3p is an 'i')" ],
+        "s1": {
+            "form": "fuerō"
+        },
+        "s2": {
+            "form": "fueris"
+        },
+        "s3": {
+            "form": "fuerit"
+        },
+        "p1": {
+            "form": "fuerimus"
+        },
+        "p2": {
+            "form": "fueritis"
+        },
+        "p3": {
+            "form": "fuerint"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Subjunctive",
+        "tense": "Present",
+        "s1": {
+            "form": "eam"
+        },
+        "s2": {
+            "form": "eās"
+        },
+        "s3": {
+            "form": "eat"
+        },
+        "p1": {
+            "form": "eāmus"
+        },
+        "p2": {
+            "form": "eātis"
+        },
+        "p3": {
+            "form": "eant"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Subjunctive",
+        "tense": "Imperfect",
+        "s1": {
+            "form": "essem"
+        },
+        "s2": {
+            "form": "essēs, forēs"
+        },
+        "s3": {
+            "form": "esset, foret"
+        },
+        "p1": {
+            "form": "essēmus, forēmus"
+        },
+        "p2": {
+            "form": "essētis, forētis"
+        },
+        "p3": {
+            "form": "essent, forent"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Subjunctive",
+        "tense": "Perfect",
+        "s1": {
+            "form": "fuerim"
+        },
+        "s2": {
+            "form": "fuerīs"
+        },
+        "s3": {
+            "form": "fuerit"
+        },
+        "p1": {
+            "form": "fuerīmus"
+        },
+        "p2": {
+            "form": "fuerītis"
+        },
+        "p3": {
+            "form": "fuerint"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Subjunctive",
+        "tense": "Pluperfect",
+        "s1": {
+            "form": "fuissem"
+        },
+        "s2": {
+            "form": "fuissēs"
+        },
+        "s3": {
+            "form": "fuisset"
+        },
+        "p1": {
+            "form": "fuissēmus"
+        },
+        "p2": {
+            "form": "fuissētis"
+        },
+        "p3": {
+            "form": "fuissent"
+        }
+    },
+
+    {
+        "word": "sum",
+        "mood": "Imperative",
+        "tense": "Present",
+        "s1": {
+            "form": "-"
+        },
+        "s2": {
+            "form": "es"
+        },
+        "s3": {
+            "form": "-"
+        },
+        "p1": {
+            "form": "-"
+        },
+        "p2": {
+            "form": "este"
+        },
+        "p3": {
+            "form": "-"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Imperative",
+        "tense": "Future",
+        "s1": {
+            "form": "-"
+        },
+        "s2": {
+            "form": "estō"
+        },
+        "s3": {
+            "form": "estō"
+        },
+        "p1": {
+            "form": "-"
+        },
+        "p2": {
+            "form": "estōte"
+        },
+        "p3": {
+            "form": "suntō"
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Infinitive",
+        "forms": {
+            "pa": {
+                "form": "esse"
+            },
+            "ka": {
+                "form": "fuisse"
+            },
+            "fa": {
+                "form": "futūrus esse"
+            },
+            "pp": {
+                "form": "-"
+            },
+            "kp": {
+                "form": "-"
+            },
+            "fp": {
+                "form": "-"
+            }
+        }
+    },
+    {
+        "word": "sum",
+        "mood": "Participle",
+        "forms": {
+            "pa": {
+                "form": "-"
+            },
+            "ka": {
+                "form": "-"
+            },
+            "fa": {
+                "form": "futūrus"
+            },
+            "pp": {
+                "form": "-"
+            },
+            "kp": {
+                "form": "-"
+            },
+            "fp": {
+                "form": "-"
+            }
+        }
+    }
+]

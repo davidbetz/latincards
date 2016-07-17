@@ -1,0 +1,19 @@
+(function() {
+    "use strict";
+
+    var directive = function($location) {
+        return {
+            templateUrl: 'areas/nouns/views/viewer.htm',
+            replace: true,
+            restrict: 'E',
+            scope: { data: '=' },
+            link: function(scope, element, attrs) {
+                scope.$on('noun.changed', function (event, form) {
+                    scope.data = form;
+                });
+            }
+        };
+    };
+
+    nouns.directive('nouns.viewer', directive);
+})();

@@ -1,0 +1,7 @@
+<div class="viewer">
+    <h2 ng-if="number">{{type}}</h2>
+    <div class="word-list" ng-click="load(number)" ng-repeat="word in words">
+        <span>{{word.word}}</span>
+        <span>{{word.gloss}}</span>
+    </div>
+</div>

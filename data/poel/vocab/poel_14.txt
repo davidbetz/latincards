@@ -1,0 +1,37 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 14
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+dētergeō, dētergēre, dētersī, dētersus : to wipe away, cancel
+inhaereō, inhaerēre, inhaesī, inhaesus : to cling to, adhere to (+ dat.)
+legō, legere, lēgī, lēctus : to choose, select; to read
+colligō, colligere, collēgī, collēctus : to gather up, take in, collect
+dīligō, dīligere, dīlēxī, dīlēctus : to love
+ēligō, ēligere, ēlēgī, ēlēctus : to choose, elect
+scrībō, scrībere, scrīpsī, scrīptus : to write
+dēscrībō, dēscrībere, dēscrīpsī, dēscriptus : to describe; enroll
+suscipiō, suscipere, suscēpī, susceptus : to take up, pick up; to accept
+homō, hominis, m. : human being, person
+Jōannēs, Jōannis, m. : John
+pater, patris, m. : father
+prīnceps, prīncipis, m. : chief, prince
+redēmptor, redēmptōris, m. : one who buys back, redeemer
+rēx, rēgis, m. : king
+sacerdōs, sacerdōtis, m. : priest
+dēprecātiō, dēprecātiōnis, f. : earnest prayer, supplication
+māter, mātris, f. : mother
+ōrātiō, ōrātiōnis, f. : prayer; speech
+pāx, pācis, f. : harmoney, peace
+virgō, virginis, f. : virgin
+voluntās, voluntātis, f. : will
+baptisma, baptismatis, n. : baptism
+corpus, corporis, n. : body, corpse
+genus, generis, n. : kind, race; nation
+lūmen, lūminis, n. : light; (pl.) eyes
+mūnus, mūneris, n. : gift, offering; task, duty; (pl.) bribes
+nōmen, nōminis, n. : name
+siccus, -a, -um : dry
+ruber, rubra, rubrum : red
+ergō : (coord. conj.) therefore
+ideō : (adv.) therefore, on that account
+quamquam : (subord. conj.) although
+#end

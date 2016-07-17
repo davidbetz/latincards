@@ -1,0 +1,31 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 01
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+aqua, aquae, f. : water
+cēna, cēnae, f. : supper, dinner
+culpa, culpae, f. : blame, fault
+doctrīna, doctrīnae, f. : teaching, doctrine
+ecclēsia, ecclēsiae, f. : church, assembly
+famīlia, famīliae, f. : household, family
+glōria, glōriae, f. : glory
+grātia, grātiae, f. : grace, favor, credit; pl. thanks 
+hōra, hōrae, f. : hour 
+missa, missae, f. : Mass 
+nātūra, nātūrae, f. : nature 
+pāpa, pāpae, m. : Pope 
+terra, terrae, f. : earth, land, ground 
+vīta, vītae, f. : life 
+ā (ab, abs) : (prep. + abl.) from, away from 
+ad : (prep. + acc.) to, toward; for (the purpose for); at 
+cōram : (prep. + abl.) in the presence of 
+cum : (prep. + abl.) with 
+dē : (prep. + abl.) from, down from; about, concerning 
+ē (ex) : (prep. + abl.) from, out of 
+et : (1. coord. conj.; 2. intensifying adv.) 1. and, 2. even, too 
+et ... et : both ... and 
+in : (prep. + acc.; 2. + abl.) 1. into, onto, against; for (the purpose of), 2. in, on, among; by means of, with
+prō : (prep. + abl.) in front of; on behalf of, for; instead of, on behalf of
+-que : (enclitic coord. conj.) and 
+sine : (prep. + abl.) without 
+super : (prep. : 1. + acc.; 2. + abl.) 1. above, upon; over, 2. about, concerning 
+#end

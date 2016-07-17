@@ -1,0 +1,47 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 13
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+cēnō, cēnāre, cēnāvī, cēnātus : to dine, eat supper
+creō, creāre, creāvī, creātus : to create
+addō, addere, addidī, additus : to give to, add
+perdō, perdere, perdidī, perditus : to lose; to destroy
+incarnō, incarnāre, incarnāvī, incarnātus : to make into flesh, make incarnate
+mūtō, mūtāre, mūtāvī, mūtātus : to change, exchange
+immūtō, immūtare, immūtāvī, immūtātus : to transform
+stō, stāre, stetī, status : to stand (still)
+astō, astāre, astitī, - : to stand by, stand near
+circumstō, circumstāre, circumstetī, - : to stand around, encircle
+īnstō, īnstāre, īnstitī, - : to urge, threaten (+dat.)
+praestō, praestāre, praestitī/praestāvī, praestātus/praestitus : to bestow; to accomplish
+restō, restāre, restitī, - : to remain (behind)
+-dō, -dere, -didī, ditus : to put
+condō, condere, condidī, conditus : to hide
+subdō, subdere, subdidī, subditus : to put under, put after, subject
+pariō, parere, peperī, patus : to beget, produce, bear
+speciō, specere, spexī, spectus : to look (at)
+aspiciō, aspicere, aspexī, aspectus : to look (at)
+circumspiciō, circumspicere, circumspexī, circumspectus : to look around
+dēspiciō, dēspicere, dēspexī, dēspectus : to look down on, despise
+respiciō, respicere, respexī, respectus : to look at, regard, watch
+baptista, baptistae, m. : baptizer, baptist
+dextera, dexterae, f. : right hand
+tuba, tubae, f. : trumpet
+digitus, digitī, m. : finger, toe
+oculus, oculī, m. : eye
+brāchium, brāchiī, n. : arm
+dēsertus, -a, um : foresaken, deserted
+dēsertum, dēsertī, n. : desert
+Galilaeus, -a, -um : Galilaean
+Jūdaeus, -a, -um : Jewish
+Rōmānus, -a, -um : Roman
+cum : (subord. conj.) when, after
+dōnec : (subord. conj.) while, as long as; till
+dum : (subord. conj.) while, as long as; till
+estī : (subord. conj.) although, even if
+nisi : (subord. conj.) unless, if ... not; except, but
+prīmum : (adv.) (at) first
+sī : (subord. conj.) if; whether
+ubi : (subord. conj.) when, as soon as; (relative adv.) where, in which place
+ubīque : (adv.) everywhere, anywhere
+ut : (subord. conj.) when, as
+#end

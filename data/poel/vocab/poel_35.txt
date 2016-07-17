@@ -1,0 +1,37 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 35
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+accomodō, accomodāre, accomodāvī, accomodātus : apply, fit, grant
+cōnfortō, cōnfortāre, -, - : strengthen, grow strong
+exspoliō, exspoliāre, exspoliāvī, exspoliātus : despoil, rob
+irradiō, irradiāre, irradiāvī, irradiātus : shine, illuminate
+ōrnō, ōrnāre, ōrnāvī, ōrnātus : adorn, garnish, trim
+adōrnō, adōrnāre, adōrnāvī, adōrnātus : adorn
+pācificō, pācificāre, pācificāvī, pācificātus : make peace, grant peace
+revēlō, revēlāre, revēlāvī, revēlātus : show, reveal
+jaceō, jacēre, jacuī, - : lie, be situated, sleep
+cernō, cernere, crēvī, crētus : see, discern
+discō, discere, didicī, - : learn
+tremō, tremere, tremuī, - : tremble (at), quake (at)
+jaciō, jacere, jēcī, jactus : throw
+ējiciō, ējicere, ējēcī, ējectus : throw out
+prōjiciō, prōjicere, prōjēcī, prōjectus : cast forth, throw down
+ēsuriō, ēsurīre, ēsurīvī (ēsuriī), ēsurītus : desire food, be hungry
+-, -, coepī, coeptus : began, started
+-, -, ōdī, - : hate
+paenitentia, paenitentiae, f. : repentance
+ruīna, ruīnae, f. : fall, destruction
+baptismus, baptismī, m. : baptism
+splendor, splendōris, m. : brilliance, splendor
+dīgnātiō, dīgnātiōnis, f. : condescension, graciousness
+hērēditās, hērēditātis, f. : generation, inheritance
+immolātiō, immolātiōnis, f. : offering
+multitūdō, multitūdinis, f. : great number, multitude
+ops, opis, f. : help
+mātūtīnus, -a, -um : (of) morning, early
+propitius, -a, -um : kind, favorable, propitious
+mīrābilis, mīrābile : wonderful
+domus, domūs, f. : house, home
+necnōn : and also, and indeed
+#end
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)

@@ -1,0 +1,38 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 29
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+corōnō, corōnāre, corōnāvī, corōnātus : crown
+mōnstrō, mōnstrāre, mōnstrāvī, mōnstrātus : show, command
+dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātus : show, reveal
+supplicō, supplicāre, supplicāvī, supplicātus : (humbly) beseech
+suscitō, suscitāre, suscitāvī, suscitātus : awaken, rise up
+resuscitō, resuscitāre, resuscitāvī, resuscitātus : reawaken, rise up again
+crēscō, crēscere, crēvī, crētus : grow, increase
+gerō, gerere, gessī, gestus : bear, manage, conduct
+struō, struere, strūxī, strūctus : build
+dēstruō, dēstruere, dēstrūxī, dēstrūctus : destroy
+īnstruō, īnstruere, īnstrūxī, īnstrūctus : instruct
+sūmō, sūmere, sūmpsī, sūmptus : take, obtain
+assūmō, assūmere, assūmpsī, assūmptus : take up
+cūria, cūriae, f. : court, curia
+figūra, figūrae, f. : fashion, figure
+Magdalēna, Magdalēnae, f. : Magdalen
+psalmista, psalmistae, m. : psalmist
+jūdicium, jūdiciī, n. : judgement
+timor, timōris, m. : fear
+timōrātus, -a, -um : God-fearing, devout, reverent
+hospes, hospitis, mf. : guest
+cautiō, cautiōnis, f. : bill, bail
+conclūsiō, conclūsiōnis, f. : conclusion
+lampas, lampadis, f. : lamp, torch, flame
+omissiō, omissiōnis, f. : omission
+sānctificātiō, sānctificātiōnis, f. : holiness, holy mistery
+pretiōsus, -a, -um : precious
+vespertīnus, -a, -um : (of) evening
+humilis, humile : lowly, humble
+aliquī, aliqua, aliquod : some, any
+aliquis, aliquid : someone, something, anyone, anything
+licet : although
+priusquam : before
+utīque : certainly, by all means, at any rate
+#end

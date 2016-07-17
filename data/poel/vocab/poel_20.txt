@@ -1,0 +1,37 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 20
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+mīror, mīrārī, -, mīrātus sum : wonder (at), be amazed (at)
+admīror, admīrārī, -, admīrātus sum : wonder at, be amazed at
+peccō, peccāre, peccāvī, peccātus : sin
+precor, precārī, -, precātus sum : ask, pray
+dēprecor, dēprecārī, -, dēprecātus sum : beseech
+audeō, audēre, -, ausus sum : dare, have the courage
+gaudeō, gaudēre, -, gāvīsus sum : rejoice, be glad
+misereor, miserērī, -, misertus sum : have pity (on)
+cōnfīdō, cōnfīdere, -, cōnfus sum : trust (in), confide (in), hope (in)
+nāscor, nāscī, -, nātus sum : be bron
+morior, morī, -, mortuus sum : die
+partior, patī, -, passus sum : suffer, allow
+orior, orīrī, -, ortus sum : spring up, arise, appear
+lacrima, lacrimae, f. : tear
+memoria, memoriae, f. : remembrance, memory
+ignis, ignis, ignium, m. : fire
+peccātor, peccātōris, m. : sinner
+arbor, arboris, f. : tree
+benedictiō, benedictiōnis, f. : blessing, benediction
+nox, noctis, noctium, f. : night
+potesās, potestātis, f. : power, authority
+opus, operis, n. : work, deed
+opus est : it is necessary, there is a need
+scelus, sceleris, n. : crime, sin
+miser, misera, miserum : wretched, pitiable
+paternus, -a, -um : of a father, paternal
+innocēns, innocentis : clean, pure, innocent
+potēns, potentis : powerful (in), having power (over)
+cōnsubstantiālis, cōnsubstantiāle : of the same nature (as), consubstantial (with)
+nihil : nothing, not at all
+nīl : nothing, not at all
+valdē : greatly, very (much)
+vērō : indeed, but indeed
+#end

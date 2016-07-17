@@ -1,0 +1,283 @@
+﻿[
+    {
+        "base": "ego",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "ego" ],
+                    "g": [ "meī" ],
+                    "d": [ "mihi" ],
+                    "c": [ "mē" ],
+                    "a": [ "mē" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "nōs" ],
+                    "g": [ "nostrī, nostrum" ],
+                    "d": [ "nōbīs" ],
+                    "c": [ "nōs" ],
+                    "a": [ "nōbīs" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "tu",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "tū" ],
+                    "g": [ "tuī" ],
+                    "d": [ "tibi" ],
+                    "c": [ "tē" ],
+                    "a": [ "tē" ],
+                    "v": [ "tu" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "vōs" ],
+                    "g": [ "vestrī, vestrum" ],
+                    "d": [ "vōbīs" ],
+                    "c": [ "vōs" ],
+                    "a": [ "vōbīs" ],
+                    "v": [ "vōs" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "sui",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "" ],
+                    "g": [ "suī" ],
+                    "d": [ "sibi" ],
+                    "c": [ "sē, sēsē" ],
+                    "a": [ "sē, sēsē" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "" ],
+                    "g": [ "suī" ],
+                    "d": [ "sibi" ],
+                    "c": [ "sē, sēsē" ],
+                    "a": [ "sē, sēsē" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "is",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "is", "ea", "id" ],
+                    "g": [ "eius", "eius", "eius" ],
+                    "d": [ "eī", "eī", "eī" ],
+                    "c": [ "eum", "eam", "id" ],
+                    "a": [ "eō", "eā", "eō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "eī, iī", "eae", "ea" ],
+                    "g": [ "eōrum", "eārum", "eōrum" ],
+                    "d": [ "eīs, iīs", "eīs, iīs", "eīs, iīs" ],
+                    "c": [ "eōs", "eās", "ea" ],
+                    "a": [ "eīs, iīs", "eīs, iīs", "eīs, iīs" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "ille",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "ille", "illa", "illud" ],
+                    "g": [ "illīus", "illīus", "illīus" ],
+                    "d": [ "illī", "illī", "illī" ],
+                    "c": [ "illum", "illam", "illud" ],
+                    "a": [ "illō", "illā", "illō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "illi", "illae", "illa" ],
+                    "g": [ "illōrum", "illārum", "illōrum" ],
+                    "d": [ "illīs", "illīs", "illīs" ],
+                    "c": [ "illōs", "illās", "illa" ],
+                    "a": [ "illīs", "illīs", "illīs" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "hic",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "hic", "haec", "hoc" ],
+                    "g": [ "huius", "huius", "huius" ],
+                    "d": [ "huic", "huic", "huic" ],
+                    "c": [ "hunc", "hanc", "hoc" ],
+                    "a": [ "hōc", "hāc", "hōc" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "hī", "hae", "haec" ],
+                    "g": [ "hōrum", "hārum", "hōrum" ],
+                    "d": [ "hīs", "hīs", "hīs" ],
+                    "c": [ "hōs", "hās", "haec" ],
+                    "a": [ "hīs", "hīs", "hīs" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "qui",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "quī", "quae", "quod" ],
+                    "g": [ "cuius", "cuius", "cuius" ],
+                    "d": [ "cui", "cui", "cui" ],
+                    "c": [ "quem", "quam", "quod" ],
+                    "a": [ "quō", "quā", "quō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "quī", "quae", "quae" ],
+                    "g": [ "quōrum", "quārum", "quōrum" ],
+                    "d": [ "quibus", "quibus", "quibus" ],
+                    "c": [ "quōs", "quās", "quae" ],
+                    "a": [ "quibus", "quibus", "quibus" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "ipse",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "ipse", "ipsa", "ipsum" ],
+                    "g": [ "ipsīus", "ipsīus", "ipsīus" ],
+                    "d": [ "ipsī", "ipsī", "ipsī" ],
+                    "c": [ "ipsum", "ipsam", "ipsum" ],
+                    "a": [ "ipsō", "ipsā", "ipsō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "ipsī", "ipsae", "ipsa" ],
+                    "g": [ "ipsōrum", "ipsārum", "ipsōrum" ],
+                    "d": [ "ipsīs", "ipsīs", "ipsīs" ],
+                    "c": [ "ipsōs", "ipsās", "ipsa" ],
+                    "a": [ "ipsīs", "ipsīs", "ipsīs" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "quis",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "quis", "quis", "quid" ],
+                    "g": [ "cuius", "cuius", "cuius" ],
+                    "d": [ "cui", "cui", "cui" ],
+                    "c": [ "quem", "quem", "quid" ],
+                    "a": [ "quō", "quō", "quō" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "quī", "quae", "quae" ],
+                    "g": [ "quōrum", "quārum", "quōrum" ],
+                    "d": [ "quibus", "quibus", "quibus" ],
+                    "c": [ "quōs", "quās", "quae" ],
+                    "a": [ "quibus", "quibus", "quibus" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "meus",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "meus", "mea", "meum" ],
+                    "g": [ "meī", "meae", "meī" ],
+                    "d": [ "meō", "meae", "meō" ],
+                    "c": [ "meum", "meam", "meum" ],
+                    "a": [ "meō", "meā", "meō" ],
+                    "v": [ "mī, meus", "mea", "meum" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "meī", "meae", "mea" ],
+                    "g": [ "meōrum", "meārum", "meōrum" ],
+                    "d": [ "meīs", "meīs", "meīs" ],
+                    "c": [ "meōs", "meās", "mea" ],
+                    "a": [ "meīs", "meīs", "meīs" ],
+                    "v": [ "meī", "meae", "mea" ]
+                }
+            }
+        ]
+    },
+    {
+        "base": "suus",
+        "declined": [
+            {
+                "label": "Singular",
+                "declined": {
+                    "n": [ "suus", "sua", "suum" ],
+                    "g": [ "suī", "suae", "suī" ],
+                    "d": [ "suō", "suae", "suō" ],
+                    "c": [ "suum", "suam", "suum" ],
+                    "a": [ "suō", "suā", "suō" ],
+                    "v": [ "sue", "sua", "suum" ]
+                }
+            },
+            {
+                "label": "Plural",
+                "declined": {
+                    "n": [ "suī", "suae", "sua" ],
+                    "g": [ "suōrum", "suārum", "suōrum" ],
+                    "d": [ "suīs", "suīs", "suīs" ],
+                    "c": [ "suōs", "suās", "sua" ],
+                    "a": [ "suīs", "suīs", "suīs" ],
+                    "v": [ "suī", "suae", "sua" ]
+                }
+            }
+        ]
+    }
+]

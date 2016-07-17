@@ -1,0 +1,19 @@
+[
+    { "file": "adjectives.json", "name": "Adjectives" },
+    { "file": "adverbs.json", "name": "Adverbs" },
+    { "file": "prepositions.json", "name": "Prepositions" },
+    { "file": "pronouns.json", "name": "Pronouns" },
+    { "file": "n1.json", "name": "Nouns - 1st" },
+    { "file": "n2.json", "name": "Nouns - 2nd" },
+    { "file": "n3.json", "name": "Nouns - 3rd" },
+    { "file": "n4.json", "name": "Nouns - 4th" },
+    { "file": "n5.json", "name": "Nouns - 5th" },
+    { "file": "v1.json", "name": "Verbs - 1st" },
+    { "file": "v2.json", "name": "Verbs - 2nd" },
+    { "file": "v3.json", "name": "Verbs - 3rd" },
+    { "file": "v4.json", "name": "Verbs - 4th" },
+    { "file": "v5.json", "name": "Verbs - 5th" },
+    { "file": "conjunction.json", "name": "Conjunction" },
+    { "file": "idiom.json", "name": "Idiom" },
+    { "file": "other.json", "name": "Other" }
+]

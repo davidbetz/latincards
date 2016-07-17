@@ -1,0 +1,42 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 16
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+fīgō, fīgere, fīxī, fīxus : piece, fix, fasten
+crucifīgō, crucifīgere, crucifīxī, crucifīxus : fix to a cross, crucify
+flectō, flectere, flexī, flexus : to bend, bow
+genūflectō, genūflectere, genūflexī, genūflexus : bend the knee, genuflect, kneel
+frangō, frangere, frēgī, frāctus : break
+cōnfringō, cōnfringere, cōnfrēgī, cōnfrāctus : break in two, break in pieces
+fundō, fundere, fūdī, fūsus : pour
+cōnfundō, cōnfundere, cōnfūdī, cōnfūsus : confound, confuse, put to shame
+effundō, effundere, effūdī, effūsus : pour out, shed, spill
+īnfundō, īnfundere, īnfūdī, īnfūsus : pour, infuse
+refundō, refundere, refūdī, refūsus : pour back, restore, pay back
+scandō, scandere, scandī, scānsus : climb, mount
+ascendō, ascendere, ascendī, ascēnsus : go up, come up, ascend
+dēscendō, dēscendere, dēscendī, dēscendus : go down, come down, descend
+calix, calicis, m. : cup, chalice
+cāritās, cāritātis, f. : love, charity
+crux, crucis, f. : cross
+passiō, passiōnis, f. : suffering, passion
+suāvitās, suāvitātis, f. : sweetness
+Pascha, Paschatis, n. : Passover, Pesach, Pasch, Easter
+pōtus, pōtūs, m. : drink
+rītus, rītūs, m. : ceremony, rite
+spīritus, spīritūs, m. : breath, spirit
+vultus, vultūs, m. : face
+manus, manūs, f. : hand
+cōrnū, cōrnūs, n. : horn, mountaintop
+genū, genūs, n. : knee
+fēlīx, fēlīcis : happy, blessed
+memor, memoris : mindful of 
+omnipotēns, omnipotentis : all-powerful
+omnis, omne : every, all
+paschālis, paschāle : of Easter, Paschal
+salūtāris, salūtāre : saving, of salvation
+simils, simile : like, similar to
+dissimilis, dissimile : dissimilar, unlike
+ācer, ācris, ācre : sharp, bitter, ardent
+intrā : within, among
+quāpropter : wherefore, and therefore
+#end

@@ -1,0 +1,73 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 9
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+laurea, laureae, f. : laurel, victory
+certāmen, certāminis, n. : contest, contention, struggle
+tropaeum, tropaeī, n. : trophy, victory
+triumphus, triumphī, m. : triumph, victory
+nōbilis, nōbile :  noble
+quāliter : how
+immolō : sacrifice, offer
+prōtoplastus, -a, -um : first-formed
+fraus, fraudis, f. : self-deception, error
+pōmum, pōmī, n. : fruit (of any kind)
+noxiālis, noxiāle : injurious
+nex, necis, f. : death
+morsus, morsūs, m. : a bite, eating
+ruō, ruere, ruī, rutus : rush, fall, go to ruin
+notō : mark (for censure)
+multiformis, multiforme : many-shaped
+prōditor, prōditōris, m. : betrayer
+medēla, medēlae, f. : cure, remedy
+laedō, laedere, laesī, laesus : injure, do harm
+plēnitūdō, plēnitūdinis, f. : fullness
+arx, arcis, f. : stronghold, citadel, summit
+conditor, conditōris, m. : founder, creator
+virginālis, virgināle : virginal, of a virgin
+amictus, -a, -um : clothed
+vāgiō, vāgīre, vāgāvī, - : cry (said of an infant)
+arctus, -a, -um : narrow, confined
+praesēpium, praesēpiī, n. : feeding trough, manger
+alligō : bind up, bind round
+strictus, -a, -um : drawn together, tight
+cingō, cingere, cīnxī, cīnctus : gird, surround
+fascia, fasciae, f. : band, wrapping
+lustrum, lustrī, n. : period of five years
+peragō, peragere, perēgī, perāctus : complete
+spōns, spontis, f. : free will
+dēdō : dedicate, devote
+levō : raise up, lift up
+stīpes, stīpitis, f. : log, post
+fel, fellis, n. : gall
+pōtus, -a, -um : drunk
+langueō, languēre, languī, - : be faint, be weak
+spīna, spīnae, f. : thorn
+clāvus, clāvī, m. : nail
+mītis, mīte : mild, gentle
+perforō : pierce
+unda, undae, f. : wave, water
+mānō : flow, drip
+flūmen, flūminis, n. : stream, flow
+silva, silvae, f. : forest
+frōns, frondis, f. : branch
+germen, germinis, n. : bud
+ferru, ferrī, n. : iron, (nails)
+pondus, ponderis, n. : weight, burden
+rāmus, rāmī, m. : branch, bough
+laxō : loosen, relax
+viscera, viscerum, n. : entrails, insides
+rigor, rigōris, m. : stiffness
+lentēscō, lentēscere, -, - : become pliant, become soft
+victima, victimae, f. : sacrificial offering, victim
+portus, portūs, m. : haven, harbor
+arca, arcae, f. : ark, boat
+naufragus, -a, -um : shipwrecked
+perungō, perungere, perūnxī, perūnctus : smear
+sempiternus, -a, -um : perpetual, everlasting
+Trīnitās, Trīnitātis, f. : Trinity
+aequus, -a, -um : equal
+decus, decoris, n. : honor, glory
+Paraclitus, Paraclitī, n. : Paraclete, Helper, Holy Spirit
+trīnī, -ae, -a : three together
+ūniversitās, ūniversitātis, f. : the whole, the world
+# end

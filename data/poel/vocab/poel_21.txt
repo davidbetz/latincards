@@ -1,0 +1,44 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 21
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+cōnor, cōnārī, -, cōnātus sum : try, strive
+exspectō, exspectāre, exspectāvī, exspectātus : look for, wait
+lacrimor, lacrimārī, -, lacrimātus sum : weep
+laetor, laterārī, -, laetātus sum : rejoice, be glad
+collaetor, collaetāri, -, collaetātus : rejoice together
+miseror, miserārī, -, miserātus sum : bewail, pity
+sōlor, sōlārī, -, sōlātus sum : console, comfort
+consōlor, consōlārī, -, consōlātus sum : console, comfort
+cōnsōlō, cōnsōlāre, cōnsōlāvī, cōnsōlātus : console, comfort
+amplector, amplectī, - , amplexus sum : embrace
+fungor, fungī, -, fūnctus sum : perform
+nōscō, nōscere, nōvī, nōtus : get acquainted with, get to know; know
+agnōscō, agnōscere, agnōvī, agnitus : know, acknowledge, recognize 
+cognōscō, cognōscere, cognōvī, cognitus : get acquainted with, get to know; know
+praenōscō, praenōscere, praenōvī, praenōtus : know beforehand, foreknow
+gradior, gradī, -, gressus sum : walk, step
+aggredior, aggredī, -, aggressus sum : approach
+ēgredior, ēgredī, -, ēgressus sum : come out, go out
+ingredior, ingredī, -, ingressus sum : walk along, come in
+regredior, regredī, -, regressus sum : go back, return
+tangō, tangere, tetigī, tāctus : touch
+sepeliō, sepelīre, sepelīvī (sepeliī), sepultus : bury
+vestiō, vestīre, vestīvī (vestiī), vestītus : clothe
+caelicola, caelicolae, m. : heaven-dweller
+corōna, corōnae, f. : wreath, crown
+sēmita, sēmitae, f. : path
+substantia, substantiae, f. : nature, substance
+ovis, ovis, ovium, f. : sheep
+affectus, affectūs, m. : devotion, affection, sense
+cōnspectus, cōnspectūs, m. : sight, presence
+flētus, flētūs, m. : weeping
+assiduus, -a, -um : constant, unceasing
+līber, lībera, līberum : free
+senex, senis : old; old man
+neque : and not, not
+nec : and not, not
+neque ... neque : neither ... nor
+nec ... nec : neither ... not
+quattuor : four
+septem : seven
+#end

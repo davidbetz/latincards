@@ -1,0 +1,18 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 10
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+vīsītō : visit
+ūnctiō, ūnctiōnis, f. : ointment, balm
+septiformis, septiforme : sevenfold
+rīte : duly, properly
+prōmissum, prōmissī, n. : something promised, a promise
+guttur, gutteris, n. : throat
+īnfirma : weakness
+longius : at some distance
+prōtinus : immediately
+ductor, ductōris, m. : leader
+praevius, -a, -um : leading the way
+vītō : avoid
+noxius, -a, -um : harmful, injurious
+uterque, utraque, utrumque : each (of two), both
+# end

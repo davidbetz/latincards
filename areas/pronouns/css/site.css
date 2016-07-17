@@ -1,0 +1,57 @@
+.pronouns .chart {
+    display: table;
+    border-spacing: 10px;
+    margin: 0 auto;
+}
+
+.pronouns .container {
+    display: table-cell;
+}
+
+.pronouns .word-group {
+    width: 500px;
+    text-align: center;
+    font-size: 2em;
+    display: table;
+    border-spacing: 0;
+    color: #33ccff;
+    color: #2d99c1;
+}
+
+
+.pronouns .example .word-group {
+    width: 400px;
+}
+    .pronouns .word-group span:empty {
+        display: none;
+    }
+    
+    .pronouns .word-group span {
+        display: table-cell;
+        min-width: 150px;
+        border: 1px solid #eee;
+        cursor: default;
+    }
+
+    .pronouns .example .word-group span {
+        min-width: 150px;
+    }
+
+    .pronouns .word-group span.green {
+        color: #568239;
+        font-weight: bold;
+    }
+    
+    .pronouns .word-group span:hover {
+        background-color: #33ccff;
+        background-color: #2d99c1;
+        color: #ffffff;
+    }
+
+    .pronouns .word-group span.legend {
+        width: 20px;
+    }
+    
+    .pronouns .word-group span.legend:hover {
+        background-color: #fff;
+    }

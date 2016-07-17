@@ -1,0 +1,48 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 06
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+reddō, reddere, reddidī, redditus : give back, render 
+trādō, trādere, trādidī, trāditus : give over, hand down, betray 
+fugō, fugāre, fugāvī, fugātus : put to flight, chase away 
+dēleō, dēlēre, dēlēvī, dēlētus : destroy, wipe out 
+habeō, habēre, habuī, habitus : have, hold; consider 
+misceō, miscēre, miscuī, mixtus : mix, mingle 
+moneō, monēre, monuī, monitus : warn, advise, teach 
+agō, agere, ēgī, āctus : do, drive, conduct 
+grātiās agere : give thanks (to), thank (+ dat.) 
+bibō, bibere, bibī, bibitus : drink
+crēdō, crēdere, crēdidī, crēditus : believe (in), trust (in) 
+dūcō, dūcere, dūxī, ductus : lead 
+ēdūcō, ēdūcere, ēdūxī, ēductus : lead out  
+indūcō, indūcere, indūxī, inductus : lead into, bring into 
+perdūcō, perdūcere, perdūxī, perductus : lead through, bring to 
+sēdūcō, sēdūcere, sēdūxī, sēductus : deceive 
+jungō, jungere, jūnxī, jūnctus : join, unite 
+conjungō, conjungere, conjūnxī, conjūnctus : join, unite 
+capiō, capere, cēpī, captus  : take, receive, understand 
+accipiō, accipere, accēpī, acceptus  : take, get, receive 
+recipiō, recipere, recēpī, receptus  : take back, regain 
+faciō, facere, fēcī, factus : do, make 
+afficiō, afficere, affēcī, affectus : affect 
+dēficiō, dēficere, dēfēcī, dēfectus : fail, waste, vanish 
+efficiō, efficere, effēcī, effectus : make, effect 
+audiō, audīre, audīvī (audiī), audītus : hear 
+exaudiō, exaudīre, exaudīvī (exaudiī), exaudītus : hear (favorably) 
+veniō, venīre, vēnī, ventus : come 
+adveniō, advenīre, advēnī, adventus : come, arrive 
+conveniō, convenīre, convēnī, conventus : come together, be fitting 
+inveniō, invenīre, invēnī, inventus : come upon, find 
+Hebraeus, Hebraeī, m. : Hebrew 
+nātus, nātī, m. : son, child 
+domus, domī, f. : home, house 
+exemplum, exemplī, n. : example 
+templum, templī, n. : temple, church 
+Aegyptius, -am –um : Egyptian 
+Chrīstiānus, -a, -um : Christian  
+ēlēctus, -a, um : chosen, elect 
+adhūc : (adv.) so far, till now, still 
+aut : (coord. conj.) or  
+aut … aut : either … or 
+-ne : (enclitic interrog. particle) used in sentence questions 
+quārē : (interrog. adv.) for what reason, why? 
+#end

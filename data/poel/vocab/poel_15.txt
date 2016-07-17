@@ -1,0 +1,35 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 15
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+mandūcō, mandūcāre, mandūcāvī, mandūcātus : to eat
+sonō, sonāre, sonuī, sonitus : to (make a) sound
+insonō, insonāre, insonuī, - : to resound
+personō, personāre, personuī, personitus : to proclaim, resound
+ambō, ambōnis, m. : lectern, ambo
+cantor, cantōris, m. : singer, cantor
+cruor, cruōris, m. : blood (from a wound)
+lēctor, lēctōris, m. : reader, lector
+pānis, pānis, pānium, m. : bread, loaf of bread
+postis, postis, postium, m. : doorpost
+sanguis, sanguinis, m. : blood (in general)
+fīnis, fīnis, fīnium, m/f. : end, boundary; (pl.) territory, district
+particeps, participis, m/f. : partaker, sharer
+cālīgō, cālīginis, f. : mist, gloom
+inīquitās, inīquitātis, f. : wickedness
+largitās, largitātis, f. : bounty, abundance
+lēctiō, lēctiōnis, f. : reading
+mēns, mentis, mentium, f. : mind, intention
+mors, mortis, mortium, f. : death
+pars, partis, patrium, f. : part, some
+resurrēctiō, resurrēctiōnis, f. : rising again, resurrection
+salūs, salūtis, f. : safety, health, salvation
+cor, cordis, cordium, n. : heart
+mare, maris, marium, n. : sea
+aptus, -a, -um : (+ dat. or ad + acc.) fitting, suitable, apt
+hūmānus, -a, -um : human
+proximus, -a, -um : (+ dat.) nearest; (subst.) neighbor
+salvus, -a, -um : safe, saved, sound
+prae : (prep. + abl.) before, in preference to; in comparison with; in consequence of, because of
+praeter : (prep. + acc.) except; beyond, past
+satis : (indecl. noun) enough of (+ partitive gen.); (indecl. adj.) enough; (adv.) enough, sufficiently
+#end

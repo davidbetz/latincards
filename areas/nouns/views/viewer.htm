@@ -1,0 +1,12 @@
+<div class="group">
+    <h1>{{data.base}}</h1>
+
+<!--    <h1>{{data.notes[0]}}</h1>-->
+
+    <div class="chart">
+        <nouns.chart data="data.declined" />
+    </div>
+    <div class="chart example" ng-if="data.example">
+        <nouns.chart data="data.example" />
+    </div>
+</div>

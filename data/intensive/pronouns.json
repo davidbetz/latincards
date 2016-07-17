@@ -1,0 +1,305 @@
+[{
+    "word": "aliquis aliquid aliquī aliqua aliquod",
+    "type": "Pronoun",
+    "gloss": "someone, something; some, any",
+    "definition": "someone, something; some, any; si quis, si quid: anyone who, anything that",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "alius alia aliud",
+    "type": "Pronoun",
+    "gloss": "other, another",
+    "definition": "other, another",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "alter altera alterum",
+    "type": "Pronoun",
+    "gloss": "other of two",
+    "definition": "the other (of two)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ego meī mihi mē mē",
+    "type": "Pronoun",
+    "gloss": "I, me",
+    "definition": "I; me",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "hic haec hoc",
+    "type": "Pronoun",
+    "gloss": "this, these",
+    "definition": "this; these",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "īdem eadem idem",
+    "type": "Pronoun",
+    "gloss": "same",
+    "definition": "same",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ille illa illud",
+    "type": "Pronoun",
+    "gloss": "that",
+    "definition": "that; those",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ipse ipsa ipsum",
+    "type": "Pronoun",
+    "gloss": "him-, her-, itself",
+    "definition": "-self, -selves; very",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "is ea id",
+    "type": "Pronoun",
+    "gloss": "he, she it; that",
+    "definition": "this, that; these",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "iste ista istud",
+    "type": "Pronoun",
+    "gloss": "that",
+    "definition": "that (of yours); those (of yours)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "meus –a –um",
+    "type": "Pronoun",
+    "gloss": "my, mine",
+    "definition": "my, mine",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nēmō nēminis m. or f.",
+    "type": "Pronoun",
+    "gloss": "no one",
+    "definition": "no one",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "neuter neutra neutrum",
+    "type": "Pronoun",
+    "gloss": "neither",
+    "definition": "neither (of two)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nihil or nīl n.",
+    "type": "Pronoun",
+    "gloss": "nothing",
+    "definition": "nothing",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "noster nostra nostrum",
+    "type": "Pronoun",
+    "gloss": "our, ours",
+    "definition": "our, ours",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "nūllus –a –um",
+    "type": "Pronoun",
+    "gloss": "not any, no",
+    "definition": "not any, no",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "omnis omne",
+    "type": "Pronoun",
+    "gloss": "every; all",
+    "definition": "every; all",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quālis quāle",
+    "type": "Pronoun",
+    "gloss": "what sort",
+    "definition": "what sort of; of which sort, as",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quantus –a –um",
+    "type": "Pronoun",
+    "gloss": "how great",
+    "definition": "how great; how much/many; of what size/amount/degree/number/worth/price",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quī quae quod",
+    "type": "Pronoun",
+    "gloss": "who, which",
+    "definition": "some, any; what…, which...; who, which, that",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quīdam quaedam quiddam",
+    "type": "Pronoun",
+    "gloss": "a certain person/thing",
+    "definition": "a certain person, a certain thing",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quīque quaeque quodque",
+    "type": "Pronoun",
+    "gloss": "each",
+    "definition": "each, every",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quis quid",
+    "type": "Pronoun",
+    "gloss": "who/what",
+    "definition": "who, what",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quisquam quicquam",
+    "type": "Pronoun",
+    "gloss": "someone, anyone",
+    "definition": "someone, something; anyone, anything",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quisque quidque/quīcque",
+    "type": "Pronoun",
+    "gloss": "each, every",
+    "definition": "each, every; each one, every one, everything; in apposition w. pl.",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "quot",
+    "type": "Pronoun",
+    "gloss": "how many (undeclinable)",
+    "definition": "how many",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "sōlus –a –um",
+    "type": "Pronoun",
+    "gloss": "alone, only",
+    "definition": "alone, only",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "suī sibi sē",
+    "type": "Pronoun",
+    "gloss": "him-/her-/itself",
+    "definition": "him-/her-/itself",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "suus –a –um",
+    "type": "Pronoun",
+    "gloss": "his/her/its own",
+    "definition": "his (own), her (own), its (own); their (own)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tālis tāle",
+    "type": "Pronoun",
+    "gloss": "such",
+    "definition": "such, of such a sort",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tantus –a –um",
+    "type": "Pronoun",
+    "gloss": "so much",
+    "definition": "so much, so great, of such size; [tantus ... quantus => as much ... as]",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tot",
+    "type": "Pronoun",
+    "gloss": "so many",
+    "definition": "so many",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tōtus –a –um",
+    "type": "Pronoun",
+    "gloss": "whole",
+    "definition": "whole",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tū tuī",
+    "type": "Pronoun",
+    "gloss": "you",
+    "definition": "you",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "tuus –a –um",
+    "type": "Pronoun",
+    "gloss": "your",
+    "definition": "your, yours",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vester vestra vestrum",
+    "type": "Pronoun",
+    "gloss": "your",
+    "definition": "your (pl.), yours (pl.)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ūllus –a –um",
+    "type": "Pronoun",
+    "gloss": "any",
+    "definition": "any",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "uter utra utrum",
+    "type": "Pronoun",
+    "gloss": "either which (of two)",
+    "definition": "either, which (of two)",
+    "conjugation": "None",
+    "declension": "None",
+    "numbers": "None"
+}]

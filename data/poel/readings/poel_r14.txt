@@ -1,0 +1,30 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 14
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+favilla, favillae, f. : ashes (of the dead)
+tremor, tremōris, m. : trembling
+strictus, -a, -um : severe, strict
+discutiō, discutere, discussī, discussus : shatter, knock apart
+sonus, sonī, m. : sound
+stupeō, stupēre, stupuī, - : be stunned, be astonished
+lateō, latere, latuī, - : be hidden
+inultus, -a, -um : unpunished
+vix : scarcely
+sēcūrus, -a, -um : free from worry, safe
+salvō : save
+grātis : for nothing, gratis
+recordor : remember
+lassus, -a, -um : weary, exhausted
+cassus, -a, -um : useless, futile
+ultiō, ultiōnis, f. : punishing, avenging
+ingemīscō, ingemīscere, ingemuī, - : sigh, groan
+tamquam : just as
+rubeō, rubēre, -, - : be red, blush
+cremō : burn
+haedus, haedī, m. : kid, young goat
+sequestrō : remove, separate
+cōnfūtō : check, suppress
+acclīnis, acclīne : bowing
+quasi : as if
+cinis, cineris, m. : ashes
+# end

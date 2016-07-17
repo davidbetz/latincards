@@ -1,0 +1,369 @@
+[{
+    "word": "appāreō apparēre apparuī apparitūrus",
+    "type": "Verb",
+    "gloss": "appear, become visible",
+    "definition": "appear; be evident/visible/noticed/found; show up, occur; serve",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "ārdeō ārdēre ārsī ārsum",
+    "type": "Verb",
+    "gloss": "burn, glow",
+    "definition": "burn, glow",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "audeō audēre ausus sum",
+    "type": "Verb",
+    "gloss": "dare",
+    "definition": "dare",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "careō carēre caruī caritūrus",
+    "type": "Verb",
+    "gloss": "be without",
+    "definition": "lack, be without, be free from (+ abl.)",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "cōnfiteor cōnfitērī cōnfessus sum",
+    "type": "Verb",
+    "gloss": "confess",
+    "definition": "confess, admit",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dēbeō dēbēre dēbuī dēbitus",
+    "type": "Verb",
+    "gloss": "owe; ought",
+    "definition": "owe; ought",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dēleō dēlēre dēlīvī dēlētus",
+    "type": "Verb",
+    "gloss": "destroy",
+    "definition": "destroy",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "dēterreō dēterrēre dēterruī dēterritus",
+    "type": "Verb",
+    "gloss": "deter, prevent",
+    "definition": "deter, prevent",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "doceō docēre docuī doctus",
+    "type": "Verb",
+    "gloss": "teach",
+    "definition": "teach, show, point out",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "fateor fatērī fassus sum",
+    "type": "Verb",
+    "gloss": "confess, admit",
+    "definition": "confess, admit",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "faveō favēre fāvī fautūrus",
+    "type": "Verb",
+    "gloss": "favor",
+    "definition": "favor, be devoted to",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "fulgeō fulgēre fulsī",
+    "type": "Verb",
+    "gloss": "shine",
+    "definition": "shine",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "habeō habēre habuī habitus",
+    "type": "Verb",
+    "gloss": "have, hold",
+    "definition": "have, hold; consider",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "impleō implēre implēvī implētus",
+    "type": "Verb",
+    "gloss": "fill in/up",
+    "definition": "fill up, fulfill",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "iubeō iubēre iussī iussus",
+    "type": "Verb",
+    "gloss": "order",
+    "definition": "order/tell/command/direct; enjoin/command; decree/enact; request/ask/bid; pray",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "licet licēre licuit/licitum est",
+    "type": "Verb",
+    "gloss": "it is permitted",
+    "definition": "it is permitted",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "maneō manēre mānsī mānsūrus",
+    "type": "Verb",
+    "gloss": "remain",
+    "definition": "remain, stay; await; abide; wait for; continue, endure, last; spend the night (sexual)",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "misceō miscēre miscuī mixtus",
+    "type": "Verb",
+    "gloss": "mix, mingle",
+    "definition": "to mix; mingle (the object with which is in dat., or in abl. alone, or w. prep.); unite; multiply; assemble, flock together; confuse, disturb, confound, agitate; scatter",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "miseret miserēre miseruit/miseritum est",
+    "type": "Verb",
+    "gloss": "it moves to pity",
+    "definition": "it moves (one) to pity",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "misereor –ērī miseritus sum",
+    "type": "Verb",
+    "gloss": "pity",
+    "definition": "pity",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "moneō monēre monuī monitus",
+    "type": "Verb",
+    "gloss": "warn, advise",
+    "definition": "warn; remind; advise",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "moveō movēre mōvī mōtus",
+    "type": "Verb",
+    "gloss": "move",
+    "definition": "set in motion, stir (up), move",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "noceō nocēre nocuī nocitus",
+    "type": "Verb",
+    "gloss": "harm",
+    "definition": "harm, hurt; injure (+ dat.)",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "oportet oportēre oportuit",
+    "type": "Verb",
+    "gloss": "it is proper/right",
+    "definition": "it is proper, it is right",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "paenitet paenitēre paenituit",
+    "type": "Verb",
+    "gloss": "it causes to regret",
+    "definition": "it causes (one) to repent or regret",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "pāreō pārēre pāruī pāritūrus",
+    "type": "Verb",
+    "gloss": "obey",
+    "definition": "be obedient, obey (+ dat.); appear, be visible, be at hand",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "persuādeō persuādēre persuāsī persuāsus",
+    "type": "Verb",
+    "gloss": "persuade",
+    "definition": "persuade, convince (+ dat.)",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "piget pigēre piguit pigitum est",
+    "type": "Verb",
+    "gloss": "it disgusts",
+    "definition": "it disgusts (one), it irks (one)",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "placeō placēre placuī placitum",
+    "type": "Verb",
+    "gloss": "please",
+    "definition": "be pleasing, please (+ dat.)",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "polliceor pollicērī pollicitus sum",
+    "type": "Verb",
+    "gloss": "promise",
+    "definition": "promise",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "prohibeō prohibēre prohibuī prohibitus",
+    "type": "Verb",
+    "gloss": "prevent",
+    "definition": "prevent; prohibit, forbid",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "pudet pudēre puduit/puditum est",
+    "type": "Verb",
+    "gloss": "makes ashamed",
+    "definition": "it makes (one) ashamed",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "remaneō remanēre remānsī remānsus",
+    "type": "Verb",
+    "gloss": "stay behind",
+    "definition": "stay behind; continue, remain",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "removeō removēre removī remōtus",
+    "type": "Verb",
+    "gloss": "move back",
+    "definition": "move back; put away; withdraw; remove",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "respondeō respondēre respondī respōnsus",
+    "type": "Verb",
+    "gloss": "answer",
+    "definition": "answer",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "rīdeō rīdēre rīsī rīsus",
+    "type": "Verb",
+    "gloss": "laugh",
+    "definition": "laugh at (+ dat.), laugh; ridicule",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "soleō solēre solitus sum",
+    "type": "Verb",
+    "gloss": "be accustomed",
+    "definition": "be accustomed; be in the habit of; become accustomed to",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "studeō studēre studuī",
+    "type": "Verb",
+    "gloss": "be eager",
+    "definition": "desire, be eager for; busy oneself with; strive",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "sustineō sustinēre sustinuī sustentus",
+    "type": "Verb",
+    "gloss": "sustain",
+    "definition": "support; check; put off; put up with; sustain; hold back",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "taceō tacēre tacuī tacitus",
+    "type": "Verb",
+    "gloss": "be silent",
+    "definition": "be silent; pass over in silence; leave unmentioned, be silent about something",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "taedet taedēre taesum est",
+    "type": "Verb",
+    "gloss": "it makes (one) tired",
+    "definition": "it makes (one) tired or sick",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "teneō tenēre tenuī tentus",
+    "type": "Verb",
+    "gloss": "hold",
+    "definition": "hold, grasp; keep possess; occupy",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "terreō terrēre terruī territus",
+    "type": "Verb",
+    "gloss": "terrify",
+    "definition": "terrify, frigthen",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "timeō timēre timuī",
+    "type": "Verb",
+    "gloss": "fear",
+    "definition": "fear, be afraid (of)",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "vereor verērī veritus sum",
+    "type": "Verb",
+    "gloss": "fear",
+    "definition": "be in awe of, show respect to; dread, fear",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}, {
+    "word": "videō vidēre vidī vīsus",
+    "type": "Verb",
+    "gloss": "see",
+    "definition": "see; (passive) be seen, seem",
+    "conjugation": "2",
+    "declension": "None",
+    "numbers": "None"
+}]

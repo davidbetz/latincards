@@ -1,0 +1,809 @@
+[{
+    "word": "admīrātiō –ōnis f.",
+    "type": "Noun",
+    "gloss": "admiration",
+    "definition": "admiration",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "aetās aetātis f.",
+    "type": "Noun",
+    "gloss": "age",
+    "definition": "age; lifetime; time",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "amor amōris m.",
+    "type": "Noun",
+    "gloss": "love",
+    "definition": "love",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "animal animālis n.",
+    "type": "Noun",
+    "gloss": "animal",
+    "definition": "animal",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ars artis f.",
+    "type": "Noun",
+    "gloss": "skill",
+    "definition": "skill, art; guile, trick",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ās assis m.",
+    "type": "Noun",
+    "gloss": "copper coin",
+    "definition": "penny, copper coin",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "auctor auctōris m.",
+    "type": "Noun",
+    "gloss": "founder",
+    "definition": "seller, vendor; originator; historian; authority; proposer, supporter; founder",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "auctōritās auctōritātis f.",
+    "type": "Noun",
+    "gloss": "authority",
+    "definition": "authority; influence, clout",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "calamitās calamitātis f.",
+    "type": "Noun",
+    "gloss": "loss, failure",
+    "definition": "loss, damage, harm; misfortune/disaster; military defeat; blight, crop failure",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "carmen carminis n.",
+    "type": "Noun",
+    "gloss": "song, poem",
+    "definition": "a song, poem, verse, oracular response, prophecy, form of incantation, tune, air, lay, strain, note, sound",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "Carthāgō Carthāginis f.",
+    "type": "Noun",
+    "gloss": "Carthage",
+    "definition": "Carthage",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "celeritās celeritātis f.",
+    "type": "Noun",
+    "gloss": "quickness",
+    "definition": "speed, quickness, rapidity; speed of action, dispatch; haste; early date",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "cīvis cīvis m. or f.",
+    "type": "Noun",
+    "gloss": "citizen",
+    "definition": "citizen",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "cīvitās cīvitātis f.",
+    "type": "Noun",
+    "gloss": "citizenship",
+    "definition": "state, citizenry; citizenship",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "comes comitis m. or f.",
+    "type": "Noun",
+    "gloss": "companion",
+    "definition": "comrade, companion, associate, partner; soldier, devotee, follower of another",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "coniūnx coniugis f.",
+    "type": "Noun",
+    "gloss": "spouse",
+    "definition": "spouse, mate, consort; husband, wife, bride, fiancee, intended; concubine; yokemate",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "cōnsul cōnsulis m.",
+    "type": "Noun",
+    "gloss": "consul",
+    "definition": "consul",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "corpus corporis n.",
+    "type": "Noun",
+    "gloss": "body",
+    "definition": "body",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "custōs custōdis m.",
+    "type": "Noun",
+    "gloss": "guardian",
+    "definition": "guard; sentry/watch; guardian/protector/keeper; doorkeeper/watchman/janitor; jailer, warden; poll watcher; spy; garrison; container; replacement vine shoot",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "dolor dolōris m.",
+    "type": "Noun",
+    "gloss": "pain, grief",
+    "definition": "pain, anguish, grief, sorrow, suffering; resentment, indignation",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "dux ducis m. or f.",
+    "type": "Noun",
+    "gloss": "leader",
+    "definition": "leader",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "exemplar exemplāris n.",
+    "type": "Noun",
+    "gloss": "example",
+    "definition": "example",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "fīnis fīnis m.",
+    "type": "Noun",
+    "gloss": "end, boundary",
+    "definition": "boundary, end, limit, goal; (pl.) country, territory, land",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "flūmen flūminis n.",
+    "type": "Noun",
+    "gloss": "river",
+    "definition": "river, stream; any flowing fluid; flood; onrush [adverso ~ => against current]",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "foedus foederis n.",
+    "type": "Noun",
+    "gloss": "contract, treaty",
+    "definition": "treaty, agreement, contract; league; alliance",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "fōrs fōrtis f.",
+    "type": "Noun",
+    "gloss": "chance, luck",
+    "definition": "chance, luck",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "frāter frātris m.",
+    "type": "Noun",
+    "gloss": "brother",
+    "definition": "brother",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "fulgor fulgōris m.",
+    "type": "Noun",
+    "gloss": "lightning, flash, brightness",
+    "definition": "lightning, flash, brightness",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "gēns gentis f.",
+    "type": "Noun",
+    "gloss": "family, clan",
+    "definition": "nation, people; clan, family",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "genus generis n.",
+    "type": "Noun",
+    "gloss": "origin",
+    "definition": "descent, origin; race, stock; kind, sort",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "homō hominis m.",
+    "type": "Noun",
+    "gloss": "human being, man",
+    "definition": "human being, man; in pl., people",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "honor honōris m.",
+    "type": "Noun",
+    "gloss": "hono; office",
+    "definition": "honor, respect, glory; (political) office, post",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "hospes hospitis m.",
+    "type": "Noun",
+    "gloss": "guest; stranger; host",
+    "definition": "host; guest, visitor, stranger; soldier in billets; one who billets soldiers",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "hostis hostis m.",
+    "type": "Noun",
+    "gloss": "(public) enemy",
+    "definition": "(public) enemy",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ignis ignis m.",
+    "type": "Noun",
+    "gloss": "fire",
+    "definition": "fire",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "imperātor imperātōris m.",
+    "type": "Noun",
+    "gloss": "commander",
+    "definition": "commander, general",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "iter itineris n.",
+    "type": "Noun",
+    "gloss": "journey",
+    "definition": "journey; road; passage, path; march [route magnum => forced march]",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "iūdex iūdicis m.",
+    "type": "Noun",
+    "gloss": "judge; juror",
+    "definition": "judge; juror",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "Iūnō Iūnōnis f.",
+    "type": "Noun",
+    "gloss": "Juno",
+    "definition": "Juno",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "Iuppiter Iovis m.",
+    "type": "Noun",
+    "gloss": "Jupiter",
+    "definition": "Jupiter",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "iūs iūris n.",
+    "type": "Noun",
+    "gloss": "right, justice, law",
+    "definition": "law; legal system; code; right; duty; justice; court; binding decision; oath; gravy; broth; soup; sauce",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "iuvenis iuvenis m.",
+    "type": "Noun",
+    "gloss": "youth",
+    "definition": "youth",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "laus laudis f.",
+    "type": "Noun",
+    "gloss": "praise, glory",
+    "definition": "praise, approval, merit; glory; renown",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "lēx lēgis f.",
+    "type": "Noun",
+    "gloss": "law",
+    "definition": "law",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "lībertās lībertātis f.",
+    "type": "Noun",
+    "gloss": "freedom",
+    "definition": "freedom",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "lītus litōris n.",
+    "type": "Noun",
+    "gloss": "sea-shore",
+    "definition": "sea-shore",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "lūmen luminis n.",
+    "type": "Noun",
+    "gloss": "light",
+    "definition": "light; lamp, torch; eye (of a person); life; day, daylight",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "lūx lūcis f.",
+    "type": "Noun",
+    "gloss": "daylight",
+    "definition": "light, daylight",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "maiōrēs maiōrum m. pl.",
+    "type": "Noun",
+    "gloss": "ancestors",
+    "definition": "ancestors",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "mare maris n.",
+    "type": "Noun",
+    "gloss": "sea",
+    "definition": "sea",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "Mārs Mārtis m.",
+    "type": "Noun",
+    "gloss": "Mars",
+    "definition": "Mars",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "māter mātris f.",
+    "type": "Noun",
+    "gloss": "mother",
+    "definition": "mother",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "mēns mentis f.",
+    "type": "Noun",
+    "gloss": "mind",
+    "definition": "mind; intention, purpose; attitude",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "mīles mīlitis m.",
+    "type": "Noun",
+    "gloss": "soldier",
+    "definition": "soldier",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "moenia moenium n. pl.",
+    "type": "Noun",
+    "gloss": "walls",
+    "definition": "(city) walls",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "mōns montis m.",
+    "type": "Noun",
+    "gloss": "mountain",
+    "definition": "mountain",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "mors mortis f.",
+    "type": "Noun",
+    "gloss": "death",
+    "definition": "death",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "mōs mōris m.",
+    "type": "Noun",
+    "gloss": "custom",
+    "definition": "custom, practice, habit; mood, manner, fashion; character (pl.), behavior, morals",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "nāvis nāvis f.",
+    "type": "Noun",
+    "gloss": "ship",
+    "definition": "ship",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "nemus nemoris n.",
+    "type": "Noun",
+    "gloss": "grove, forest",
+    "definition": "grove, forest",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "nōmen nōminis n.",
+    "type": "Noun",
+    "gloss": "name",
+    "definition": "name",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "nox noctis f.",
+    "type": "Noun",
+    "gloss": "night",
+    "definition": "night",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "nūmen nūminis n.",
+    "type": "Noun",
+    "gloss": "divine will",
+    "definition": "divine power/will, divinity, divine spirit, numen",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "nūtrīx nūtrīcis f.",
+    "type": "Noun",
+    "gloss": "nurse",
+    "definition": "nurse",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "opīniō opīniōnis f.",
+    "type": "Noun",
+    "gloss": "opinion",
+    "definition": "belief, idea, opinion; rumor",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ops opis f.",
+    "type": "Noun",
+    "gloss": "resources",
+    "definition": "power, might; help; influence; resources/wealth (pl.)",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "opus operis n.",
+    "type": "Noun",
+    "gloss": "work; need",
+    "definition": "work; need",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ōrātiō ōrātiōnis f.",
+    "type": "Noun",
+    "gloss": "oration, speech",
+    "definition": "oration, speech",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ōrātor ōrātōris m.",
+    "type": "Noun",
+    "gloss": "speaker",
+    "definition": "speaker",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "orbis orbis m.",
+    "type": "Noun",
+    "gloss": "circle, orb",
+    "definition": "circle, orb",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "ōs ōris n.",
+    "type": "Noun",
+    "gloss": "mouth, face",
+    "definition": "mouth; face",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "parēns parentis m. or f.",
+    "type": "Noun",
+    "gloss": "parent",
+    "definition": "parent, father, mother",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "pars partis f.",
+    "type": "Noun",
+    "gloss": "part",
+    "definition": "part",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "pater patris m.",
+    "type": "Noun",
+    "gloss": "father",
+    "definition": "father",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "pāx pācis f.",
+    "type": "Noun",
+    "gloss": "peace; favor",
+    "definition": "peace; favor",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "pectus pectoris n.",
+    "type": "Noun",
+    "gloss": "chest, breast; heart",
+    "definition": "chest, breast; heart",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "pēs pedis m.",
+    "type": "Noun",
+    "gloss": "foot",
+    "definition": "foot [pedem referre => to retreat]",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "plēbs plēbis f.",
+    "type": "Noun",
+    "gloss": "common people",
+    "definition": "common people, general citizens, commons/plebeians; lower class/ranks; mob/mass",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "religiō religiōnis f.",
+    "type": "Noun",
+    "gloss": "rite; scruple",
+    "definition": "supernatural constraint, taboo; obligation; sanction; worship; rite; sanctity; reverence, respect, awe, conscience, scruples; religion; order of monks/nuns",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "rēx rēgis m.",
+    "type": "Noun",
+    "gloss": "king",
+    "definition": "king",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "rūmor rūmōris m.",
+    "type": "Noun",
+    "gloss": "rumor",
+    "definition": "rumor",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "rūs rūris n.",
+    "type": "Noun",
+    "gloss": "country",
+    "definition": "country(side)",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "salūs salūtis f.",
+    "type": "Noun",
+    "gloss": "health",
+    "definition": "safety, health",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "sapiēns –ntis m.",
+    "type": "Noun",
+    "gloss": "wise",
+    "definition": "wise",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "scelus sceleris n.",
+    "type": "Noun",
+    "gloss": "crime",
+    "definition": "wicked deed, crime, sin; villainy",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "scrīptor –ōris m.",
+    "type": "Noun",
+    "gloss": "writer scribe",
+    "definition": "writer, scribe",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "senex senis",
+    "type": "Noun",
+    "gloss": "old man",
+    "definition": "old man",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "servitūs servitūtis f.",
+    "type": "Noun",
+    "gloss": "slavery",
+    "definition": "slavery",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "sīdus sīderis n.",
+    "type": "Noun",
+    "gloss": "star",
+    "definition": "star, constellation",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "sōl sōlis m.",
+    "type": "Noun",
+    "gloss": "sun",
+    "definition": "sun",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "soror sorōris f.",
+    "type": "Noun",
+    "gloss": "sister",
+    "definition": "sister",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "sors sortis f.",
+    "type": "Noun",
+    "gloss": "fate",
+    "definition": "lot, fate; oracular response",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "tempestās tempestātis f.",
+    "type": "Noun",
+    "gloss": "season",
+    "definition": "season, time, weather; storm",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "tempus temporis n.",
+    "type": "Noun",
+    "gloss": "time",
+    "definition": "time",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "timor timōris m.",
+    "type": "Noun",
+    "gloss": "fear",
+    "definition": "fear",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "vēritās vēritātis f.",
+    "type": "Noun",
+    "gloss": "truth",
+    "definition": "truth",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "vertex verticis m.",
+    "type": "Noun",
+    "gloss": "whirlpool",
+    "definition": "whirlpool, eddy",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "vigor vigōris m.",
+    "type": "Noun",
+    "gloss": "liveliness, activity, vigor",
+    "definition": "liveliness, activity, vigor",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "virtūs virtūtis f.",
+    "type": "Noun",
+    "gloss": "manliness",
+    "definition": "manliness, courage; excellence, virtue",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "vōx vōcis f.",
+    "type": "Noun",
+    "gloss": "voice",
+    "definition": "voice; word",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}, {
+    "word": "urbs urbis f.",
+    "type": "Noun",
+    "gloss": "city",
+    "definition": "city",
+    "conjugation": "None",
+    "declension": "3",
+    "numbers": "None"
+}]

@@ -1,0 +1,41 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 25
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+fleō, flēre, flēvī, flētus : weep, lament
+timeō, timēre, timuī, - : fear, be afraid (of)
+currō, currere, cucurrī, cursus : run, hasten
+occurrō, occurrere, occucurrī, occursus : run up to, meet with
+succurrō, succurrere, succucurrī, succursus : run to the aid of, aid, succor
+dēfendō, dēfendere, dēfendī, dēfēnsus : defend
+addīcō, addīcere, addīxī, addictus : adjudge, condemn
+contrādīcō, contrādīcere, contrādīxī, contrādictus : dispute, contradict
+praedīcō, praedīcere, praedīxī, praedictus : say earlier, foretell, predict
+poscō, poscere, poposcī, - : ask, beseech
+dēposcō, dēposcere, dēpoposcī, - : beseech, demand
+fugiō, fugere, fūgī, fugitus : flee (from)
+fīlia, fīliae, f. : daughter
+patria, patriae, f. : native land, country
+venia, veniae, f. : indulgence, kindness
+diabolus, diabolī, m. : devil
+dolor, dolōris, m. : sorrow, pain
+honor, honōris, m. : honor
+imperātor, imperātoris, m. : general, emperor
+effūsiō, effūsiōnis, f. : outpouring
+oblātiō, oblātiōnis, f. : offering
+ūnitās, ūnitātis, f. : unity
+necessārius, -a, -um : needful, fateful, needed
+dīves, dīvitis : rich, wealthy
+pauper, pauperis : poor, not wealthy
+sōlemnis, sōlemne : annual, solemn, customary
+avē! : hail!, hello!, goodbye!, greetings!
+circā : around
+extrā : beyond, outside
+nē : that
+perpetuō : uninterruptedly, perpetually
+salvē! : hail!, farewell!, hello!, goodbye!, greetings!
+sīve : or if
+seu : or if
+sīve ... sīve : if ... or if, whether ... or
+seu ... seu : if ... or if, whether ... or
+ut : that ... not
+#end

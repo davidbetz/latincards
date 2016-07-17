@@ -1,0 +1,33 @@
+﻿# A Primer of Ecclesiastical Latin, Reading 6
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+conditor, conditōris , m. : founder, creator
+allevō : lighten, alleviate
+fastīdium, fastīdiī, n. : pride, weariness
+nocturnus, -a, -um : nightly, by night
+viantēs, viantium, m. : travelers
+praecō, praecōnis, m. : proclaimer, herald
+jubar, jubāris, n. : radiance, light
+exictō : rouse forth, arouse from sleep
+polus, polī, m. : sky
+errō, errōnis, m. : vagabond
+cohors : band
+dēserō, dēserere, dēseruī, dēsertus : desert, leave
+vīs, -, (pl) vīrēs, vīrium, f. : force, power, (pl) strength
+pontus, pontī, n. : the deep sea
+mītēscō, mītēscere, -, - : become mild
+fretum, fretī, n. : channel; raging, swelling
+petra, petrae, f. : rock
+dīluō, dīluere, dīluī, dīlūtus : wash away
+strēnuē : briskly, promptly
+gallus, gallī, m. : cock
+somnolentus, -a, -um : given to sleep, sleepy
+increpō : chide, rebuke
+arguō, arguere, arguī, argūtus : put in a clear light, convict, expose
+aeger, aegra, aegrum : sick
+mūcrō, mūcrōnis, m. : sword-point, sword
+lātrō, lātrōnis, m. : brigand, bandit
+labō : totter, waver
+lābēs, lābis, lābium, f. : a falling in, failing, disgrace
+discutiō, discutere, discussī, discussus : shatter, scatter
+# end

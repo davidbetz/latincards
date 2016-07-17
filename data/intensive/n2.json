@@ -1,0 +1,497 @@
+[{
+    "word": "ager agrī m.",
+    "type": "Noun",
+    "gloss": "field",
+    "definition": "field",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "animus animī m.",
+    "type": "Noun",
+    "gloss": "spirit, mind",
+    "definition": "(rational) soul, mind; spirit; pl., strong feelings",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "annus annī m.",
+    "type": "Noun",
+    "gloss": "year",
+    "definition": "year",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "arma armōrum n.",
+    "type": "Noun",
+    "gloss": "arms, weapons",
+    "definition": "arms, weapons",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "aurum aurī n.",
+    "type": "Noun",
+    "gloss": "gold",
+    "definition": "gold",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "auxilium auxilī n.",
+    "type": "Noun",
+    "gloss": "aid, help",
+    "definition": "aid, help; pl. auxiliary troops",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "bellum bellī n.",
+    "type": "Noun",
+    "gloss": "war",
+    "definition": "war",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "caelum caelī n.",
+    "type": "Noun",
+    "gloss": "sky, heaven",
+    "definition": "sky, heaven",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "campus campī m.",
+    "type": "Noun",
+    "gloss": "plain",
+    "definition": "(flat) plain",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "cibus cibī m.",
+    "type": "Noun",
+    "gloss": "food",
+    "definition": "food",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "cōnsilium cōnsiliī n.",
+    "type": "Noun",
+    "gloss": "plan; council",
+    "definition": "deliberation; plan, advice; judgment",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "deus deī m.",
+    "type": "Noun",
+    "gloss": "god",
+    "definition": "god",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "dominus dominī m.",
+    "type": "Noun",
+    "gloss": "master",
+    "definition": "master, lord",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "dōnum dōnī n.",
+    "type": "Noun",
+    "gloss": "gift",
+    "definition": "gift",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "dubium dubiī n.",
+    "type": "Noun",
+    "gloss": "doubt, hesitation",
+    "definition": "doubt, hesitation",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "exemplum exemplī n.",
+    "type": "Noun",
+    "gloss": "sample, example",
+    "definition": "example, sample, specimen; instance; precedent, case; warning, deterrent; pattern, model; parallel, analogy; archetype; copy/reproduction, transcription",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "factum factī n.",
+    "type": "Noun",
+    "gloss": "deed",
+    "definition": "deed",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "ferrum ferrī n.",
+    "type": "Noun",
+    "gloss": "iron",
+    "definition": "iron; sword",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "fīlius fīliī m.",
+    "type": "Noun",
+    "gloss": "son",
+    "definition": "son",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "forum forī n.",
+    "type": "Noun",
+    "gloss": "forum",
+    "definition": "public square, marketplace, forum",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "fore = futūrum esse forem forēs foret forent = essem essēs esset essent",
+    "type": "Noun",
+    "gloss": "be, exist",
+    "definition": "be, exist",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "gaudium gaudi(ī) n.",
+    "type": "Noun",
+    "gloss": "joy",
+    "definition": "delight, joy, pleasure",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "gladius gladiī m.",
+    "type": "Noun",
+    "gloss": "sword",
+    "definition": "sword",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "imperium imperiī n.",
+    "type": "Noun",
+    "gloss": "command, power",
+    "definition": "power, authority, command; empire",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "ingenium ingeniī n.",
+    "type": "Noun",
+    "gloss": "disposition, ability",
+    "definition": "ability, talent; disposition",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "iūdicium iūdici(ī) n.",
+    "type": "Noun",
+    "gloss": "decision; trial",
+    "definition": "trial, legal action/process; court/tribunal; courts; administration of justice; judgment/sentence/verdict; judging; jurisdiction/authority; opinion/belief",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "iūssum iūssī n.",
+    "type": "Noun",
+    "gloss": "command, order",
+    "definition": "command, order",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "lēgātus lēgātī m.",
+    "type": "Noun",
+    "gloss": "lieutenant, envoy",
+    "definition": "legate, envoy; lieutenant",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "liber librī m.",
+    "type": "Noun",
+    "gloss": "book",
+    "definition": "book",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "locus locī m. or loca locārum n. pl.",
+    "type": "Noun",
+    "gloss": "place, region",
+    "definition": "place, region, part",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "magister magistrī m.",
+    "type": "Noun",
+    "gloss": "master, chief",
+    "definition": "master, chief",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "Marcus Marcī m.",
+    "type": "Noun",
+    "gloss": "Marcus",
+    "definition": "Marcus",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "modus modī m.",
+    "type": "Noun",
+    "gloss": "measure; manner",
+    "definition": "measure; limit; rhythm, meter; manner, way",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "nātus nātī m.",
+    "type": "Noun",
+    "gloss": "son",
+    "definition": "son",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "nihilum/nīlum nihilī/nīlī n.",
+    "type": "Noun",
+    "gloss": "nothing",
+    "definition": "nothing; nothingness, which does not exist; something valueless; no respect",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "numerus numerī m.",
+    "type": "Noun",
+    "gloss": "coin, money",
+    "definition": "coin, money",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "nūntius nūnti(ī) m.",
+    "type": "Noun",
+    "gloss": "messenger; news",
+    "definition": "messenger/herald/envoy; message (oral), warning; report; messenger's speech",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "oculus oculī m.",
+    "type": "Noun",
+    "gloss": "eye",
+    "definition": "eye",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "odium odiī n.",
+    "type": "Noun",
+    "gloss": "hatred",
+    "definition": "hatred",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "oppidum oppidī n.",
+    "type": "Noun",
+    "gloss": "town",
+    "definition": "town",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "perīculum perīculī n.",
+    "type": "Noun",
+    "gloss": "danger",
+    "definition": "danger",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "populus populī m.",
+    "type": "Noun",
+    "gloss": "people",
+    "definition": "(the) people; populace",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "praemium praemi(i) n.",
+    "type": "Noun",
+    "gloss": "reward",
+    "definition": "prize, reward; gift; recompense",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "pretium pretiī n.",
+    "type": "Noun",
+    "gloss": "price, value",
+    "definition": "price, value",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "profugus –ī m.",
+    "type": "Noun",
+    "gloss": "fugitive, exile",
+    "definition": "fugitive, exile",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "puer puerī m.",
+    "type": "Noun",
+    "gloss": "boy",
+    "definition": "boy",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "radius radi(ī) m.",
+    "type": "Noun",
+    "gloss": "ray; beam",
+    "definition": "spoke of a wheel, stick",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "rēgnum rēgnī n.",
+    "type": "Noun",
+    "gloss": "royal power",
+    "definition": "royal power; power; control; kingdom",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "saxum saxī n.",
+    "type": "Noun",
+    "gloss": "stone",
+    "definition": "stone",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "servus servī m.",
+    "type": "Noun",
+    "gloss": "slave",
+    "definition": "slave",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "signum signī n.",
+    "type": "Noun",
+    "gloss": "sign",
+    "definition": "sign, signal; standard",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "socius –iī m.",
+    "type": "Noun",
+    "gloss": "an associate",
+    "definition": "an associate, ally; companion, friend, comrade",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "somnus somnī m.",
+    "type": "Noun",
+    "gloss": "sleep",
+    "definition": "sleep",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "studium studiī n.",
+    "type": "Noun",
+    "gloss": "eagerness",
+    "definition": "zeal, enthusiasm; pursuit, study",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "superī –ōrum m.",
+    "type": "Noun",
+    "gloss": "those above, i.e. the gods",
+    "definition": "those above, i.e. the gods",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "tēctum –ī n.",
+    "type": "Noun",
+    "gloss": "roof",
+    "definition": "roof; building, house",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "templum templī n.",
+    "type": "Noun",
+    "gloss": "temple",
+    "definition": "temple",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "tergum tergī n. and tergus –oris n.",
+    "type": "Noun",
+    "gloss": "the back of men or animals",
+    "definition": "the back of men or animals; the stern of a ship; skin, hide; gauntlet, hide; form, frame, body; carcass, body; length, long body; a layer, plate; pl., terga, orum, members, frame",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "vēlum vēlī n.",
+    "type": "Noun",
+    "gloss": "sail",
+    "definition": "sail",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "ventus ventī m.",
+    "type": "Noun",
+    "gloss": "wind",
+    "definition": "wind",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "verbum verbī n.",
+    "type": "Noun",
+    "gloss": "word",
+    "definition": "word",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}, {
+    "word": "vir virī m.",
+    "type": "Noun",
+    "gloss": "man",
+    "definition": "man; husband",
+    "conjugation": "None",
+    "declension": "2",
+    "numbers": "None"
+}]

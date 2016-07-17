@@ -1,0 +1,39 @@
+﻿# A Primer of Ecclesiastical Latin, Unit 05
+# by John F. Collins, Catholic University of America Press, ISBN 0813206677
+# Version 1.0 by Paul Denisowski (paul@denisowski.org)
+ambulō, ambulāre, ambulāvī, ambulātus : walk, take a walk; 'live'
+cantō, cantāre, cantāvī, cantātus : sing, chant 
+dō, dāre, dedī, datus : give
+dōnō, dōnāre, dōnāvī, dōnātus : give, grant; forgive 
+laudō, laudāre, laudāvī, laudātus : praise 
+collaudō, collaudāre, collaudāvī, collaudātus : praise exceedingly, praise together 
+līberō, līberāre, līberāvī, līberātus : free 
+operō, operāre, operāvī, operātus : work 
+ōrō, ōrāre, ōrāvī, ōrātus : pray 
+adōrō, adōrāre, adōrāvī, adōrātus : worship, adore 
+exōrō, exōrāre, exōrāvī, exōrātus : beseech 
+rēgnō, rēgnāre, rēgnāvī, rēgnātus : rule, reign 
+sacrō, sacrāre, sacrāvī, sacrātus : make holy, consecrate 
+cōnsecrō, cōnsecrāre, cōnsecrāvī, cōnsecrātus : make holy, consecrate 
+servō, servāre, servāvī, servātus : keep, preserve 
+cōnservō, cōnservāre, cōnservāvī, cōnservātus : keep, preserve 
+observō, observāre, observāvī, observātus : watch, observe 
+vocō, vocāre, vocāvī, vocātus : call, invite 
+ēvocō, ēvocāre, ēvocāvī, ēvocātus : call forth 
+invocō, invocāre, invocāvī, invocātus : call upon, invoke 
+stēlla, stēllae, f. : star 
+via, viae, f. : way, road, street 
+famulus, famulī, m. : servant 
+documentum, documentī, n. : example 
+prīncipium, prīncipiī, n. : beginning 
+benedictus, -a, -um : blessed, blesst 
+dīvīnus, -a, -um : divine 
+jūstus, -a, -um : righteous, just 
+sānctus, -a, -um : hallowed, holy; (subst.) saint 
+enim : (postpos. coord. conj.) for; indeed 
+meritō : (adv.) rightly, deservedly 
+numquam : (adv.) never 
+nunc : (adv.) now 
+quoque : (intensifying adv.) too, also 
+semper : (adv.) always 
+#end
